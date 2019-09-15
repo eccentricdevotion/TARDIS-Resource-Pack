@@ -1,0 +1,40 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/filled_map",
+        "layer1": "item/filled_map_markings"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data":10001963}, "model": "item/circuit/stattenheim"},
+      {"predicate": {"custom_model_data":10001964}, "model": "item/circuit/materialisation"},
+      {"predicate": {"custom_model_data":20001964}, "model": "item/circuit/materialisation_damaged"},
+      {"predicate": {"custom_model_data":10001965}, "model": "item/circuit/locator"},
+      {"predicate": {"custom_model_data":10001966}, "model": "item/circuit/chameleon"},
+      {"predicate": {"custom_model_data":20001966}, "model": "item/circuit/chameleon_damaged"},
+      {"predicate": {"custom_model_data":10001967}, "model": "item/circuit/sonic"},
+      {"predicate": {"custom_model_data":10001968}, "model": "item/circuit/admin"},
+      {"predicate": {"custom_model_data":10001969}, "model": "item/circuit/bio"},
+      {"predicate": {"custom_model_data":10001970}, "model": "item/circuit/redstone"},
+      {"predicate": {"custom_model_data":10001971}, "model": "item/circuit/diamond"},
+      {"predicate": {"custom_model_data":10001972}, "model": "item/circuit/emerald"},
+      {"predicate": {"custom_model_data":10001973}, "model": "item/circuit/ars"},
+      {"predicate": {"custom_model_data":20001973}, "model": "item/circuit/ars_damaged"},
+      {"predicate": {"custom_model_data":10001974}, "model": "item/circuit/temporal"},
+      {"predicate": {"custom_model_data":20001974}, "model": "item/circuit/temporal_damaged"},
+      {"predicate": {"custom_model_data":10001975}, "model": "item/circuit/memory"},
+      {"predicate": {"custom_model_data":20001975}, "model": "item/circuit/memory_damaged"},
+      {"predicate": {"custom_model_data":10001976}, "model": "item/circuit/input"},
+      {"predicate": {"custom_model_data":20001976}, "model": "item/circuit/input_damaged"},
+      {"predicate": {"custom_model_data":10001977}, "model": "item/circuit/scanner"},
+      {"predicate": {"custom_model_data":20001977}, "model": "item/circuit/scanner_damaged"},
+      {"predicate": {"custom_model_data":10001978}, "model": "item/circuit/perception"},
+      {"predicate": {"custom_model_data":10001979}, "model": "item/circuit/painter"},
+      {"predicate": {"custom_model_data":10001980}, "model": "item/circuit/random"},
+      {"predicate": {"custom_model_data":20001980}, "model": "item/circuit/random_damaged"},
+      {"predicate": {"custom_model_data":10001981}, "model": "item/circuit/invisibility"},
+      {"predicate": {"custom_model_data":20001981}, "model": "item/circuit/invisibility_damaged"},
+      {"predicate": {"custom_model_data":10001982}, "model": "item/circuit/ignite"},
+      {"predicate": {"custom_model_data":10001983}, "model": "item/circuit/rift"},
+      {"predicate": {"custom_model_data":10001984}, "model": "item/circuit/pickup"}
+  	]
+}

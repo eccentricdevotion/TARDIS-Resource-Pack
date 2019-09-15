@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/monster/dalek/brass/front",
+		"1": "item/monster/dalek/brass/left",
+		"2": "item/monster/dalek/brass/right",
+		"3": "item/monster/dalek/brass/top",
+		"4": "item/monster/dalek/brass/bottom",
+		"5": "item/monster/dalek/brass/back",
+		"6": "block/handles/handles_bottom",
+		"7": "item/monster/dalek/brass/light",
+		"8": "item/monster/dalek/green/mid_back",
+		"9": "item/monster/dalek/green/mid_bottom",
+		"10": "item/monster/dalek/green/mid_front",
+		"11": "item/monster/dalek/green/mid_left",
+		"12": "item/monster/dalek/green/mid_right",
+		"13": "item/monster/dalek/green/mid_top",
+		"14": "item/monster/dalek/green/lower_back",
+		"15": "item/monster/dalek/brass/lower_bottom",
+		"16": "item/monster/dalek/green/lower_front",
+		"17": "item/monster/dalek/green/lower_left",
+		"18": "item/monster/dalek/green/lower_right",
+		"19": "item/monster/dalek/green/lower_top",
+		"particle": "item/monster/dalek/green/lower_front"
+	},
+	"parent": "item/monster/dalek"
+}

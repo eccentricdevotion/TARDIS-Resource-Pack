@@ -1,0 +1,7 @@
+{
+	"parent": "item/bowtie/bowtie",
+	"textures": {
+		"0": "block/purple_wool",
+		"particle": "block/purple_wool"
+	}
+}

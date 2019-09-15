@@ -1,0 +1,6 @@
+{
+    "parent": "block/stone_button_inventory",
+    "overrides": [
+        {"predicate": {"custom_model_data":10000001}, "model": "item/monster/weeping_angel_head"}
+    ]
+}

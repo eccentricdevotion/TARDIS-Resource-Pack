@@ -1,0 +1,7 @@
+{
+	"parent": "item/products/glow_sticks/glow_stick",
+	"textures": {
+		"0": "item/glow_sticks/orange_plastic",
+		"particle": "item/glow_sticks/orange_plastic"
+	}
+}

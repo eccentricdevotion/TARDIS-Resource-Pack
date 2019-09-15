@@ -1,0 +1,7 @@
+{
+    "parent": "block/emerald_block",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "block/seed/eleventh"}
+	]
+}
+}

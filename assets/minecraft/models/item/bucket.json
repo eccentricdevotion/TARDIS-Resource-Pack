@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bucket"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data":1}, "model": "item/gui/bucket/delete"},
+      {"predicate": {"custom_model_data":2}, "model": "item/gui/bucket/deactivate"},
+      {"predicate": {"custom_model_data":10000001}, "model": "item/tardis/artron_battery"},
+      {"predicate": {"custom_model_data":10000002}, "model": "item/tardis/blaster_battery"}
+    ]
+}

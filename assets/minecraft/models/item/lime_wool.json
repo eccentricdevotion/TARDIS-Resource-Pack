@@ -1,0 +1,6 @@
+{
+    "parent": "block/lime_wool",
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/gui/map/scroll_right"}
+	]
+}

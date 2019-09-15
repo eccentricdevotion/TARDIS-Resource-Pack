@@ -1,0 +1,6 @@
+{
+    "parent": "block/cyan_glazed_terracotta",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "block/seed/legacy_eleventh"}
+	]
+}

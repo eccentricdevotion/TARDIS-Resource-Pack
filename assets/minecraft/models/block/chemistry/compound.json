@@ -1,0 +1,8 @@
+{
+	"parent": "block/chemistry/chemistry",
+	"textures": {
+		"0": "block/chemistry/compound_block_end",
+		"1": "block/chemistry/compound_block_side",
+		"particle": "block/chemistry/compound_block_end"
+	}
+}

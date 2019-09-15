@@ -1,0 +1,8 @@
+{
+	"parent": "item/gui/gui_item",
+	"textures": {
+		"0": "block/stone",
+		"1": "item/gui/map/scroll_left",
+		"particle": "block/stone"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "item/products/glow_sticks/glow_stick_active",
+	"textures": {
+		"0": "item/glow_sticks/brown_plastic",
+		"1": "item/glow_sticks/brown_glow",
+		"particle": "item/glow_sticks/brown_plastic"
+	}
+}

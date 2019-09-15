@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/purple_stained_glass"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data":10000014}, "model": "item/products/glow_sticks/purple_glow_stick"},
+      {"predicate": {"custom_model_data":12000014}, "model": "item/products/glow_sticks/purple_glow_stick_active"}
+    ]
+}

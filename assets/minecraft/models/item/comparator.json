@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/comparator"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/genetic/button_master_on"},
+        {"predicate": {"custom_model_data":2}, "model": "item/genetic/button_master_on"},
+        {"predicate": {"custom_model_data":3}, "model": "item/genetic/button_master_off"}
+	]
+}
+}

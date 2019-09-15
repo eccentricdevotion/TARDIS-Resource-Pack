@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/map"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/gui/bowl/load_selected_program_in_editor"},
+		{"predicate": {"custom_model_data":2}, "model": "item/gui/map/load_map"},
+		{"predicate": {"custom_model_data":3}, "model": "item/gui/map/button_tardis_map"}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "item/products/balloons/balloon",
+	"textures": {
+		"1": "item/balloons/purple",
+		"2": "item/balloons/string",
+		"particle": "item/balloons/purple"
+	}
+}

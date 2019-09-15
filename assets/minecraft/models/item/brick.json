@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/brick"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/genetic/weeping_angel"},
+        {"predicate": {"custom_model_data":10000001}, "model": "item/tardis/biome_reader"}
+	]
+}
+}

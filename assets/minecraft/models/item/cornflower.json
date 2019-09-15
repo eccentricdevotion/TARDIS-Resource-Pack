@@ -1,0 +1,24 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/cornflower"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 10000019 }, "model": "item/products/balloons/white_balloon" },
+        { "predicate": { "custom_model_data": 10000020 }, "model": "item/products/balloons/orange_balloon" },
+        { "predicate": { "custom_model_data": 10000021 }, "model": "item/products/balloons/magenta_balloon" },
+        { "predicate": { "custom_model_data": 10000022 }, "model": "item/products/balloons/light_blue_balloon" },
+        { "predicate": { "custom_model_data": 10000023 }, "model": "item/products/balloons/yellow_balloon" },
+        { "predicate": { "custom_model_data": 10000024 }, "model": "item/products/balloons/lime_balloon" },
+        { "predicate": { "custom_model_data": 10000025 }, "model": "item/products/balloons/pink_balloon" },
+        { "predicate": { "custom_model_data": 10000026 }, "model": "item/products/balloons/gray_balloon" },
+        { "predicate": { "custom_model_data": 10000027 }, "model": "item/products/balloons/light_gray_balloon" },
+        { "predicate": { "custom_model_data": 10000028 }, "model": "item/products/balloons/cyan_balloon" },
+        { "predicate": { "custom_model_data": 10000029 }, "model": "item/products/balloons/purple_balloon" },
+        { "predicate": { "custom_model_data": 10000030 }, "model": "item/products/balloons/blue_balloon" },
+        { "predicate": { "custom_model_data": 10000031 }, "model": "item/products/balloons/brown_balloon" },
+        { "predicate": { "custom_model_data": 10000032 }, "model": "item/products/balloons/green_balloon" },
+        { "predicate": { "custom_model_data": 10000033 }, "model": "item/products/balloons/red_balloon" },
+        { "predicate": { "custom_model_data": 10000034 }, "model": "item/products/balloons/black_balloon" }
+    ]
+}

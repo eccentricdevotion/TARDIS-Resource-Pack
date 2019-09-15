@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/yellow_stained_glass"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data":10000009}, "model": "item/products/glow_sticks/yellow_glow_stick"},
+      {"predicate": {"custom_model_data":12000009}, "model": "item/products/glow_sticks/yellow_glow_stick_active"}
+    ]
+}

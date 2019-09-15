@@ -1,0 +1,8 @@
+{
+	"parent": "item/circuit/damaged",
+	"textures": {
+		"0": "item/circuit/circuit_locator_damaged",
+		"1": "item/circuit/circuit_damaged_back",
+		"particle": "item/circuit/circuit_damaged_back"
+	}
+}

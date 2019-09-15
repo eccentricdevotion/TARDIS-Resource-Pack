@@ -1,0 +1,8 @@
+{
+	"parent": "item/gui/gui_item",
+	"textures": {
+		"0": "block/stone",
+		"1": "item/gui/sonic/reset",
+		"particle": "block/stone"
+	}
+}
