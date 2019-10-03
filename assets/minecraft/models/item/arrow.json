@@ -13,6 +13,8 @@
 		{"predicate": {"custom_model_data":7}, "model": "item/gui/arrow/scroll_down"},
 		{"predicate": {"custom_model_data":8}, "model": "item/gui/arrow/scroll_up"},
 		{"predicate": {"custom_model_data":9}, "model": "item/handles/handles_operator_addition"},
-		{"predicate": {"custom_model_data":10}, "model": "item/handles/handles_operator_subtraction"}
+		{"predicate": {"custom_model_data":10}, "model": "item/handles/handles_operator_subtraction"},
+		{"predicate": {"custom_model_data":11}, "model": "item/gui/page_one"},
+		{"predicate": {"custom_model_data":12}, "model": "item/gui/page_two"}
 	]
 }
