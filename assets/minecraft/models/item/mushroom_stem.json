@@ -1,5 +1,5 @@
 {
-    "parent": "block/brown_mushroom_block_inventory",
+    "parent": "block/mushroom_stem_inventory",
     "overrides": [
         {"predicate": {"custom_model_data":10000001}, "model": "item/monster/weeping_angel_head"},
         {"predicate": {"custom_model_data":10000002}, "model": "item/monster/cyberman_head"},
@@ -40,6 +40,10 @@
 		{"predicate": {"custom_model_data":10000037}, "model": "item/bowtie/bowtie_red"},
 		{"predicate": {"custom_model_data":10000038}, "model": "item/bowtie/bowtie_black"},
 		{"predicate": {"custom_model_data":10000039}, "model": "item/tardis/3d_glasses"},
-		{"predicate": {"custom_model_data":10000039}, "model": "item/handles/communicator"}
+		{"predicate": {"custom_model_data":10000040}, "model": "item/handles/communicator"},
+		{"predicate": {"custom_model_data":10000041}, "model": "block/chemistry/blue_torch"},
+		{"predicate": {"custom_model_data":10000042}, "model": "block/chemistry/green_torch"},
+		{"predicate": {"custom_model_data":10000043}, "model": "block/chemistry/purple_torch"},
+		{"predicate": {"custom_model_data":10000044}, "model": "block/chemistry/red_torch"}
     ]
 }
