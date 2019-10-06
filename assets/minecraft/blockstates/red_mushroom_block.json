@@ -19,7 +19,7 @@
 		{"when":{"down":false,"east":true,"north":true,"south":false,"up":true,"west":false},"apply":{"model":"block/mushroom/red_mushroom_block_survival_16"}},
 		{"when":{"down":true,"east":true,"north":true,"south":true,"up":true,"west":true},"apply":{"model":"block/mushroom/red_mushroom_block_survival_true"}},
 
-		{"when":{"down":false,"east":false,"north":false,"south":false,"up":true,"west":false},"apply":{"model":"block/police_box/tardis_magenta_north"}},
+		{"when":{"down":true,"east":true,"north":true,"south":true,"up":true,"west":false},"apply":{"model":"block/police_box/tardis_magenta_north"}},
 		{"when":{"down":false,"east":false,"north":true,"south":true,"up":false,"west":false},"apply":{"model":"block/police_box/tardis_light_blue_north"}},
 		{"when":{"down":false,"east":false,"north":true,"south":true,"up":false,"west":true},"apply":{"model":"block/police_box/tardis_yellow_north"}},
 		{"when":{"down":false,"east":false,"north":true,"south":true,"up":true,"west":false},"apply":{"model":"block/police_box/tardis_lime_north"}},
@@ -63,7 +63,6 @@
 		{"when":{"down":true,"east":true,"north":true,"south":false,"up":true,"west":false},"apply":{"model":"block/chemistry/reducer"}},
 		{"when":{"down":true,"east":true,"north":true,"south":false,"up":true,"west":true},"apply":{"model":"block/chemistry/constructor"}},
 		{"when":{"down":true,"east":true,"north":true,"south":true,"up":false,"west":false},"apply":{"model":"block/chemistry/lab"}},
-		{"when":{"down":true,"east":true,"north":true,"south":true,"up":false,"west":true},"apply":{"model":"block/chemistry/product"}},
-		{"when":{"down":true,"east":true,"north":true,"south":true,"up":true,"west":false},"apply":{"model":"block/mushroom/099"}}
+		{"when":{"down":true,"east":true,"north":true,"south":true,"up":false,"west":true},"apply":{"model":"block/chemistry/product"}}
 	]
 }
