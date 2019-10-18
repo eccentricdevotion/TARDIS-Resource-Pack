@@ -15,6 +15,7 @@ Here's a quick run down on doing that:
    * [GitHub for Windows](https://windows.github.com/)
 2. Start GitHub client and create a free GitHub account (if you don’t have one)
 3. In your web browser, navigate to the TARDIS resource pack repositories
+   * TARDIS-Resource-Pack (You are here)
    * [TARDIS-Sounds](https://github.com/eccentricdevotion/TARDIS-SoundResourcePack)
    * [Skaro](https://github.com/eccentricdevotion/Skaro)
    * [Gallifrey](https://github.com/eccentricdevotion/Gallifrey)
