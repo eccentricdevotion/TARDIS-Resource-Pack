@@ -12,6 +12,5 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data":1}, "model": "item/genetic/button_opts"}
-	]
-}
+    ]
 }
