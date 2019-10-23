@@ -1,7 +1,7 @@
 {
-	"parent": "item/bowtie/bowtie",
-	"textures": {
-		"0": "block/blue_wool",
-		"particle": "block/blue_wool"
-	}
+    "parent": "item/bowtie/bowtie",
+    "textures": {
+        "0": "block/blue_wool",
+        "particle": "block/blue_wool"
+    }
 }

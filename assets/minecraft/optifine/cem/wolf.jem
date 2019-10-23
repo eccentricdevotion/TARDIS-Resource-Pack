@@ -1,59 +1,59 @@
 {
-	"texture": "k9.png",
-	"textureSize": [512, 512],
-	"shadowSize": 0.5,
-	"models": [{
-		"model": "k9_body.jpm",
-		"id": "k9_body",
-		"part": "body",
-		"attach": false,
-		"scale": 1.2,
-		"rotate": [90, 0, 90],
-		"translate": [-9.5, -10, -10]
-	},
-	{
-		"model": "k9_head.jpm",
-		"id": "k9_head",
-		"part": "head",
-		"attach": false,
-		"scale": 1.2,
-		"rotate": [90, 0, 90],
-		"translate": [-8.5, -10, -7]
-	},
-	{
-		"model": "k9_none.jpm",
-		"id": "k9_leg1",
-		"part": "leg1",
-		"attach": false
-	},
-	{
-		"model": "k9_none.jpm",
-		"id": "k9_leg2",
-		"part": "leg2",
-		"attach": false
-	},
-	{
-		"model": "k9_none.jpm",
-		"id": "k9_leg3",
-		"part": "leg3",
-		"attach": false
-	},
-	{
-		"model": "k9_none.jpm",
-		"id": "k9_leg4",
-		"part": "leg4",
-		"attach": false
-	},
-	{
-		"model": "k9_none.jpm",
-		"id": "k9_tail",
-		"part": "tail",
-		"attach": false
-	},
-	{
-		"model": "k9_none.jpm",
-		"id": "k9_mane",
-		"part": "mane",
-		"attach": false
-	}]
+    "texture": "k9.png",
+    "textureSize": [512, 512],
+    "shadowSize": 0.5,
+    "models": [{
+        "model": "k9_body.jpm",
+        "id": "k9_body",
+        "part": "body",
+        "attach": false,
+        "scale": 1.2,
+        "rotate": [90, 0, 90],
+        "translate": [-9.5, -10, -10]
+    },
+    {
+        "model": "k9_head.jpm",
+        "id": "k9_head",
+        "part": "head",
+        "attach": false,
+        "scale": 1.2,
+        "rotate": [90, 0, 90],
+        "translate": [-8.5, -10, -7]
+    },
+    {
+        "model": "k9_none.jpm",
+        "id": "k9_leg1",
+        "part": "leg1",
+        "attach": false
+    },
+    {
+        "model": "k9_none.jpm",
+        "id": "k9_leg2",
+        "part": "leg2",
+        "attach": false
+    },
+    {
+        "model": "k9_none.jpm",
+        "id": "k9_leg3",
+        "part": "leg3",
+        "attach": false
+    },
+    {
+        "model": "k9_none.jpm",
+        "id": "k9_leg4",
+        "part": "leg4",
+        "attach": false
+    },
+    {
+        "model": "k9_none.jpm",
+        "id": "k9_tail",
+        "part": "tail",
+        "attach": false
+    },
+    {
+        "model": "k9_none.jpm",
+        "id": "k9_mane",
+        "part": "mane",
+        "attach": false
+    }]
 }

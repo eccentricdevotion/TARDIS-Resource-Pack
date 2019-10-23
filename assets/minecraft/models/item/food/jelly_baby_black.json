@@ -1,7 +1,7 @@
 {
-	"parent": "item/food/jelly_baby",
-	"textures": {
-		"0": "item/food/black_jelly",
-		"particle": "item/food/black_jelly"
-	}
+    "parent": "item/food/jelly_baby",
+    "textures": {
+        "0": "item/food/black_jelly",
+        "particle": "item/food/black_jelly"
+    }
 }

@@ -3,8 +3,8 @@
     "textures": {
         "layer0": "item/book"
     },
-	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/bowl/info"},
-		{"predicate": {"custom_model_data":2}, "model": "item/genetic/vashta_nerada"}
-	]
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/gui/bowl/info"},
+        {"predicate": {"custom_model_data":2}, "model": "item/genetic/vashta_nerada"}
+    ]
 }

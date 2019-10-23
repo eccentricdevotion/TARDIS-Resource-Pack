@@ -7,5 +7,5 @@
         {"predicate": {"custom_model_data":1}, "model": "item/gui/apply"},
         {"predicate": {"custom_model_data":2}, "model": "item/genetic/button_master_on"},
         {"predicate": {"custom_model_data":3}, "model": "item/genetic/button_master_off"}
-	]
+    ]
 }

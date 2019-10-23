@@ -1,6 +1,6 @@
 {
     "parent": "block/oak_planks",
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/wood"}
-	]
+        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/wood"}
+    ]
 }

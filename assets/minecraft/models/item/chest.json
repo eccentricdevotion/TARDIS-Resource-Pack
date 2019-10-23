@@ -36,6 +36,6 @@
         }
     },
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/smelter"}
-	]
+        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/smelter"}
+    ]
 }

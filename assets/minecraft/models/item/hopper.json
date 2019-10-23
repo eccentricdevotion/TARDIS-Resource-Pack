@@ -4,7 +4,7 @@
         "layer0": "item/hopper"
     },
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/rail"},
-		{"predicate": {"custom_model_data":2}, "model": "item/genetic/button_age"}
-	]
+        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/rail"},
+        {"predicate": {"custom_model_data":2}, "model": "item/genetic/button_age"}
+    ]
 }

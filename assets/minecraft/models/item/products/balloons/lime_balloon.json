@@ -1,8 +1,8 @@
 {
-	"parent": "item/products/balloons/balloon",
-	"textures": {
-		"1": "item/balloons/lime",
-		"2": "item/balloons/string",
-		"particle": "item/balloons/lime"
-	}
+    "parent": "item/products/balloons/balloon",
+    "textures": {
+        "1": "item/balloons/lime",
+        "2": "item/balloons/string",
+        "particle": "item/balloons/lime"
+    }
 }

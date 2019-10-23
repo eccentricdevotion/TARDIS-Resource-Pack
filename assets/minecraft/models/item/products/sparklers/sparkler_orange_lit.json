@@ -1,9 +1,9 @@
 {
-	"parent": "item/products/sparklers/sparkler_lit",
-	"textures": {
-		"0": "item/sparklers/sparkler_powder",
-		"1": "item/sparklers/sparkler_wire",
-		"2": "item/sparklers/sparkler_orange",
-		"particle": "item/sparklers/sparkler_orange"
-	}
+    "parent": "item/products/sparklers/sparkler_lit",
+    "textures": {
+        "0": "item/sparklers/sparkler_powder",
+        "1": "item/sparklers/sparkler_wire",
+        "2": "item/sparklers/sparkler_orange",
+        "particle": "item/sparklers/sparkler_orange"
+    }
 }

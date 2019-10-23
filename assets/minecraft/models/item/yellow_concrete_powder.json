@@ -1,6 +1,6 @@
 {
     "parent": "block/yellow_concrete_powder",
-	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "block/seed/factory"}
-	]
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "block/seed/factory"}
+    ]
 }

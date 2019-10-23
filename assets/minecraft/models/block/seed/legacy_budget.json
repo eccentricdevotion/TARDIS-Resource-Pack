@@ -1,6 +1,6 @@
 {
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "block/seed/light_gray_glazed"
-	}
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/seed/light_gray_glazed"
+    }
 }

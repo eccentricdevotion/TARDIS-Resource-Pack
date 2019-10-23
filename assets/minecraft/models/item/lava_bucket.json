@@ -4,6 +4,6 @@
         "layer0": "item/lava_bucket"
     },
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/planets/rust_bucket"}
-	]
+        {"predicate": {"custom_model_data":1}, "model": "item/planets/rust_bucket"}
+    ]
 }

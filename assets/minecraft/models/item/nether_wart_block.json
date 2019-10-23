@@ -1,7 +1,7 @@
 {
     "parent": "block/nether_wart_block",
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/stall"},
-		{"predicate": {"custom_model_data":2}, "model": "block/seed/coral"}
-	]
+        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/stall"},
+        {"predicate": {"custom_model_data":2}, "model": "block/seed/coral"}
+    ]
 }

@@ -1,6 +1,6 @@
 {
     "parent": "block/yellow_glazed_terracotta",
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/birdcage"}
-	]
+        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/birdcage"}
+    ]
 }

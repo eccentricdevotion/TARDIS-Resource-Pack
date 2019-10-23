@@ -5,5 +5,5 @@
         {"predicate": {"custom_model_data":2}, "model": "item/gui/arrow/down"},
         {"predicate": {"custom_model_data":3}, "model": "item/gui/bowl/left"},
         {"predicate": {"custom_model_data":4}, "model": "item/gui/bowl/right"}
-	]
+    ]
 }

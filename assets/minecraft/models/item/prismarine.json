@@ -1,6 +1,6 @@
 {
     "parent": "block/prismarine",
-	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "block/seed/twelfth"}
-	]
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "block/seed/twelfth"}
+    ]
 }

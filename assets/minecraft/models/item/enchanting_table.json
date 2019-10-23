@@ -1,6 +1,6 @@
 {
     "parent": "block/enchanting_table",
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/library"}
-	]
+        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/library"}
+    ]
 }

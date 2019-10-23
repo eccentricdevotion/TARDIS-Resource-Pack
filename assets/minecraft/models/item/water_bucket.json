@@ -4,6 +4,6 @@
         "layer0": "item/water_bucket"
     },
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/planets/acid_bucket"}
-	]
+        {"predicate": {"custom_model_data":1}, "model": "item/planets/acid_bucket"}
+    ]
 }

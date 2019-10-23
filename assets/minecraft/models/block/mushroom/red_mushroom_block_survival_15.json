@@ -1,9 +1,9 @@
 {
-   "textures":	{
+   "textures":    {
         "updown": "block/mushroom_block_inside",
         "side": "block/red_mushroom_block",
         "particle": "block/red_mushroom_block"
-				},
+                },
    "elements": [
         {   "from": [ 0, 0, 0 ],
             "to": [ 16, 16, 16 ],
@@ -14,7 +14,7 @@
                 "south": { "texture": "#updown", "cullface": "south" },
                 "up":  { "texture": "#updown", "cullface": "up" },
                 "west":  { "texture": "#updown", "cullface": "west" }
-					}
+                    }
         }
     ]
 }

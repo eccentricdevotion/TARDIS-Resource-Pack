@@ -5,6 +5,6 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data":10000001}, "model": "item/food/jammy_dodger"},
-		{"predicate": {"custom_model_data":10000002}, "model": "item/food/custard_cream"}
-	]
+        {"predicate": {"custom_model_data":10000002}, "model": "item/food/custard_cream"}
+    ]
 }

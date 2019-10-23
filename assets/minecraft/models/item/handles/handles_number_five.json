@@ -1,8 +1,8 @@
 {
-	"parent": "item/gui/gui_item",
-	"textures": {
-		"0": "block/stone",
-		"1": "item/handles/handles_5",
-		"particle": "block/stone"
-	}
+    "parent": "item/gui/gui_item",
+    "textures": {
+        "0": "block/stone",
+        "1": "item/handles/handles_5",
+        "particle": "block/stone"
+    }
 }

@@ -36,5 +36,5 @@
       {"predicate": {"custom_model_data":10001982}, "model": "item/circuit/ignite"},
       {"predicate": {"custom_model_data":10001983}, "model": "item/circuit/rift"},
       {"predicate": {"custom_model_data":10001984}, "model": "item/circuit/pickup"}
-  	]
+      ]
 }

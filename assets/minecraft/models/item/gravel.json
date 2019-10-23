@@ -1,6 +1,6 @@
 {
     "parent": "block/gravel",
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/mushroom"}
-	]
+        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/mushroom"}
+    ]
 }

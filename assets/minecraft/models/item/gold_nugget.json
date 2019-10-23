@@ -3,21 +3,21 @@
     "textures": {
         "layer0": "item/gold_nugget"
     },
-	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/key/brass_yale"},
-		{"predicate": {"custom_model_data":2}, "model": "item/key/brass_plain"},
-		{"predicate": {"custom_model_data":3}, "model": "item/key/spade_shaped"},
-		{"predicate": {"custom_model_data":4}, "model": "item/key/silver_yale"},
-		{"predicate": {"custom_model_data":5}, "model": "item/key/seal_of_rassilon"},
-		{"predicate": {"custom_model_data":6}, "model": "item/key/silver_variant"},
-		{"predicate": {"custom_model_data":7}, "model": "item/key/silver_plain"},
-		{"predicate": {"custom_model_data":8}, "model": "item/key/silver_new"},
-		{"predicate": {"custom_model_data":9}, "model": "item/key/silver_era"},
-		{"predicate": {"custom_model_data":10}, "model": "item/key/silver_string"},
-		{"predicate": {"custom_model_data":11}, "model": "item/key/filter"},
-		{"predicate": {"custom_model_data":12}, "model": "item/key/brass_string"},
-		{"predicate": {"custom_model_data":13}, "model": "item/key/bromley_gold"},
-		{"predicate": {"custom_model_data":14}, "model": "item/key/perception_filter"},
-		{"predicate": {"custom_model_data":15}, "model": "item/key/remote"}
-	]
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/key/brass_yale"},
+        {"predicate": {"custom_model_data":2}, "model": "item/key/brass_plain"},
+        {"predicate": {"custom_model_data":3}, "model": "item/key/spade_shaped"},
+        {"predicate": {"custom_model_data":4}, "model": "item/key/silver_yale"},
+        {"predicate": {"custom_model_data":5}, "model": "item/key/seal_of_rassilon"},
+        {"predicate": {"custom_model_data":6}, "model": "item/key/silver_variant"},
+        {"predicate": {"custom_model_data":7}, "model": "item/key/silver_plain"},
+        {"predicate": {"custom_model_data":8}, "model": "item/key/silver_new"},
+        {"predicate": {"custom_model_data":9}, "model": "item/key/silver_era"},
+        {"predicate": {"custom_model_data":10}, "model": "item/key/silver_string"},
+        {"predicate": {"custom_model_data":11}, "model": "item/key/filter"},
+        {"predicate": {"custom_model_data":12}, "model": "item/key/brass_string"},
+        {"predicate": {"custom_model_data":13}, "model": "item/key/bromley_gold"},
+        {"predicate": {"custom_model_data":14}, "model": "item/key/perception_filter"},
+        {"predicate": {"custom_model_data":15}, "model": "item/key/remote"}
+    ]
 }

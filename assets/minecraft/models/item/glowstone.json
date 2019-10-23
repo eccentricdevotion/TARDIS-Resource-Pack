@@ -1,6 +1,6 @@
 {
     "parent": "block/glowstone",
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/bedroom"}
-	]
+        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/bedroom"}
+    ]
 }
