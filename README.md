@@ -4,7 +4,11 @@ Resource pack for the TARDIS v4.2 (and higher) plugin, as well as TARDISWeepingA
 
 A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/) Spigot/Paper plugin. This pack takes advantage of the Connected textures Mod (for TARDIS blocks) and Custom Item Textures (for TARDISWeepingAngels monsters) available when using [OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953). All other items use custom model data to change TARDIS item textures, and unused mushroom block states for other TARDIS blocks.
 
-## Installation and keeping up-to-date
+## Installation
+
+Click the green __Clone or download__ button above right, then the __Download ZIP__ link, then un-zip the file to your `.minecraft/resourcepacks` folder. You must unzip the file as the ZIP file produced by GitHub does not work.
+
+## Alternate installation and keeping up-to-date
 
 As the TARDIS resource packs are shared in GitHub repositories. If you install a GitHub client, you can easily keep your resource packs current by syncing with any changes that are pushed to the repository.
 
