@@ -5,6 +5,9 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data":1}, "model": "item/genetic/weeping_angel"},
+        {"predicate": {"custom_model_data":2}, "model": "item/monster/weeping_angel_arm"},
+        {"predicate": {"custom_model_data":3}, "model": "item/monster/weeping_angel_head"},
+        {"predicate": {"custom_model_data":4}, "model": "item/monster/weeping_angel_wings"},
         {"predicate": {"custom_model_data":10000001}, "model": "item/tardis/biome_reader"}
     ]
 }

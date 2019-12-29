@@ -4,6 +4,9 @@
         "layer0": "item/painting"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/genetic/zygon"}
-    ]
+        {"predicate": {"custom_model_data":1}, "model": "item/genetic/zygon"},
+        {"predicate": {"custom_model_data":2}, "model": "item/monster/zygon_arm"},
+        {"predicate": {"custom_model_data":3}, "model": "item/monster/zygon_head"}
+	]
+}
 }

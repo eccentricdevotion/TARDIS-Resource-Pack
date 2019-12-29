@@ -1,0 +1,12 @@
+{
+	"parent": "item/monster/monster_head",
+	"textures": {
+		"0": "item/monster/empty_child/empty_child_front",
+		"1": "item/monster/empty_child/empty_child_left",
+		"2": "item/monster/empty_child/empty_child_right",
+		"3": "item/monster/empty_child/empty_child_back",
+		"4": "item/monster/empty_child/empty_child_top",
+		"5": "item/monster/empty_child/empty_child_bottom",
+		"particle": "item/monster/empty_child/empty_child_bottom"
+	}
+}

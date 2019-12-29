@@ -4,6 +4,10 @@
         "layer0": "item/potato"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/genetic/sontaran"}
-    ]
+        {"predicate": {"custom_model_data":1}, "model": "item/genetic/sontaran"},
+        {"predicate": {"custom_model_data":2}, "model": "item/monster/sontaran_arm"},
+        {"predicate": {"custom_model_data":3}, "model": "item/monster/sontaran_weapon_arm"},
+        {"predicate": {"custom_model_data":4}, "model": "item/monster/sontaran_head"}
+	]
+}
 }

@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "item/monster/wing"
+        "layer0": "item/monster/weeping_angel/wing"
     },
     "display": {
         "thirdperson_righthand": {

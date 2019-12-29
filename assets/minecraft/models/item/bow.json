@@ -47,6 +47,7 @@
             "model": "item/bow_pulling_2"
         },
         {"predicate": {"custom_model_data":1}, "model": "item/monster/dalek_bow"},
-        {"predicate": {"custom_model_data":2}, "model": "item/monster/silurian_bow"}
+        {"predicate": {"custom_model_data":2}, "model": "item/monster/silurian_bow"},
+        {"predicate": {"custom_model_data":3}, "model": "item/monster/silurian_gun_arm"}
     ]
 }
