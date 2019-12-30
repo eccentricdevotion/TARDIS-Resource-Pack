@@ -45,6 +45,10 @@
 		{"predicate": {"custom_model_data":10000042}, "model": "block/chemistry/green_torch"},
 		{"predicate": {"custom_model_data":10000043}, "model": "block/chemistry/purple_torch"},
 		{"predicate": {"custom_model_data":10000044}, "model": "block/chemistry/red_torch"},
-		{"predicate": {"custom_model_data":10000045}, "model": "block/seed/custom"}
+		{"predicate": {"custom_model_data":10000045}, "model": "block/seed/custom"},
+		{"predicate": {"custom_model_data":10000046}, "model": "block/tardis/hexagon"},
+		{"predicate": {"custom_model_data":10000047}, "model": "block/tardis/roundel"},
+		{"predicate": {"custom_model_data":10000048}, "model": "block/tardis/roundel_offset"},
+		{"predicate": {"custom_model_data":10000049}, "model": "block/tardis/cog"}
     ]
 }
