@@ -1,0 +1,8 @@
+{
+	"parent": "block/tardis/tardis_block",
+	"textures": {
+		"0": "block/tardis/hexagon_top_bottom",
+		"1": "block/tardis/hexagon",
+		"particle": "block/tardis/hexagon_top_bottom"
+	}
+}

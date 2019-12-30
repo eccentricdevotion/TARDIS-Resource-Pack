@@ -1,0 +1,8 @@
+{
+	"parent": "block/tardis/tardis_block",
+	"textures": {
+		"0": "block/tardis/roundel_top_bottom",
+		"1": "block/tardis/roundel_offset",
+		"particle": "block/tardis/roundel_top_bottom"
+	}
+}
