@@ -1,0 +1,17 @@
+{
+	"parent": "item/monster/ood_walk_right_1",
+	"textures": {
+		"0": "item/monster/ood/ood_front",
+		"1": "item/monster/ood/ood_left",
+		"2": "item/monster/ood/ood_right",
+		"3": "item/monster/ood/ood_back",
+		"4": "item/monster/ood/ood_top",
+		"5": "item/monster/ood/ood_bottom",
+		"6": "item/monster/ood/ood_tentacles",
+		"1_0": "item/monster/ood/ood_blue_chest_1",
+		"1_1": "item/monster/ood/ood_blue_chest_2",
+		"2_0": "item/monster/ood/ood_blue_leg_1",
+		"particle": "item/monster/ood/ood_blue_chest_2",
+		"2_1": "item/monster/ood/ood_blue_leg_2"
+	}
+}
