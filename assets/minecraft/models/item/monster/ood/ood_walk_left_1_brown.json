@@ -1,7 +1,7 @@
 {
-	"parent": "item/monster/ood_walk_left_2",
+	"parent": "item/monster/ood/ood_walk_left_1",
 	"textures": {
-		"0": "item/monster/ood/ood_redeye_front",
+		"0": "item/monster/ood/ood_front",
 		"1": "item/monster/ood/ood_left",
 		"2": "item/monster/ood/ood_right",
 		"3": "item/monster/ood/ood_back",

@@ -1,5 +1,5 @@
 {
-	"parent": "item/monster/ood_arm",
+	"parent": "item/monster/ood/ood_arm",
 	"textures": {
 		"0": "item/monster/ood/ood_brown_arm"
 	}

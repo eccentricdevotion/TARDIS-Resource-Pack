@@ -1,5 +1,5 @@
 {
-	"parent": "item/monster/ood_walk_left_1",
+	"parent": "item/monster/ood/ood_head",
 	"textures": {
 		"0": "item/monster/ood/ood_redeye_front",
 		"1": "item/monster/ood/ood_left",
