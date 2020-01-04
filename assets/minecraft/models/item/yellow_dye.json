@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/yellow_dye"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/genetic/judoon"},
+        {"predicate": {"custom_model_data":2}, "model": "item/monster/judoon/judoon_head"},
+        {"predicate": {"custom_model_data":3}, "model": "item/monster/judoon/judoon_arm"},
+        {"predicate": {"custom_model_data":4}, "model": "item/monster/judoon/judoon_weapon_arm_1"},
+        {"predicate": {"custom_model_data":5}, "model": "item/monster/judoon/judoon_walk_left_1"},
+        {"predicate": {"custom_model_data":6}, "model": "item/monster/judoon/judoon_walk_left_2"},
+        {"predicate": {"custom_model_data":7}, "model": "item/monster/judoon/judoon_walk_right_1"},
+        {"predicate": {"custom_model_data":8}, "model": "item/monster/judoon/judoon_walk_right_2"},
+        {"predicate": {"custom_model_data":9}, "model": "item/monster/judoon/judoon_weapon_arm_2"}
+	]
+}
