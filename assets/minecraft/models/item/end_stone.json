@@ -1,6 +1,8 @@
 {
     "parent": "block/end_stone",
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/baker"}
-    ]
+		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/baker"},
+		{"predicate": {"custom_model_data":2}, "model": "item/monster/silent"},
+		{"predicate": {"custom_model_data":3}, "model": "item/monster/silent_mouth"}
+	]
 }
