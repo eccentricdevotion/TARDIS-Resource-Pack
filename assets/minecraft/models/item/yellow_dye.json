@@ -12,6 +12,7 @@
         {"predicate": {"custom_model_data":6}, "model": "item/monster/judoon/judoon_walk_left_2"},
         {"predicate": {"custom_model_data":7}, "model": "item/monster/judoon/judoon_walk_right_1"},
         {"predicate": {"custom_model_data":8}, "model": "item/monster/judoon/judoon_walk_right_2"},
-        {"predicate": {"custom_model_data":9}, "model": "item/monster/judoon/judoon_weapon_arm_2"}
+        {"predicate": {"custom_model_data":9}, "model": "item/monster/judoon/judoon_weapon_arm_2"},
+        {"predicate": {"custom_model_data":10}, "model": "item/monster/judoon/judoon_disguise"}
 	]
 }
