@@ -14,6 +14,7 @@
 		{"predicate": {"custom_model_data":1}, "model": "item/genetic/silurian"},
 		{"predicate": {"custom_model_data":2}, "model": "item/monster/silurian_arm"},
 		{"predicate": {"custom_model_data":3}, "model": "item/monster/silurian_head"},
+		{"predicate": {"custom_model_data":4}, "model": "item/monster/silurian_disguise"},
 		{"predicate": {"custom_model_data":10000001}, "model": "item/elements/1"},
 		{"predicate": {"custom_model_data":10000002}, "model": "item/elements/2"},
 		{"predicate": {"custom_model_data":10000003}, "model": "item/elements/3"},
