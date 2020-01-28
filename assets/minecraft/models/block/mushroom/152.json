@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "block/lapisdemon/bonus/mushroomblocks/152"
+        "all": "block/mushroom/152"
     }
 }

@@ -4,6 +4,24 @@
         "layer0": "item/slime_ball"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/genetic/dalek"}
-    ]
+        {"predicate": {"custom_model_data":1}, "model": "item/genetic/dalek"},
+        {"predicate": {"custom_model_data":10000004}, "model": "item/monster/dalek_head"},
+        {"predicate": {"custom_model_data":10000005}, "model": "item/monster/dalek_brass"},
+        {"predicate": {"custom_model_data":10000006}, "model": "item/monster/dalek_white"},
+        {"predicate": {"custom_model_data":10000007}, "model": "item/monster/dalek_orange"},
+        {"predicate": {"custom_model_data":10000008}, "model": "item/monster/dalek_magenta"},
+        {"predicate": {"custom_model_data":10000009}, "model": "item/monster/dalek_light_blue"},
+        {"predicate": {"custom_model_data":10000010}, "model": "item/monster/dalek_yellow"},
+        {"predicate": {"custom_model_data":10000011}, "model": "item/monster/dalek_lime"},
+        {"predicate": {"custom_model_data":10000012}, "model": "item/monster/dalek_pink"},
+        {"predicate": {"custom_model_data":10000013}, "model": "item/monster/dalek_gray"},
+        {"predicate": {"custom_model_data":10000014}, "model": "item/monster/dalek_light_gray"},
+        {"predicate": {"custom_model_data":10000015}, "model": "item/monster/dalek_cyan"},
+        {"predicate": {"custom_model_data":10000016}, "model": "item/monster/dalek_purple"},
+        {"predicate": {"custom_model_data":10000017}, "model": "item/monster/dalek_blue"},
+        {"predicate": {"custom_model_data":10000018}, "model": "item/monster/dalek_brown"},
+        {"predicate": {"custom_model_data":10000019}, "model": "item/monster/dalek_green"},
+        {"predicate": {"custom_model_data":10000020}, "model": "item/monster/dalek_red"},
+        {"predicate": {"custom_model_data":10000021}, "model": "item/monster/dalek_black"}
+	]
 }
