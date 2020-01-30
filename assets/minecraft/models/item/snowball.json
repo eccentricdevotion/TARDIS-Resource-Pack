@@ -8,6 +8,7 @@
         {"predicate": {"custom_model_data":2}, "model": "item/monster/ice_warrior_arm"},
         {"predicate": {"custom_model_data":3}, "model": "item/monster/ice_warrior_dagger_arm"},
         {"predicate": {"custom_model_data":4}, "model": "item/monster/ice_warrior_head"},
-        {"predicate": {"custom_model_data":5}, "model": "item/monster/ice_warrior_disguise"}
+        {"predicate": {"custom_model_data":5}, "model": "item/monster/ice_warrior_disguise"},
+        {"predicate": {"custom_model_data":10000003}, "model": "item/products/ice_bomb"}
 	]
 }

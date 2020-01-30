@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bone_meal"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":10000004}, "model": "item/products/super_fertiliser"}
+    ]
+}
