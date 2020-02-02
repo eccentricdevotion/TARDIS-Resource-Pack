@@ -1,5 +1,5 @@
 {
-	"gui_light": "front",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/glow_sticks/light_gray_plastic",
 		"1": "item/chemistry/powder",
@@ -9,8 +9,8 @@
 	"elements": [
 		{
 			"name": "powder",
-			"from": [4.5, 0.5, 4.5],
-			"to": [11.5, 8.5, 11.5],
+			"from": [3.9, 0.5, 3.9],
+			"to": [10.9, 8.5, 10.9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 8, 12.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
@@ -95,6 +95,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [69, 0, 0],
@@ -121,7 +122,7 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [35, 46, 0],
+			"rotation": [35, 135, 0],
 			"translation": [0, 0.75, 0],
 			"scale": [0.8, 0.8, 0.8]
 		}
