@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/milk_bucket"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/products/antidote"},
+        {"predicate": {"custom_model_data":2}, "model": "item/products/elexir"},
+        {"predicate": {"custom_model_data":3}, "model": "item/products/eyedrops"},
+        {"predicate": {"custom_model_data":4}, "model": "item/products/tonic"}
+    ]
+}
