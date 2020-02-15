@@ -1,8 +1,7 @@
 {
-	"parent": "block/tardis/tardis_block",
+    "parent": "block/cube_column",
 	"textures": {
-		"0": "block/tardis/cog_top_bottom",
-		"1": "block/tardis/cog",
-		"particle": "block/tardis/cog_top_bottom"
+		"end": "block/tardis/cog_top_bottom",
+		"side": "block/tardis/cog"
 	}
 }
