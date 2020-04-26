@@ -5,7 +5,7 @@
 		{"when":{"down":true,"east":true,"north":true,"south":true,"up":true,"west":true},"apply":{"model":"block/mushroom/mushroom_stem_survival_true"}},
 
 		{"when":{"down":false,"east":false,"north":false,"south":false,"up":false,"west":true},"apply":{"model":"block/chemistry/heat_block"}},
-		{"when":{"down":false,"east":false,"north":false,"south":false,"up":true,"west":false},"apply":{"model":"block/mushroom/101"}},
+		{"when":{"down":false,"east":false,"north":false,"south":false,"up":true,"west":false},"apply":{"model":"block/seed/grow"}},
 		{"when":{"down":false,"east":false,"north":false,"south":false,"up":true,"west":true},"apply":{"model":"block/mushroom/102"}},
 		{"when":{"down":false,"east":false,"north":false,"south":true,"up":false,"west":false},"apply":{"model":"block/mushroom/103"}},
 		{"when":{"down":false,"east":false,"north":false,"south":true,"up":false,"west":true},"apply":{"model":"block/mushroom/104"}},
