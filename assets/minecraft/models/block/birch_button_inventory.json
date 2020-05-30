@@ -1,7 +1,0 @@
-{
-    "parent": "block/birch_button",
-    "gui_light": "front",
-    "textures": {
-        "texture": "block/handles/handles_front"
-    }
-}

@@ -1,6 +1,7 @@
 {
     "parent": "block/birch_button_inventory",
 	"overrides": [
+		{"predicate": {"custom_model_data":10000001}, "model": "item/handles/handles_off"},
 		{"predicate": {"custom_model_data":10000023}, "model": "item/bowtie/bowtie_white"},
 		{"predicate": {"custom_model_data":10000024}, "model": "item/bowtie/bowtie_orange"},
 		{"predicate": {"custom_model_data":10000025}, "model": "item/bowtie/bowtie_magenta"},
