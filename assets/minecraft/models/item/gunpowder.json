@@ -6,6 +6,7 @@
     "overrides": [
         {"predicate": {"custom_model_data":1}, "model": "item/monster/toclafane"},
         {"predicate": {"custom_model_data":2}, "model": "item/monster/toclafane_attack"},
-        {"predicate": {"custom_model_data":3}, "model": "item/genetic/toclafane"}
+        {"predicate": {"custom_model_data":3}, "model": "item/genetic/toclafane"},
+        {"predicate": {"custom_model_data":4}, "model": "item/gui/thunder"}
 	]
 }
