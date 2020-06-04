@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -1,
+            "chars": [
+                "9"
+            ]
+    ]
+}
