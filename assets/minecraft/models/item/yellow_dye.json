@@ -14,6 +14,7 @@
       {"predicate": {"custom_model_data":8}, "model": "item/monster/judoon/judoon_walk_right_2"},
       {"predicate": {"custom_model_data":9}, "model": "item/monster/judoon/judoon_weapon_arm_2"},
       {"predicate": {"custom_model_data":10}, "model": "item/monster/judoon/judoon_disguise"},
+      {"predicate": {"custom_model_data":11}, "model": "item/monster/judoon/judoon_monster_head"},
       {"predicate": {"custom_model_data":1001}, "model": "block/police_box/tardis_yellow"},
       {"predicate": {"custom_model_data":1002}, "model": "block/police_box/tardis_yellow_open"},
       {"predicate": {"custom_model_data":1003}, "model": "block/police_box/tardis_yellow_stained"},
