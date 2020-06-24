@@ -597,7 +597,7 @@
 			"scale": [0.35, 0.35, 0.35]
 		},
 		"ground": {
-			"translation": [0, 1, 0],
+            "translation": [0, 3, 0],
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"gui": {
