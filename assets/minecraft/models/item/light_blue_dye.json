@@ -11,6 +11,7 @@
       {"predicate": {"custom_model_data":10000002}, "model": "item/time_rotor/time_rotor_early"},
       {"predicate": {"custom_model_data":10000003}, "model": "item/time_rotor/time_rotor_tennant"},
       {"predicate": {"custom_model_data":10000004}, "model": "item/time_rotor/time_rotor_eleventh"},
-      {"predicate": {"custom_model_data":10000005}, "model": "item/time_rotor/time_rotor_twelfth"}
+      {"predicate": {"custom_model_data":10000005}, "model": "item/time_rotor/time_rotor_twelfth"},
+      {"predicate": {"custom_model_data":10000006}, "model": "item/time_rotor/time_rotor_delta"}
    ]
 }
