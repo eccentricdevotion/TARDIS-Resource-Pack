@@ -51,6 +51,7 @@
 		{"predicate": {"custom_model_data":45}, "model": "item/gui/repeater/minecart_on"},
 		{"predicate": {"custom_model_data":46}, "model": "item/gui/repeater/easy_diff_on"},
 		{"predicate": {"custom_model_data":47}, "model": "item/gui/repeater/font_on"},
+		{"predicate": {"custom_model_data":48}, "model": "item/gui/repeater/blueprints_on"},
 		{"predicate": {"custom_model_data":101}, "model": "item/gui/repeater/allow_off"},
 		{"predicate": {"custom_model_data":102}, "model": "item/gui/repeater/arch_off"},
 		{"predicate": {"custom_model_data":103}, "model": "item/gui/repeater/archive_off"},
@@ -97,6 +98,7 @@
 		{"predicate": {"custom_model_data":144}, "model": "item/gui/repeater/lanterns_off"},
 		{"predicate": {"custom_model_data":145}, "model": "item/gui/repeater/minecart_off"},
 		{"predicate": {"custom_model_data":146}, "model": "item/gui/repeater/easy_diff_off"},
-		{"predicate": {"custom_model_data":147}, "model": "item/gui/repeater/font_off"}
+		{"predicate": {"custom_model_data":147}, "model": "item/gui/repeater/font_off"},
+		{"predicate": {"custom_model_data":147}, "model": "item/gui/repeater/blueprints_off"}
 	]
 }
