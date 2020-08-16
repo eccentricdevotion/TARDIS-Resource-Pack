@@ -138,6 +138,8 @@
 		{"predicate": {"custom_model_data":132}, "model": "item/gui/vortex_manipulator/zero"},
 		{"predicate": {"custom_model_data":133}, "model": "item/gui/bowl/button_transmat"},
 		{"predicate": {"custom_model_data":134}, "model": "item/circuit/knockback"},
-		{"predicate": {"custom_model_data":135}, "model": "item/gui/bowl/button_sonic"}
+		{"predicate": {"custom_model_data":135}, "model": "item/gui/bowl/button_sonic"},
+		{"predicate": {"custom_model_data":136}, "model": "item/gui/bowl/wall"},
+		{"predicate": {"custom_model_data":137}, "model": "item/gui/bowl/floor"}
 	]
 }
