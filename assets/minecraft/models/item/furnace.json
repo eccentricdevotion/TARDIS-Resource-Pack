@@ -1,6 +1,7 @@
 {
     "parent": "block/furnace",
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/lazarus"}
-    ]
+		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/lazarus"},
+		{"predicate": {"custom_model_data":10000001}, "model": "item/tardis/artron_furnace"}
+	]
 }
