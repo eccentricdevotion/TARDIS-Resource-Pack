@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/warped_planks",
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "block/seed/copper"}
+  ]
+}

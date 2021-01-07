@@ -6,8 +6,8 @@
 
 		{"when":{"down":false,"east":false,"north":false,"south":false,"up":false,"west":true},"apply":{"model":"block/chemistry/heat_block"}},
 		{"when":{"down":false,"east":false,"north":false,"south":false,"up":true,"west":false},"apply":{"model":"block/seed/grow"}},
-		{"when":{"down":false,"east":false,"north":false,"south":false,"up":true,"west":true},"apply":{"model":"block/mushroom/unused"}},
-		{"when":{"down":false,"east":false,"north":false,"south":true,"up":false,"west":false},"apply":{"model":"block/mushroom/unused"}},
+		{"when":{"down":false,"east":false,"north":false,"south":false,"up":true,"west":true},"apply":{"model":"block/seed/delta"}},
+		{"when":{"down":false,"east":false,"north":false,"south":true,"up":false,"west":false},"apply":{"model":"block/seed/copper"}},
 		{"when":{"down":false,"east":false,"north":false,"south":true,"up":false,"west":true},"apply":{"model":"block/mushroom/unused"}},
 		{"when":{"down":false,"east":false,"north":false,"south":true,"up":true,"west":false},"apply":{"model":"block/mushroom/unused"}},
 		{"when":{"down":false,"east":false,"north":false,"south":true,"up":true,"west":true},"apply":{"model":"block/mushroom/unused"}},

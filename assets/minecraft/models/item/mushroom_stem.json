@@ -6,6 +6,7 @@
 		{"predicate": {"custom_model_data":10000003}, "model": "block/chemistry/purple_lamp"},
 		{"predicate": {"custom_model_data":10000004}, "model": "block/chemistry/green_lamp"},
 		{"predicate": {"custom_model_data":10000005}, "model": "block/chemistry/heat_block"},
+		{"predicate": {"custom_model_data":10000042}, "model": "block/seed/copper"},
 		{"predicate": {"custom_model_data":10000043}, "model": "block/seed/delta"},
 		{"predicate": {"custom_model_data":10000044}, "model": "block/seed/rotor"},
 		{"predicate": {"custom_model_data":10000045}, "model": "block/seed/custom"},
