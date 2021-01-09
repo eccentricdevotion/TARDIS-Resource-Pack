@@ -1,0 +1,39 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "item/food/paper_bag"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "translation": [0, 2.25, 1],
+            "scale": [0.3, 0.3, 0.3]
+        },
+        "thirdperson_lefthand": {
+            "translation": [0, 2.25, 1],
+            "scale": [0.3, 0.3, 0.3]
+        },
+        "firstperson_righthand": {
+            "rotation": [-45, 0, 0],
+            "translation": [2, 2, 0],
+            "scale": [0.3, 0.3, 0.3]
+        },
+        "firstperson_lefthand": {
+            "rotation": [-45, 0, 0],
+            "translation": [2, 2, 0],
+            "scale": [0.3, 0.3, 0.3]
+        },
+        "ground": {
+            "translation": [0, 3, 0],
+            "scale": [0.3, 0.3, 0.3]
+        },
+        "head": {
+            "rotation": [0, 90, 0],
+            "translation": [0.5, 8.75, 0],
+            "scale": [0.3, 0.3, 0.3]
+        },
+        "fixed": {
+            "rotation": [0, -88, 0],
+            "translation": [-0.75, 2.5, -1.5]
+        }
+    }
+}

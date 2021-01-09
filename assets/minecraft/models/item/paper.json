@@ -75,6 +75,7 @@
         {"predicate": {"custom_model_data":69}, "model": "item/handles/handles_variable_show"},
         {"predicate": {"custom_model_data":70}, "model": "item/handles/handles_variable_redstone"},
         {"predicate": {"custom_model_data":71}, "model": "item/handles/handles_variable_home"},
-        {"predicate": {"custom_model_data":72}, "model": "item/handles/handles_variable_recharger"}
+        {"predicate": {"custom_model_data":72}, "model": "item/handles/handles_variable_recharger"},
+		    {"predicate": {"custom_model_data":10000001}, "model": "item/food/paper_bag"}
     ]
 }
