@@ -11,7 +11,6 @@
 		{"predicate": {"custom_model_data": 10000005}, "model": "tardis:item/compounds/jar"},
 		{"predicate": {"custom_model_data": 10000006}, "model": "tardis:item/compounds/jar"},
 		{"predicate": {"custom_model_data": 10000007}, "model": "tardis:item/compounds/jar"},
-		{"predicate": {"custom_model_data": 10000007}, "model": "tardis:item/compounds/jar"},
 		{"predicate": {"custom_model_data": 10000010}, "model": "tardis:item/compounds/crude_oil"},
 		{"predicate": {"custom_model_data": 10000011}, "model": "tardis:item/compounds/glue"},
 		{"predicate": {"custom_model_data": 10000012}, "model": "tardis:item/compounds/hydrogen_peroxide"},
