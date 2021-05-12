@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "tardis:item/gui/map/you_are_here"
+	}
+}

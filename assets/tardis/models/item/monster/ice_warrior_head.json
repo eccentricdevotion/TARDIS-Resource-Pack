@@ -1,0 +1,12 @@
+{
+	"parent": "tardis:item/monster/monster_head",
+	"textures": {
+		"0": "tardis:item/monster/ice_warrior/ice_warrior_front",
+		"1": "tardis:item/monster/ice_warrior/ice_warrior_left",
+		"2": "tardis:item/monster/ice_warrior/ice_warrior_right",
+		"3": "tardis:item/monster/ice_warrior/ice_warrior_back",
+		"4": "tardis:item/monster/ice_warrior/ice_warrior_top",
+		"5": "tardis:item/monster/ice_warrior/ice_warrior_top",
+		"particle": "tardis:item/monster/ice_warrior/ice_warrior_top"
+	}
+}

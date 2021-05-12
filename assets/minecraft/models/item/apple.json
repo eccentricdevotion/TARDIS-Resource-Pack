@@ -1,9 +1,9 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/apple"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/genetic/button_restore"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/apple"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/button_restore"}
+	]
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "block/nether_bricks",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "block/seed/master"}
-    ]
+	"parent": "minecraft:block/nether_bricks",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/master"}
+	]
 }

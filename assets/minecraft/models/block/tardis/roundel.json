@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_column",
-	"textures": {
-		"end": "block/tardis/roundel_top_bottom",
-		"side": "block/tardis/roundel"
-	}
-}

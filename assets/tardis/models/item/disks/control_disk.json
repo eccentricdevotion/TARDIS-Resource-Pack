@@ -1,0 +1,11 @@
+{
+	"parent": "tardis:item/disks/disk",
+	"textures": {
+		"0": "tardis:item/disk/black_plastic",
+		"1": "tardis:item/disk/white_label",
+		"2": "tardis:item/disk/silver_metal",
+		"3": "tardis:item/disk/blacker_plastic",
+		"4": "tardis:item/disk/control_label",
+		"particle": "tardis:item/disk/black_plastic"
+	}
+}

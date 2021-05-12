@@ -1,7 +1,0 @@
-{
-    "parent": "item/food/jelly_baby",
-    "textures": {
-        "0": "item/food/green_jelly",
-        "particle": "item/food/green_jelly"
-    }
-}

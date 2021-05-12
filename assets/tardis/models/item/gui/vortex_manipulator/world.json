@@ -1,0 +1,8 @@
+{
+	"parent": "tardis:item/gui/gui_item",
+	"textures": {
+		"0": "tardis:block/stone",
+		"1": "tardis:item/gui/vortex_manipulator/world",
+		"particle": "tardis:block/stone"
+	}
+}

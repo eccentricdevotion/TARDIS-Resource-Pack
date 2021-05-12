@@ -1,0 +1,7 @@
+{
+	"parent": "tardis:item/bowtie/bowtie",
+	"textures": {
+		"0": "block/green_wool",
+		"particle": "block/green_wool"
+	}
+}

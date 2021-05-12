@@ -1,7 +1,7 @@
 {
-    "parent": "block/brown_mushroom_block_inventory",
-    "overrides": [
-        {"predicate": {"custom_model_data":10000001}, "model": "block/the_moment"},
-        {"predicate": {"custom_model_data":10000002}, "model": "block/siege_cube"}
-    ]
+	"parent": "minecraft:block/brown_mushroom_block_inventory",
+	"overrides": [
+		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:block/the_moment"},
+		{"predicate": {"custom_model_data": 10000002}, "model": "tardis:block/siege_cube"}
+	]
 }

@@ -1,16 +1,16 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/lead"
-    },
-    "display": {
-        "head": {
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ 2.75, -2.75, -6.5],
-            "scale":[ 0.8, 0.8, 0.8]
-        }
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/genetic/button_opts"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/lead"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 0, 0],
+			"translation": [2.75, -2.75, -6.5],
+			"scale":[0.8, 0.8, 0.8]
+		}
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/button_opts"}
+	]
 }

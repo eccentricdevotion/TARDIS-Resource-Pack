@@ -1,0 +1,9 @@
+{
+	"parent": "tardis:block/police_box/tardis_solid",
+	"textures": {
+		"0": "tardis:block/police_box/tardis_white",
+		"1": "tardis:block/police_box/tardis_white_windows",
+		"3": "tardis:block/police_box/tardis_white_police_box",
+		"particle": "tardis:block/police_box/tardis_white"
+	}
+}

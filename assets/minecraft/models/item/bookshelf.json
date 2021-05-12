@@ -1,6 +1,6 @@
 {
-    "parent": "block/bookshelf",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "block/seed/plank"}
-    ]
+	"parent": "minecraft:block/bookshelf",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/plank"}
+	]
 }

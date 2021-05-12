@@ -1,6 +1,6 @@
 {
-    "parent": "block/snow_block",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/pool"}
-    ]
+	"parent": "minecraft:block/snow_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/pool"}
+	]
 }

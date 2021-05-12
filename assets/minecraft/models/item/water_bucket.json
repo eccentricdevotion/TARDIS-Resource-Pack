@@ -1,10 +1,10 @@
 {
-   "parent": "minecraft:item/generated",
-   "textures": {
-      "layer0": "minecraft:item/water_bucket"
-   },
-   "overrides": [
-      {"predicate": {"custom_model_data":1}, "model": "item/planets/acid_bucket"},
-      {"predicate": {"custom_model_data":2}, "model": "item/gui/rain"}
-   ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/water_bucket"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/planets/acid_bucket"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/rain"}
+	]
 }

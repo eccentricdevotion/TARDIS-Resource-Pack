@@ -1,9 +1,9 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/nether_brick"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":10000001}, "model": "item/tardis/acid_battery"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/nether_brick"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/acid_battery"}
+	]
 }

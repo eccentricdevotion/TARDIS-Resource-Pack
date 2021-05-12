@@ -1,0 +1,7 @@
+{
+	"parent": "tardis:item/food/jelly_baby",
+	"textures": {
+		"0": "tardis:item/food/gray_jelly",
+		"particle": "tardis:item/food/gray_jelly"
+	}
+}

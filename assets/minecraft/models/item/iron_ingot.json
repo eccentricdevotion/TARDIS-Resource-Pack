@@ -1,12 +1,12 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/iron_ingot"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/genetic/cyberman"},
-        {"predicate": {"custom_model_data":2}, "model": "item/monster/cyberman_arm"},
-        {"predicate": {"custom_model_data":3}, "model": "item/monster/cyberman_head"},
-        {"predicate": {"custom_model_data":4}, "model": "item/monster/cyberman_disguise"}
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/iron_ingot"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/cyberman"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/cyberman_arm"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/cyberman_head"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/cyberman_disguise"}
 	]
 }

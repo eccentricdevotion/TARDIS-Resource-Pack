@@ -1,0 +1,12 @@
+{
+	"parent": "tardis:item/monster/monster_head",
+	"textures": {
+		"0": "tardis:item/monster/vashta_nerada/vashta_nerada_front",
+		"1": "tardis:item/monster/vashta_nerada/vashta_nerada_left",
+		"2": "tardis:item/monster/vashta_nerada/vashta_nerada_right",
+		"3": "tardis:item/monster/vashta_nerada/vashta_nerada_back",
+		"4": "tardis:item/monster/vashta_nerada/vashta_nerada_top",
+		"5": "tardis:item/monster/vashta_nerada/vashta_nerada_top",
+		"particle": "tardis:item/monster/vashta_nerada/vashta_nerada_top"
+	}
+}

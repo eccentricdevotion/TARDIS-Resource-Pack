@@ -1,6 +1,6 @@
 {
-    "parent": "block/red_glazed_terracotta",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "block/seed/legacy_redstone"}
-    ]
+	"parent": "minecraft:block/red_glazed_terracotta",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/legacy_redstone"}
+	]
 }

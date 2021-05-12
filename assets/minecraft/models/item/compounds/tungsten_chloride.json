@@ -1,9 +1,0 @@
-{
-	"parent": "item/compounds/jar",
-	"textures": {
-		"0": "item/glow_sticks/light_gray_plastic",
-		"1": "item/chemistry/powder_blue",
-		"2": "item/disk/blacker_plastic",
-		"particle": "item/glow_sticks/light_gray_plastic"
-	}
-}

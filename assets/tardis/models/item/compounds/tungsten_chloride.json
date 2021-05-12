@@ -1,0 +1,9 @@
+{
+	"parent": "tardis:item/compounds/jar",
+	"textures": {
+		"0": "tardis:item/glow_sticks/light_gray_plastic",
+		"1": "tardis:item/chemistry/powder_blue",
+		"2": "tardis:item/disk/blacker_plastic",
+		"particle": "tardis:item/glow_sticks/light_gray_plastic"
+	}
+}

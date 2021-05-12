@@ -1,6 +1,6 @@
 {
-    "parent": "block/iron_block",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "block/seed/budget"}
-    ]
+	"parent": "minecraft:block/iron_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/budget"}
+	]
 }

@@ -1,8 +1,0 @@
-{
-	"parent": "item/monster/monster_arm",
-	"textures": {
-		"0": "item/monster/silurian/silurian_arm_1",
-		"1": "item/monster/silurian/silurian_arm_2",
-		"particle": "item/monster/silurian/silurian_arm_1"
-	}
-}

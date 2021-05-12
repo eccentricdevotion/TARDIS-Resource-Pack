@@ -1,0 +1,72 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "tardis:item/monster/judoon/judoon_black",
+		"particle": "tardis:item/monster/judoon/judoon_black"
+	},
+	"elements": [
+		{
+			"from": [5.5, 0, 5.5],
+			"to": [10.5, 10, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.24869, 8.75043, 8.00088]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 10], "texture": "#0"},
+				"east": {"uv": [11, 0, 16, 10], "texture": "#0"},
+				"south": {"uv": [11, 6, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 6, 5, 16], "texture": "#0"},
+				"up": {"uv": [5.333, 0, 10.333, 5], "texture": "#0"},
+				"down": {"uv": [5, 11, 10, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 10, 5],
+			"to": [11.5, 15, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.24869, 8.75043, 8.00088]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 5], "texture": "#0"},
+				"east": {"uv": [10, 6, 16, 11], "texture": "#0"},
+				"south": {"uv": [10, 0, 16, 5], "texture": "#0"},
+				"west": {"uv": [0, 5.166, 6, 10.166], "texture": "#0"},
+				"up": {"uv": [10, 0, 16, 6], "texture": "#0"},
+				"down": {"uv": [10, 10, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 180, 0],
+			"translation": [1, -2, 6.5],
+			"scale": [-0.82, 0.82, -0.82]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [1, -2, 6.5],
+			"scale": [-0.82, 0.82, -0.82]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [0, 45, -33],
+			"translation": [0, 0.333, 0],
+			"scale": [0.96, 0.96, 0.96]
+		},
+		"head": {
+			"scale": [0.8, 0.8, 0.8]
+		}
+	},
+	"groups": [
+		{
+			"name": "monster_arm",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		}
+	]
+}

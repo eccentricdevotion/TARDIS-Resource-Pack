@@ -1,8 +1,0 @@
-{
-    "parent": "block/chemistry/chemistry",
-    "textures": {
-        "0": "block/chemistry/reducer_block_end",
-        "1": "block/chemistry/reducer_block_side",
-        "particle": "block/chemistry/reducer_block_end"
-    }
-}

@@ -1,6 +1,6 @@
 {
-    "parent": "block/redstone_block",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "block/seed/redstone"}
-    ]
+	"parent": "minecraft:block/redstone_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/redstone"}
+	]
 }

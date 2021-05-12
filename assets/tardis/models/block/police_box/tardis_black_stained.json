@@ -1,0 +1,7 @@
+{
+	"parent": "tardis:block/police_box/tardis_stained",
+	"textures": {
+		"0": "tardis:block/police_box/tardis_transparent_black",
+		"particle": "tardis:block/police_box/tardis_transparent_black"
+	}
+}

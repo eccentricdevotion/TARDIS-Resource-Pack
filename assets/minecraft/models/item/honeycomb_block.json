@@ -1,6 +1,6 @@
 {
-    "parent": "block/honeycomb_block",
+	"parent": "minecraft:block/honeycomb_block",
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "block/seed/rotor"}
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/rotor"}
 	]
 }

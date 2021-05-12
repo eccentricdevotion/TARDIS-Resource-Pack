@@ -1,6 +1,6 @@
 {
-    "parent": "block/yellow_concrete_powder",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "block/seed/factory"}
-    ]
+	"parent": "minecraft:block/yellow_concrete_powder",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/factory"}
+	]
 }

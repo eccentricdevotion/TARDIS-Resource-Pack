@@ -1,8 +1,0 @@
-{
-	"parent": "item/circuit/sonic_circuit",
-	"textures": {
-		"0": "block/handles/brown_wool",
-		"1": "item/circuit/sonic/knockback",
-		"particle": "block/handles/brown_wool"
-	}
-}

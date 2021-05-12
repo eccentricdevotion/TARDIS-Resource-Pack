@@ -1,6 +1,6 @@
 {
-    "parent": "block/red_nether_bricks",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/workshop"}
-    ]
+	"parent": "minecraft:block/red_nether_bricks",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/workshop"}
+	]
 }

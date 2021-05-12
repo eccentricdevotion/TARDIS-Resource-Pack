@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/lodestone",
-  "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/gui/room/maze"}
-  ]
+	"parent": "minecraft:block/lodestone",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/maze"}
+	]
 }
