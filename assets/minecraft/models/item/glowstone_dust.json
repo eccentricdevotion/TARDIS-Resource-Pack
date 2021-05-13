@@ -27,7 +27,7 @@
 		{"predicate": {"custom_model_data": 10001983}, "model": "tardis:item/circuit/rift"},
 		{"predicate": {"custom_model_data": 10001984}, "model": "tardis:item/circuit/pickup"},
 		{"predicate": {"custom_model_data": 10001985}, "model": "tardis:item/circuit/gallifrey"},
-		{"predicate": {"custom_model_data": 10001986}, "model": "tardis:item/circuit/knockback"}
+		{"predicate": {"custom_model_data": 10001986}, "model": "tardis:item/circuit/knockback"},
 		{"predicate": {"custom_model_data": 20001964}, "model": "tardis:item/circuit/materialisation_damaged"},
 		{"predicate": {"custom_model_data": 20001966}, "model": "tardis:item/circuit/chameleon_damaged"},
 		{"predicate": {"custom_model_data": 20001973}, "model": "tardis:item/circuit/ars_damaged"},
@@ -36,6 +36,6 @@
 		{"predicate": {"custom_model_data": 20001976}, "model": "tardis:item/circuit/input_damaged"},
 		{"predicate": {"custom_model_data": 20001977}, "model": "tardis:item/circuit/scanner_damaged"},
 		{"predicate": {"custom_model_data": 20001980}, "model": "tardis:item/circuit/random_damaged"},
-		{"predicate": {"custom_model_data": 20001981}, "model": "tardis:item/circuit/invisibility_damaged"},
+		{"predicate": {"custom_model_data": 20001981}, "model": "tardis:item/circuit/invisibility_damaged"}
 	]
 }

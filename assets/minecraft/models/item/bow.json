@@ -31,6 +31,6 @@
 		{"predicate": {"pulling": 1, "pull": 0.9}, "model": "minecraft:item/bow_pulling_2"},
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/monster/dalek_bow"},
 		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/silurian_bow"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/silurian_gun_arm"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/silurian_gun_arm"}
 	]
 }

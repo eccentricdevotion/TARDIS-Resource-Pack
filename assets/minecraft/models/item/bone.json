@@ -16,7 +16,7 @@
 		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/k9/k9_ears_2"},
 		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/k9/k9_ears_3"},
 		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/k9/k9_ears_4"},
-		{"predicate": {"custom_model_data": 6}, "model": "tardis:item/genetic/k9"}
+		{"predicate": {"custom_model_data": 6}, "model": "tardis:item/genetic/k9"},
 		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/wand"}
 	]
 }
