@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/tardis/vortex_manipulator",
-		"1": "item/tardis/vortex_leather",
+		"0": "tardis:item/tardis/vortex_manipulator",
+		"1": "tardis:item/tardis/vortex_leather",
 		"2": "tardis:item/disk/silver",
 		"3": "tardis:item/disk/silver_metal",
-		"4": "item/tardis/vortex_leather_dark",
-		"particle": "item/tardis/vortex_manipulator"
+		"4": "tardis:item/tardis/vortex_leather_dark",
+		"particle": "tardis:item/tardis/vortex_manipulator"
 	},
 	"elements": [
 		{

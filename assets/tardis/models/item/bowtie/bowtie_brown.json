@@ -1,7 +1,7 @@
 {
 	"parent": "tardis:item/bowtie/bowtie",
 	"textures": {
-		"0": "block/brown_wool",
-		"particle": "block/brown_wool"
+		"0": "minecraft:block/brown_wool",
+		"particle": "minecraft:block/brown_wool"
 	}
 }
