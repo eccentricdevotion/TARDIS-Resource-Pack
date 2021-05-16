@@ -5,8 +5,8 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/zygon"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/zygon_arm"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/zygon_head"},
-		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/zygon_disguise"}
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/zygon/zygon_arm"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/zygon/zygon_head"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/zygon/zygon_disguise"}
 	]
 }

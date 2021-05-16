@@ -4,8 +4,8 @@
 		"layer0": "minecraft:item/gunpowder"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/monster/toclafane"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/toclafane_attack"},
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/monster/toclafane/toclafane"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/toclafane/toclafane_attack"},
 		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/genetic/toclafane"},
 		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/gui/thunder"}
 	]

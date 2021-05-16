@@ -2,9 +2,9 @@
 	"parent": "minecraft:block/end_stone",
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/baker"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/silent"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/silent_mouth"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/silent/silent"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/silent/silent_mouth"},
 		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/genetic/silent"},
-		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/silent_head"}
+		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/silent/silent_head"}
 	]
 }

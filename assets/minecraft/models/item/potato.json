@@ -5,9 +5,9 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/sontaran"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/sontaran_arm"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/sontaran_weapon_arm"},
-		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/sontaran_head"},
-		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/sontaran_disguise"}
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/sontaran/sontaran_arm"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/sontaran/sontaran_weapon_arm"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/sontaran/sontaran_head"},
+		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/sontaran/sontaran_disguise"}
 	]
 }

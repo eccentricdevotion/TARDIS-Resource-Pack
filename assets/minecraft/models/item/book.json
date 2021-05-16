@@ -6,8 +6,8 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/bowl/info"},
 		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/genetic/vashta_nerada"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/vashta_nerada_arm"},
-		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/vashta_nerada_head"},
-		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/vashta_nerada_disguise"}
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/vashta_nerada/vashta_nerada_arm"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/vashta_nerada/vashta_nerada_head"},
+		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/vashta_nerada/vashta_nerada_disguise"}
 	]
 }

@@ -12,9 +12,9 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/silurian"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/silurian_arm"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/silurian_head"},
-		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/silurian_disguise"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/silurian/silurian_arm"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/silurian/silurian_head"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/silurian/silurian_disguise"},
 		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/elements/1"},
 		{"predicate": {"custom_model_data": 10000002}, "model": "tardis:item/elements/2"},
 		{"predicate": {"custom_model_data": 10000003}, "model": "tardis:item/elements/3"},
