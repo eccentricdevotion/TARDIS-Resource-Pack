@@ -1,8 +1,0 @@
-{
-	"parent": "item/circuit/sonic_circuit",
-	"textures": {
-		"0": "block/handles/magenta_wool",
-		"1": "item/circuit/sonic/bio",
-		"particle": "block/handles/magenta_wool"
-	}
-}

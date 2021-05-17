@@ -1,0 +1,12 @@
+{
+	"parent": "tardis:item/monster/monster_head",
+	"textures": {
+		"0": "tardis:item/monster/weeping_angel/weeping_angel_front",
+		"1": "tardis:item/monster/weeping_angel/weeping_angel_left",
+		"2": "tardis:item/monster/weeping_angel/weeping_angel_right",
+		"3": "tardis:item/monster/weeping_angel/weeping_angel_back",
+		"4": "tardis:item/monster/weeping_angel/weeping_angel_top",
+		"5": "tardis:item/monster/weeping_angel/weeping_angel_bottom",
+		"particle": "tardis:item/monster/weeping_angel/weeping_angel_front"
+	}
+}

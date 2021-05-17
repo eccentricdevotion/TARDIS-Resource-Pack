@@ -1,0 +1,17 @@
+{
+	"parent": "tardis:item/monster/ood/ood_walk_left_2",
+	"textures": {
+		"0": "tardis:item/monster/ood/ood_redeye_front",
+		"1": "tardis:item/monster/ood/ood_left",
+		"2": "tardis:item/monster/ood/ood_right",
+		"3": "tardis:item/monster/ood/ood_back",
+		"4": "tardis:item/monster/ood/ood_top",
+		"5": "tardis:item/monster/ood/ood_bottom",
+		"6": "tardis:item/monster/ood/ood_tentacles",
+		"1_0": "tardis:item/monster/ood/ood_blue_chest_1",
+		"1_1": "tardis:item/monster/ood/ood_blue_chest_2",
+		"2_0": "tardis:item/monster/ood/ood_blue_leg_1",
+		"particle": "tardis:item/monster/ood/ood_blue_chest_2",
+		"2_1": "tardis:item/monster/ood/ood_blue_leg_2"
+	}
+}

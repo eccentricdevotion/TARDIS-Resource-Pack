@@ -1,8 +1,0 @@
-{
-	"parent": "item/monster/ood/ood_ball_arm",
-	"textures": {
-		"0": "item/monster/ood/ood_blue_arm",
-		"1": "item/balloons/white",
-		"particle": "item/monster/ood/ood_blue_arm"
-	}
-}

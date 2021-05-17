@@ -1,6 +1,6 @@
 {
-    "parent": "block/quartz_block",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "block/seed/ars"}
-    ]
+	"parent": "minecraft:block/quartz_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/ars"}
+	]
 }

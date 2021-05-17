@@ -1,12 +1,12 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/map"
-    },
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/map"
+	},
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/bowl/load_selected_program_in_editor"},
-		{"predicate": {"custom_model_data":2}, "model": "item/gui/map/load_map"},
-		{"predicate": {"custom_model_data":3}, "model": "item/gui/map/button_tardis_map"},
-		{"predicate": {"custom_model_data":4}, "model": "item/gui/map/transmat_location"}
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/bowl/load_selected_program_in_editor"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/map/load_map"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/gui/map/button_tardis_map"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/gui/map/transmat_location"}
 	]
 }

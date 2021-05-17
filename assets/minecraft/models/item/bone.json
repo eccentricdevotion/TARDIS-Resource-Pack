@@ -1,22 +1,22 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/bone"
-    },
-    "display": {
-        "head": {
-            "rotation": [ 0, 0, -45 ],
-            "translation": [ 0, -4.5, -6.5],
-            "scale":[ 1, 1, 1 ]
-        }
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/monster/k9/k9"},
-        {"predicate": {"custom_model_data":2}, "model": "item/monster/k9/k9_ears_1"},
-        {"predicate": {"custom_model_data":3}, "model": "item/monster/k9/k9_ears_2"},
-        {"predicate": {"custom_model_data":4}, "model": "item/monster/k9/k9_ears_3"},
-        {"predicate": {"custom_model_data":5}, "model": "item/monster/k9/k9_ears_4"},
-        {"predicate": {"custom_model_data":6}, "model": "item/genetic/k9"},
-        {"predicate": {"custom_model_data":10000001}, "model": "item/tardis/wand"}
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/bone"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 0, -45],
+			"translation": [0, -4.5, -6.5],
+			"scale":[1, 1, 1]
+		}
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/monster/k9/k9"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/k9/k9_ears_1"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/k9/k9_ears_2"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/k9/k9_ears_3"},
+		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/k9/k9_ears_4"},
+		{"predicate": {"custom_model_data": 6}, "model": "tardis:item/genetic/k9"},
+		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/wand"}
 	]
 }

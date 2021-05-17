@@ -1,6 +1,6 @@
 {
-    "parent": "block/mossy_cobblestone",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/gravity"}
-    ]
+	"parent": "minecraft:block/mossy_cobblestone",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/gravity"}
+	]
 }

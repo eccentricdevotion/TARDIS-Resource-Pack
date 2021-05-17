@@ -1,6 +1,6 @@
 {
-    "parent": "block/orange_concrete",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "block/seed/thirteenth"}
-    ]
+	"parent": "minecraft:block/orange_concrete",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/thirteenth"}
+	]
 }

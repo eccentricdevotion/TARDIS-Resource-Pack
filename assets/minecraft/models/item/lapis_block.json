@@ -1,6 +1,6 @@
 {
-    "parent": "block/lapis_block",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "block/seed/tom"}
-    ]
+	"parent": "minecraft:block/lapis_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/tom"}
+	]
 }

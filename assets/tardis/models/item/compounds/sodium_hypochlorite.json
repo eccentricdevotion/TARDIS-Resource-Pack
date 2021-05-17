@@ -1,0 +1,8 @@
+{
+	"parent": "tardis:item/compounds/beaker",
+	"textures": {
+		"0": "tardis:item/glow_sticks/light_gray_plastic",
+		"1": "tardis:block/chemistry/dyed_water/lime_dyed_water",
+		"particle": "tardis:item/glow_sticks/light_gray_plastic"
+	}
+}

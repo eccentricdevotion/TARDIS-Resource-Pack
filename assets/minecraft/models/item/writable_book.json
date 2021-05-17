@@ -1,9 +1,9 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/writable_book"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/genetic/button_dna"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/writable_book"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/button_dna"}
+	]
 }

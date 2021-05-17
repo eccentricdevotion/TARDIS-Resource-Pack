@@ -1,0 +1,8 @@
+{
+	"parent": "tardis:block/chemistry/chemistry",
+	"textures": {
+		"0": "tardis:block/chemistry/constructor_block_end",
+		"1": "tardis:block/chemistry/constructor_block_side",
+		"particle": "tardis:block/chemistry/constructor_block_end"
+	}
+}

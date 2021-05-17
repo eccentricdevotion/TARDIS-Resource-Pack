@@ -1,8 +1,0 @@
-{
-	"parent": "item/compounds/beaker",
-	"textures": {
-		"0": "item/glow_sticks/light_gray_plastic",
-		"1": "block/chemistry/dyed_water/yellow_dyed_water",
-		"particle": "item/glow_sticks/light_gray_plastic"
-	}
-}

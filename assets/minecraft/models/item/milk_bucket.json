@@ -1,12 +1,12 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/milk_bucket"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/products/antidote"},
-        {"predicate": {"custom_model_data":2}, "model": "item/products/elixir"},
-        {"predicate": {"custom_model_data":3}, "model": "item/products/eyedrops"},
-        {"predicate": {"custom_model_data":4}, "model": "item/products/tonic"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/milk_bucket"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/products/antidote"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/products/elixir"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/products/eyedrops"},
+		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/products/tonic"}
+	]
 }

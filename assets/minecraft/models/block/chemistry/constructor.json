@@ -1,8 +1,0 @@
-{
-    "parent": "block/chemistry/chemistry",
-    "textures": {
-        "0": "block/chemistry/constructor_block_end",
-        "1": "block/chemistry/constructor_block_side",
-        "particle": "block/chemistry/constructor_block_end"
-    }
-}

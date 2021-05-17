@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/music_disc_far"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data":10000001}, "model": "item/disks/control_disk"}
-  ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/music_disc_far"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/disks/control_disk"}
+	]
 }

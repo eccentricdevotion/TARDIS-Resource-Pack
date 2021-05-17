@@ -1,6 +1,6 @@
 {
-    "parent": "block/clay",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/passage"}
-    ]
+	"parent": "minecraft:block/clay",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/passage"}
+	]
 }

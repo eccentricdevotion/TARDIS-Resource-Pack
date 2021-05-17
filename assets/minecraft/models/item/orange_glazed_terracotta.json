@@ -1,6 +1,6 @@
 {
-    "parent": "block/orange_glazed_terracotta",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "block/seed/legacy_bigger"}
-    ]
+	"parent": "minecraft:block/orange_glazed_terracotta",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/legacy_bigger"}
+	]
 }

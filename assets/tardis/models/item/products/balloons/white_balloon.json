@@ -1,0 +1,8 @@
+{
+	"parent": "tardis:item/products/balloons/balloon",
+	"textures": {
+		"1": "tardis:item/balloons/white",
+		"2": "tardis:item/balloons/string",
+		"particle": "tardis:item/balloons/white"
+	}
+}

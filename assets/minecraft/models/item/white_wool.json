@@ -1,8 +1,8 @@
 {
-    "parent": "block/white_wool",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/gui/map/level_bottom"},
-        {"predicate": {"custom_model_data":2}, "model": "item/gui/map/level_main"},
-        {"predicate": {"custom_model_data":3}, "model": "item/gui/map/level_top"}
-    ]
+	"parent": "minecraft:block/white_wool",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/map/level_bottom"},
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/map/level_main"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/gui/map/level_top"}
+	]
 }

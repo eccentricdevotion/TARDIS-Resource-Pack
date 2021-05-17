@@ -1,6 +1,6 @@
 {
-    "parent": "block/tube_coral_block",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/aquarium"}
-    ]
+	"parent": "minecraft:block/tube_coral_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/aquarium"}
+	]
 }

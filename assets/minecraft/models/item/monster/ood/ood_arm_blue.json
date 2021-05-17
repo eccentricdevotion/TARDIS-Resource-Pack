@@ -1,6 +1,0 @@
-{
-	"parent": "item/monster/ood/ood_arm",
-	"textures": {
-		"0": "item/monster/ood/ood_blue_arm"
-	}
-}

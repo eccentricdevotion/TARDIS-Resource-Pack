@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "tardis:item/key/seal_of_rassilon"
+	}
+}

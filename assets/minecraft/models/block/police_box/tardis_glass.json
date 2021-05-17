@@ -1,7 +1,0 @@
-{
-	"parent": "block/police_box/tardis_stained",
-	"textures": {
-		"0": "block/police_box/tardis_transparent",
-		"particle": "block/police_box/tardis_transparent"
-	}
-}

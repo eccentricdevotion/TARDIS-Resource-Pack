@@ -1,6 +1,6 @@
 {
-    "parent": "block/glass",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/gui/room/empty"}
-    ]
+	"parent": "minecraft:block/glass",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/empty"}
+	]
 }

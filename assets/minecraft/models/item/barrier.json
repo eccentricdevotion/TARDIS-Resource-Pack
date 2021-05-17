@@ -1,9 +1,9 @@
 {
-    "parent": "builtin/generated",
-    "textures": {
-        "layer0": "item/barrier"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":10000001}, "model": "item/monster/weeping_angel_wing"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/barrier"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/monster/weeping_angel/weeping_angel_wing"}
+	]
 }

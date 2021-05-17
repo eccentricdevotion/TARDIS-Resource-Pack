@@ -1,9 +1,0 @@
-{
-    "parent": "item/products/sparklers/sparkler",
-    "textures": {
-        "0": "item/sparklers/sparkler_powder",
-        "1": "item/sparklers/sparkler_wire",
-        "2": "item/sparklers/sparkler_yellow",
-        "particle": "item/sparklers/sparkler_yellow"
-    }
-}

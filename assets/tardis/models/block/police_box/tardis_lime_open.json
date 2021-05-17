@@ -1,0 +1,10 @@
+{
+	"parent": "tardis:block/police_box/tardis_open",
+	"textures": {
+		"0": "tardis:block/police_box/tardis_lime",
+		"1": "tardis:block/police_box/tardis_lime_windows",
+		"3": "tardis:block/police_box/tardis_lime_police_box",
+		"4": "tardis:block/tardis/interior",
+		"particle": "tardis:block/police_box/tardis_lime"
+	}
+}

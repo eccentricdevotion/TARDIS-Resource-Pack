@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "tardis:item/monster/dalek/dalek",
+	"textures": {
+		"0": "tardis:item/monster/dalek/brass/front",
+		"1": "tardis:item/monster/dalek/brass/left",
+		"2": "tardis:item/monster/dalek/brass/right",
+		"3": "tardis:item/monster/dalek/brass/top",
+		"4": "tardis:item/monster/dalek/brass/bottom",
+		"5": "tardis:item/monster/dalek/brass/back",
+		"6": "tardis:block/handles/handles_bottom",
+		"7": "tardis:item/monster/dalek/brass/light",
+		"8": "tardis:item/monster/dalek/pink/mid_back",
+		"9": "tardis:item/monster/dalek/pink/mid_bottom",
+		"10": "tardis:item/monster/dalek/pink/mid_front",
+		"11": "tardis:item/monster/dalek/pink/mid_left",
+		"12": "tardis:item/monster/dalek/pink/mid_right",
+		"13": "tardis:item/monster/dalek/pink/mid_top",
+		"14": "tardis:item/monster/dalek/pink/lower_back",
+		"15": "tardis:item/monster/dalek/brass/lower_bottom",
+		"16": "tardis:item/monster/dalek/pink/lower_front",
+		"17": "tardis:item/monster/dalek/pink/lower_left",
+		"18": "tardis:item/monster/dalek/pink/lower_right",
+		"19": "tardis:item/monster/dalek/pink/lower_top",
+		"particle": "tardis:item/monster/dalek/pink/lower_front"
+	}
+}

@@ -1,6 +1,6 @@
 {
-    "parent": "block/pink_wool",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/gui/map/reconfigure"}
-    ]
+	"parent": "minecraft:block/pink_wool",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/map/reconfigure"}
+	]
 }
