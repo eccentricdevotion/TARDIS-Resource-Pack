@@ -2,7 +2,7 @@
 	"parent": "tardis:item/gui/gui_item",
 	"textures": {
 		"0": "tardis:block/stone",
-		"1": "tardis:item/genetic/type",
+		"1": "tardis:item/gui/genetic/type",
 		"particle": "tardis:block/stone"
 	}
 }

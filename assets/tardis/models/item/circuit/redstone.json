@@ -3,6 +3,6 @@
 	"textures": {
 		"0": "tardis:block/handles/red_wool",
 		"1": "tardis:item/circuit/sonic/redstone",
-		"particle": "block/handles/red_wool"
+		"particle": "tardis:block/handles/red_wool"
 	}
 }

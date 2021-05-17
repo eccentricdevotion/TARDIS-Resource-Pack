@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/gui/gui_item",
+	"parent": "tardis:item/gui/gui_item",
 	"textures": {
 		"0": "tardis:block/stone",
 		"1": "tardis:item/sonic/enabled",
