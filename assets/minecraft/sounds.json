@@ -506,14 +506,14 @@
       "sounds":[
          "tardis:vashta_nerada_lights"
       ],
-      "subtitle":"\"Hey, who turned out the lights?\""
+      "subtitle":"Hey, who turned out the lights?"
    },
    "blink":{
       "category":"voice",
       "sounds":[
          "tardis:blink"
       ],
-      "subtitle":"\"Don't blink!\""
+      "subtitle":"Don't blink!"
    },
    "k9":{
       "category":"neutral",
