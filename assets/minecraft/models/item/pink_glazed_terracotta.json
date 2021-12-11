@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/pink_glazed_terracotta",
+    "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/division"}
+	]
+}
