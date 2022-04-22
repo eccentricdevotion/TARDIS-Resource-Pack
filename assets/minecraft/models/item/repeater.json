@@ -103,6 +103,8 @@
 		{"predicate": {"custom_model_data":147}, "model": "tardis:item/gui/repeater/font_off"},
 		{"predicate": {"custom_model_data":148}, "model": "tardis:item/gui/repeater/blueprints_off"},
 		{"predicate": {"custom_model_data":149}, "model": "tardis:item/gui/repeater/lock_containers_off"},
-		{"predicate": {"custom_model_data":150}, "model": "tardis:item/gui/repeater/close_gui_off"}
+		{"predicate": {"custom_model_data":150}, "model": "tardis:item/gui/repeater/close_gui_off"},
+		{"predicate": {"custom_model_data":151}, "model": "tardis:item/gui/repeater/auto_type"},
+		{"predicate": {"custom_model_data":152}, "model": "tardis:item/gui/repeater/auto_default"}
 	]
 }

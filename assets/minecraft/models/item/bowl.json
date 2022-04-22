@@ -142,6 +142,12 @@
 		{"predicate": {"custom_model_data": 136}, "model": "tardis:item/gui/bowl/wall"},
 		{"predicate": {"custom_model_data": 137}, "model": "tardis:item/gui/bowl/floor"},
 		{"predicate": {"custom_model_data": 138}, "model": "tardis:item/gui/bowl/own_saves"},
-		{"predicate": {"custom_model_data": 139}, "model": "tardis:item/gui/bowl/tardis_saves"}
+		{"predicate": {"custom_model_data": 139}, "model": "tardis:item/gui/bowl/tardis_saves"},
+		{"predicate": {"custom_model_data": 140}, "model": "tardis:item/gui/bowl/home"},
+		{"predicate": {"custom_model_data": 141}, "model": "tardis:item/gui/bowl/areas"},
+		{"predicate": {"custom_model_data": 142}, "model": "tardis:item/gui/bowl/configured"},
+		{"predicate": {"custom_model_data": 143}, "model": "tardis:item/gui/bowl/closest"},
+		{"predicate": {"custom_model_data": 144}, "model": "tardis:item/gui/bowl/stay"},
+		{"predicate": {"custom_model_data": 145}, "model": "tardis:item/gui/bowl/button_auto_prefs"}
 	]
 }
