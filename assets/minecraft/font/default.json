@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "tardis:font/space_split.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF821"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "tardis:font/space_no_split.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\u17F2"
+            ]
+        }
+    ]
+}
