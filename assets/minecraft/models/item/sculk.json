@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/sculk",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/ancient"}
+	]
+}

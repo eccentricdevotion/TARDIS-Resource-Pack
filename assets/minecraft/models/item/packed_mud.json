@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/packed_mud",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/original"}
+	]
+}
