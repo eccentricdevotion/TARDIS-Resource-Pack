@@ -1,12 +1,14 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:item/painting"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/zygon"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/zygon/zygon_arm"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/zygon/zygon_head"},
-		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/zygon/zygon_disguise"}
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/painting"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/zygon"},
+        {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/zygon/zygon_arm"},
+        {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/zygon/zygon_head"},
+        {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/zygon/zygon_disguise"},
+        {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/zygon/zygon_static"},
+        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/zygon/zygon_walking"}
 	]
 }

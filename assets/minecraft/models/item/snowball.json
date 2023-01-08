@@ -1,13 +1,16 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:item/snowball"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/ice_warrior"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/ice_warrior/ice_warrior_arm"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/ice_warrior/ice_warrior_dagger_arm"},
-		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/ice_warrior/ice_warrior_head"},
-		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/ice_warrior/ice_warrior_disguise"}
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/snowball"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/ice_warrior"},
+        {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/ice_warrior/ice_warrior_arm"},
+        {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/ice_warrior/ice_warrior_dagger_arm"},
+        {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/ice_warrior/ice_warrior_head"},
+        {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/ice_warrior/ice_warrior_disguise"},
+        {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/ice_warrior/ice_warrior_static"},
+        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/ice_warrior/ice_warrior_walking"},
+        {"predicate": {"custom_model_data":10000003}, "model": "tardis:item/products/ice_bomb"}
 	]
 }

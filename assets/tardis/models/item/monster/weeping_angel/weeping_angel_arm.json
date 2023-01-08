@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:item/monster/weeping_angel/weeping_angel_arm"
+		"0": "tardis:item/monster/weeping_angel/weeping_angel_arm_1"
 	},
 	"elements": [
 		{
@@ -11,9 +11,9 @@
 			"faces": {
 				"north": {"uv": [2.666, 0, 5.332, 16], "texture": "#0"},
 				"east": {"uv": [0, 0, 2.666, 16], "texture": "#0"},
-				"south": {"uv": [7.999, 0, 10.664, 16], "texture": "#0"},
+				"south": {"uv": [7.999, 0, 10.539, 16], "texture": "#0"},
 				"west": {"uv": [5.333, 0, 7.999, 16], "texture": "#0"},
-				"up": {"uv": [10.666, 0, 13.332, 2.666], "texture": "#0"},
+				"up": {"uv": [10.666, 0, 13.207, 2.541], "texture": "#0"},
 				"down": {"uv": [13.333, 0, 15.999, 2.666], "texture": "#0"}
 			}
 		}

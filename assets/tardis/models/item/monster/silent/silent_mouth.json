@@ -3,9 +3,9 @@
 	"textures": {
 		"0": "tardis:item/monster/silent/silent_front",
 		"1": "tardis:item/monster/silent/silent_skull",
-		"2": "tardis:item/monster/judoon/judoon_black",
-		"3": "tardis:item/monster/silent/silent_black",
-		"4": "tardis:item/monster/silent/silent_chest",
+		"2": "tardis:item/monster/silent/silent_black",
+		"3": "tardis:item/monster/silent/silent_chest_2",
+		"4": "tardis:item/monster/silent/silent_chest_1",
 		"particle": "tardis:item/monster/silent/silent_front"
 	},
 	"elements": [
@@ -257,11 +257,13 @@
 		{
 			"name": "head",
 			"origin": [7.5, 22, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 		},
 		{
 			"name": "body",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [13, 14, 15, 16, 17]
 		}
 	]

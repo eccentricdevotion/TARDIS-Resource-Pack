@@ -1,13 +1,15 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:item/pufferfish"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/hath"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/hath/hath_arm"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/hath/hath_weapon_arm"},
-		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/hath/hath_head"},
-		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/hath/hath_disguise"}
-	]
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pufferfish"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/hath"},
+    {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/hath/hath_arm"},
+    {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/hath/hath_weapon_arm"},
+    {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/hath/hath_head"},
+    {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/hath/hath_disguise"},
+    {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/hath/hath_static"},
+    {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/hath/hath_walking"}
+  ]
 }

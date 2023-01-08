@@ -9,7 +9,7 @@
 		"4": "tardis:item/monster/ice_warrior/ice_warrior_top",
 		"10": "tardis:item/monster/ice_warrior/ice_warrior_chest_1",
 		"11": "tardis:item/monster/ice_warrior/ice_warrior_chest_2",
-		"12": "tardis:item/monster/ice_warrior/ice_warrior_leg",
+		"12": "tardis:item/monster/ice_warrior/ice_warrior_leg_1",
 		"particle": "tardis:item/glow_sticks/light_blue_plastic",
 		"1_0": "tardis:item/glow_sticks/light_blue_plastic",
 		"1_1": "tardis:item/glow_sticks/lime_glow",
@@ -240,16 +240,25 @@
 			"scale": [0.45, 0.45, 0.45]
 		}
 	},
-	"groups": [0,
+	"groups": [
+		0,
 		{
 			"name": "ice_warrior_dagger_arm",
 			"origin": [8, 8, 8],
-			"children": [1, 2,
+			"color": 0,
+			"children": [
+				1,
+				2,
 				{
 					"name": "ice_dagger",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [3, 4, 5, 6, 7, 8, 9, 10, 11]
 				}
 			]
-		}, 12, 13, 14]
+		},
+		12,
+		13,
+		14
+	]
 }
