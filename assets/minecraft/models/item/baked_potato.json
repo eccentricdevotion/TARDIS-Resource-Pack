@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/strax/strax_head"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/strax/strax_disguise"},
         {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/strax/strax_static"},
-        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/strax/strax_walking"}
+        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/strax/strax_walking"},
+        {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/strax/strax_attacking"}
 	]
 }

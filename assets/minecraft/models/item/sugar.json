@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/empty_child/empty_child_head"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/empty_child/empty_child_disguise"},
         {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/empty_child/empty_child_static"},
-        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/empty_child/empty_child_walking"}
+        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/empty_child/empty_child_walking"},
+        {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/empty_child/empty_child_attacking"}
 	]
 }

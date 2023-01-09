@@ -10,6 +10,7 @@
     {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/hath/hath_head"},
     {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/hath/hath_disguise"},
     {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/hath/hath_static"},
-    {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/hath/hath_walking"}
+    {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/hath/hath_walking"},
+    {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/hath/hath_attacking"}
   ]
 }

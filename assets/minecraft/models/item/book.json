@@ -10,6 +10,7 @@
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/vashta_nerada/vashta_nerada_head"},
         {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/vashta_nerada/vashta_nerada_disguise"},
         {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/vashta_nerada/vashta_nerada_static"},
-        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/vashta_nerada/vashta_nerada_walking"}
+        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/vashta_nerada/vashta_nerada_walking"},
+        {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/vashta_nerada/vashta_nerada_attacking"}
 	]
 }

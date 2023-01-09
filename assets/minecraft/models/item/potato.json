@@ -10,6 +10,7 @@
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/sontaran/sontaran_head"},
         {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/sontaran/sontaran_disguise"},
         {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/sontaran/sontaran_static"},
-        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/sontaran/sontaran_walking"}
+        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/sontaran/sontaran_walking"},
+        {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/sontaran/sontaran_attacking"}
 	]
 }

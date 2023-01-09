@@ -8,7 +8,7 @@
 		{"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/silent/silent_mouth_closed"},
 		{"predicate": {"custom_model_data":6}, "model": "tardis:item/monster/silent/silent_mouth_open"},
 		{"predicate": {"custom_model_data":7}, "model": "tardis:item/monster/silent/silent_arm_right"},
-		{"predicate": {"custom_model_data":8}, "model": "tardis:item/monster//silentsilent_arm_left"},
+		{"predicate": {"custom_model_data":8}, "model": "tardis:item/monster/silent/silent_arm_left"},
 		{"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/silent/silent_static"},
 		{"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/silent/silent_walking"},
 		{"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/silent/silent_beaming"}

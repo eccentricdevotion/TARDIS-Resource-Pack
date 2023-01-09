@@ -17,6 +17,7 @@
 		{"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/silurian/silurian_disguise"},
 		{"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/silurian/silurian_static"},
 		{"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/silurian/silurian_walking"},
+		{"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/silurian/silurian_attacking"},
 		{"predicate": {"custom_model_data":10000001}, "model": "tardis:item/elements/1"},
 		{"predicate": {"custom_model_data":10000002}, "model": "tardis:item/elements/2"},
 		{"predicate": {"custom_model_data":10000003}, "model": "tardis:item/elements/3"},

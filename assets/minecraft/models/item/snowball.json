@@ -11,6 +11,7 @@
         {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/ice_warrior/ice_warrior_disguise"},
         {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/ice_warrior/ice_warrior_static"},
         {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/ice_warrior/ice_warrior_walking"},
+        {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/ice_warrior/ice_warrior_attacking"},
         {"predicate": {"custom_model_data":10000003}, "model": "tardis:item/products/ice_bomb"}
 	]
 }
