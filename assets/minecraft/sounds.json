@@ -468,6 +468,13 @@
       ],
       "subtitle":"Hath bubbles"
    },
+   "headless_monk":{
+      "category":"neutral",
+      "sounds":[
+         "tardis:headless_monk"
+      ],
+      "subtitle":"Headless Monk prays"
+   },
    "silence":{
       "category":"hostile",
       "sounds":[
