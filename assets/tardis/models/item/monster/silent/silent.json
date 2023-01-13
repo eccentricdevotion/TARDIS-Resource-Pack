@@ -4,7 +4,7 @@
 		"0": "tardis:item/monster/silent/silent_front",
 		"1": "tardis:item/monster/silent/silent_skull",
 		"3": "tardis:item/monster/silent/silent_black",
-		"4": "tardis:item/monster/silent/silent_chest",
+		"4": "tardis:item/monster/silent/silent_chest_1",
 		"particle": "tardis:item/monster/silent/silent_front"
 	},
 	"elements": [

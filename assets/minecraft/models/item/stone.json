@@ -1,5 +1,5 @@
 {
-	"parent": "tardis:block/stone",
+	"parent": "minecraft:block/stone",
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/slot"}
 	]
