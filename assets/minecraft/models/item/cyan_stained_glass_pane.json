@@ -1,10 +1,14 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:block/cyan_stained_glass"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 10000013}, "model": "tardis:item/products/glow_sticks/cyan_glow_stick"},
-		{"predicate": {"custom_model_data": 12000013}, "model": "tardis:item/products/glow_sticks/cyan_glow_stick_active"}
-	]
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:block/cyan_stained_glass"
+    },
+    "overrides": [
+    {"predicate": {"custom_model_data":1001}, "model": "tardis:block/police_box/tardis_tennant"},
+      {"predicate": {"custom_model_data":1002}, "model": "tardis:block/police_box/tardis_tennant_open"},
+      {"predicate": {"custom_model_data":1003}, "model": "tardis:block/police_box/tardis_tennant_stained"},
+      {"predicate": {"custom_model_data":1004}, "model": "tardis:block/police_box/tardis_glass"},
+      {"predicate": {"custom_model_data":10000013}, "model": "tardis:item/products/glow_sticks/cyan_glow_stick"},
+      {"predicate": {"custom_model_data":12000013}, "model": "tardis:item/products/glow_sticks/cyan_glow_stick_active"}
+    ]
 }
