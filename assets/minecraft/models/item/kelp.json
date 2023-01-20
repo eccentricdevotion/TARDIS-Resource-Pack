@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/sea_devil/sea_devil_disguise"},
         {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/sea_devil/sea_devil_static"},
         {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/sea_devil/sea_devil_walking"},
-        {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/sea_devil/sea_devil_attacking"}
+        {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/sea_devil/sea_devil_attacking"},
+        {"predicate": {"custom_model_data":12}, "model": "tardis:item/monster/sea_devil/sea_devil_swimming"}
 	]
 }
