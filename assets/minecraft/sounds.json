@@ -475,6 +475,16 @@
       ],
       "subtitle":"Headless Monk prays"
    },
+   "sea_devil":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:sea_devil_parasite",
+         "tardis:sea_devil_no_mercy",
+         "tardis:sea_devil_material",
+         "tardis:sea_devil_returned"
+      ],
+      "subtitle":"Silent rasps"
+   },
    "silence":{
       "category":"hostile",
       "sounds":[
@@ -482,6 +492,16 @@
          "tardis:silent_rattle"
       ],
       "subtitle":"Silent rasps"
+   },
+   "slitheen":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:slitheen_fart_1",
+         "tardis:slitheen_fart_2",
+         "tardis:slitheen_fart_3",
+         "tardis:slitheen_fart_4"
+      ],
+      "subtitle":"Slitheen farts"
    },
    "sontaran":{
       "category":"hostile",
@@ -580,6 +600,19 @@
          "tardis:judoon_fire"
       ],
       "subtitle":"Laser fires"
+   },
+   "racnoss":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:racnoss_couple",
+         "tardis:racnoss_empress",
+         "tardis:racnoss_hiss",
+         "tardis:racnoss_laugh",
+         "tardis:racnoss_particles",
+         "tardis:racnoss_scourged",
+         "tardis:racnoss_suffer"
+      ],
+      "subtitle":"Racnoss taunts"
    },
    "toclafane":{
       "category":"hostile",
