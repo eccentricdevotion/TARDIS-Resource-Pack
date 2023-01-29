@@ -1,17 +1,19 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:item/light_blue_dye"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 1001}, "model": "tardis:block/police_box/tardis_light_blue"},
-		{"predicate": {"custom_model_data": 1002}, "model": "tardis:block/police_box/tardis_light_blue_open"},
-		{"predicate": {"custom_model_data": 1003}, "model": "tardis:block/police_box/tardis_light_blue_stained"},
-		{"predicate": {"custom_model_data": 1004}, "model": "tardis:block/police_box/tardis_glass"},
-		{"predicate": {"custom_model_data": 10000002}, "model": "tardis:item/time_rotor/time_rotor_early"},
-		{"predicate": {"custom_model_data": 10000003}, "model": "tardis:item/time_rotor/time_rotor_tennant"},
-		{"predicate": {"custom_model_data": 10000004}, "model": "tardis:item/time_rotor/time_rotor_eleventh"},
-		{"predicate": {"custom_model_data": 10000005}, "model": "tardis:item/time_rotor/time_rotor_twelfth"},
-		{"predicate": {"custom_model_data": 10000006}, "model": "tardis:item/time_rotor/time_rotor_delta"}
-	]
+   "parent": "minecraft:item/generated",
+   "textures": {
+      "layer0": "minecraft:item/light_blue_dye"
+   },
+   "overrides": [
+      {"predicate": {"custom_model_data":1001}, "model": "tardis:block/police_box/tardis_light_blue"},
+      {"predicate": {"custom_model_data":1002}, "model": "tardis:block/police_box/tardis_light_blue_open"},
+      {"predicate": {"custom_model_data":1003}, "model": "tardis:block/police_box/tardis_light_blue_stained"},
+      {"predicate": {"custom_model_data":1004}, "model": "tardis:block/police_box/tardis_glass"},
+      {"predicate": {"custom_model_data":10000002}, "model": "tardis:item/time_rotor/time_rotor_early"},
+      {"predicate": {"custom_model_data":10000003}, "model": "tardis:item/time_rotor/time_rotor_tennant"},
+      {"predicate": {"custom_model_data":10000004}, "model": "tardis:item/time_rotor/time_rotor_eleventh"},
+      {"predicate": {"custom_model_data":10000005}, "model": "tardis:item/time_rotor/time_rotor_twelfth"},
+      {"predicate": {"custom_model_data":10000006}, "model": "tardis:item/time_rotor/time_rotor_delta"},
+      {"predicate": {"custom_model_data":10000007}, "model": "tardis:item/time_rotor/engine"},
+      {"predicate": {"custom_model_data":10000008}, "model": "tardis:item/time_rotor/engine_rotor"}
+   ]
 }

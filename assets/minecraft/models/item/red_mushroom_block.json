@@ -1,6 +1,7 @@
 {
     "parent": "minecraft:block/red_mushroom_block_inventory",
     "overrides": [
+        {"predicate": {"custom_model_data":10000010}, "model": "tardis:block/seed/mechanical"},
         {"predicate": {"custom_model_data":10000011}, "model": "tardis:block/seed/fugitive"},
         {"predicate": {"custom_model_data":10000012}, "model": "tardis:block/seed/ancient"},
         {"predicate": {"custom_model_data":10000013}, "model": "tardis:block/seed/division"},
