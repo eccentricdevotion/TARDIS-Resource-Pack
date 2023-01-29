@@ -461,6 +461,17 @@
       ],
       "subtitle":"Metal clangs"
    },
+   "dalek_sec":{
+      "category":"neutral",
+      "sounds":[
+         "tardis:dalek_sec_everything",
+         "tardis:dalek_sec_form",
+         "tardis:dalek_sec_humanity",
+         "tardis:dalek_sec_i_am",
+         "tardis:dalek_sec_war"
+      ],
+      "subtitle":"Dalek Sec speaks"
+   },
    "hath":{
       "category":"neutral",
       "sounds":[
