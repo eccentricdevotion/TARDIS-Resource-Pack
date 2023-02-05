@@ -148,6 +148,7 @@
 		{"predicate": {"custom_model_data": 142}, "model": "tardis:item/gui/bowl/configured"},
 		{"predicate": {"custom_model_data": 143}, "model": "tardis:item/gui/bowl/closest"},
 		{"predicate": {"custom_model_data": 144}, "model": "tardis:item/gui/bowl/stay"},
-		{"predicate": {"custom_model_data": 145}, "model": "tardis:item/gui/bowl/button_auto_prefs"}
+		{"predicate": {"custom_model_data": 145}, "model": "tardis:item/gui/bowl/button_auto_prefs"},
+		{"predicate": {"custom_model_data": 146}, "model": "tardis:item/gui/bowl/button_lock"}
 	]
 }
