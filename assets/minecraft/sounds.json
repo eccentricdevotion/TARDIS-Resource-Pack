@@ -472,6 +472,18 @@
       ],
       "subtitle":"Dalek Sec speaks"
    },
+   "davros":{
+      "category":"neutral",
+      "sounds":[
+         "tardis:davros_welcome",
+         "tardis:davros_action",
+         "tardis:davros_army",
+         "tardis:davros_mental",
+         "tardis:davros_punished",
+         "tardis:davros_soft"
+      ],
+      "subtitle":"Davros speaks"
+   },
    "hath":{
       "category":"neutral",
       "sounds":[
