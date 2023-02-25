@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"6": "block/bee_nest_side",
+		"6": "tardis:item/monster/dalek_sec/dalek_sec_head_side",
 		"7": "tardis:item/monster/dalek_sec/dalek_sec_brain",
 		"8": "tardis:item/monster/dalek_sec/dalek_sec_head",
-		"particle": "block/bee_nest_side"
+		"particle": "tardis:item/monster/dalek_sec/dalek_sec_head_side"
 	},
 	"elements": [
 		{

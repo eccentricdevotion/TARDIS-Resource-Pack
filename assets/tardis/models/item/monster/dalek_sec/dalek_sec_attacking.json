@@ -1,7 +1,7 @@
 {
     "credit": "Made with Blockbench", 
     "textures": {
-        "main": "item/monster/dalek_sec/dalek_sec_walking"
+        "main": "tardis:item/monster/dalek_sec/dalek_sec_walking"
     }, 
     "elements": [
         {
