@@ -281,6 +281,7 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
+			"rotation": [0, 180, 0],
 			"translation": [0, 3, 0],
 			"scale": [0.33, 0.33, 0.33]
 		},
@@ -298,30 +299,36 @@
 			"scale": [1.15, 1.15, 1.15]
 		}
 	},
-	"groups": [0,
+	"groups": [
+		0,
 		{
 			"name": "tentacle",
 			"origin": [8.75, 3.5, 3],
+			"color": 0,
 			"children": [1, 2, 3, 4]
 		},
 		{
 			"name": "tentacle",
 			"origin": [8.75, 3.5, 3],
+			"color": 0,
 			"children": [5, 6, 7, 8]
 		},
 		{
 			"name": "tentacle",
 			"origin": [8.75, 3.5, 3],
+			"color": 0,
 			"children": [9, 10, 11, 12]
 		},
 		{
 			"name": "tentacle",
 			"origin": [8.75, 3.5, 3],
+			"color": 0,
 			"children": [13, 14, 15]
 		},
 		{
 			"name": "tentacle",
 			"origin": [8.75, 3.5, 3],
+			"color": 0,
 			"children": [16, 17, 18]
 		}
 	]
