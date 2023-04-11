@@ -1,0 +1,23 @@
+{
+	"parent": "tardis:item/gui/gui_item",
+	"textures": {
+		"0": "tardis:block/stone",
+		"1": "tardis:item/gui/up",
+		"particle": "tardis:block/stone"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7],
+			"to": [16, 16, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 1, 16, 2], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 3, 16, 4], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 2, 16, 3], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
+			}
+		}
+	]
+}

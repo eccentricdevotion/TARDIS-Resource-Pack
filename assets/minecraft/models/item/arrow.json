@@ -16,6 +16,8 @@
 		{"predicate": {"custom_model_data": 10}, "model": "tardis:item/handles/handles_operator_subtraction"},
 		{"predicate": {"custom_model_data": 11}, "model": "tardis:item/gui/page_one"},
 		{"predicate": {"custom_model_data": 12}, "model": "tardis:item/gui/page_two"},
-		{"predicate": {"custom_model_data": 13}, "model": "tardis:item/monster/judoon/judoon_ammo"}
+		{"predicate": {"custom_model_data": 13}, "model": "tardis:item/monster/judoon/judoon_ammo"},
+		{"predicate": {"custom_model_data": 14}, "model": "tardis:item/gui/arrow/less"},
+		{"predicate": {"custom_model_data": 15}, "model": "tardis:item/gui/arrow/more"},
 	]
 }
