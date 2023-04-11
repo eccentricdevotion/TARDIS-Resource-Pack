@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/black_concrete",
+	"overrides": [
+		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/pandorica"}
+	]
+}

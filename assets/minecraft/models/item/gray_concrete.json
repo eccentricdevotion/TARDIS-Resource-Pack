@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/gray_concrete",
+	"overrides": [
+		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/seed/factory"}
+	]
+}

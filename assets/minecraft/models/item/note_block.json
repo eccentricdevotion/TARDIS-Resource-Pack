@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/note_block",
+	"overrides": [
+		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/tardis/disk_storage"}
+	]
+}

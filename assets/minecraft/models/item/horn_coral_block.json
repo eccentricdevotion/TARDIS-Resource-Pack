@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/horn_coral_block",
+	"overrides": [
+		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/seed/thirteenth"}
+	]
+}

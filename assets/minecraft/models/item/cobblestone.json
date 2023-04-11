@@ -1,6 +1,9 @@
 {
 	"parent": "minecraft:block/cobblestone",
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/bowl/standard_sonic"}
+		{"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/bowl/standard_sonic"},
+		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/seed/small"},
+		{"predicate": {"custom_model_data":10002}, "model": "tardis:block/seed/medium"},
+		{"predicate": {"custom_model_data":10003}, "model": "tardis:block/seed/tall"}
 	]
 }

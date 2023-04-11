@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/jukebox",
+	"overrides": [
+		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/tardis/advanced_console"}
+	]
+}

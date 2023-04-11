@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cyan_concrete",
+	"overrides": [
+		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/siege_cube"}
+	]
+}

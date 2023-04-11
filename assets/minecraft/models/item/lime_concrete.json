@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/lime_concrete",
+	"overrides": [
+		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/chemistry/product"}
+	]
+}

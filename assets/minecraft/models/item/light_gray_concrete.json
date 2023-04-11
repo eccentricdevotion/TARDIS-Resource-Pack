@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/light_gray_concrete",
+	"overrides": [
+		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/chemistry/creative"}
+	]
+}

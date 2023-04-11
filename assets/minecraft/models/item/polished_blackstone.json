@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/polished_blackstone",
+	"overrides": [
+		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/seed/custom"}
+	]
+}
