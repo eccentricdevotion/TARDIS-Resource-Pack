@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/sea_lantern",
+    "overrides": [
+        {"predicate": {"custom_model_data":10001}, "model": "tardis:block/chemistry/blue_lamp_on"},
+        {"predicate": {"custom_model_data":10002}, "model": "tardis:block/chemistry/green_lamp_on"},
+        {"predicate": {"custom_model_data":10003}, "model": "tardis:block/chemistry/purple_lamp_on"},
+        {"predicate": {"custom_model_data":10004}, "model": "tardis:block/chemistry/red_lamp_on"},
+        {"predicate": {"custom_model_data":10005}, "model": "tardis:block/lights/classic_on"},
+        {"predicate": {"custom_model_data":10008}, "model": "tardis:block/lights/twelfth_on"},
+        {"predicate": {"custom_model_data":10009}, "model": "tardis:block/lights/thirteenth_on"}
+    ]
+}
