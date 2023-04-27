@@ -5,6 +5,7 @@
         {"predicate": {"custom_model_data":10002}, "model": "tardis:block/chemistry/green_lamp"},
         {"predicate": {"custom_model_data":10003}, "model": "tardis:block/chemistry/purple_lamp"},
         {"predicate": {"custom_model_data":10004}, "model": "tardis:block/chemistry/red_lamp"},
+        {"predicate": {"custom_model_data":10005}, "model": "tardis:block/lights/lamp_on"},
         {"predicate": {"custom_model_data":10006}, "model": "tardis:block/lights/tenth_on"},
         {"predicate": {"custom_model_data":10007}, "model": "tardis:block/lights/eleventh_on"},
         {"predicate": {"custom_model_data":10011}, "model": "tardis:block/lights/lamp_on"}

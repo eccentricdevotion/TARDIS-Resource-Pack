@@ -7,6 +7,7 @@
         {"predicate": {"custom_model_data":10004}, "model": "tardis:block/chemistry/red_lamp_on"},
         {"predicate": {"custom_model_data":10005}, "model": "tardis:block/lights/classic_on"},
         {"predicate": {"custom_model_data":10008}, "model": "tardis:block/lights/twelfth_on"},
-        {"predicate": {"custom_model_data":10009}, "model": "tardis:block/lights/thirteenth_on"}
+        {"predicate": {"custom_model_data":10009}, "model": "tardis:block/lights/thirteenth_on"},
+        {"predicate": {"custom_model_data":10010}, "model": "tardis:block/lights/classic_offset_on"}
     ]
 }
