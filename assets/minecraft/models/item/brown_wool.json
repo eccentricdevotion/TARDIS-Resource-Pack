@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/brown_wool",
+  "overrides": [
+    {"predicate": {"custom_model_data":10001}, "model": "tardis:block/the_moment"}
+  ]
+}
