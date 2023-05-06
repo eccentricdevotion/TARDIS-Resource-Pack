@@ -150,6 +150,8 @@
 		{"predicate": {"custom_model_data": 144}, "model": "tardis:item/gui/bowl/stay"},
 		{"predicate": {"custom_model_data": 145}, "model": "tardis:item/gui/bowl/button_auto_prefs"},
 		{"predicate": {"custom_model_data": 146}, "model": "tardis:item/gui/bowl/button_lock"},
-		{"predicate": {"custom_model_data": 147}, "model": "tardis:item/gui/bowl/button_twa"}
+		{"predicate": {"custom_model_data": 147}, "model": "tardis:item/gui/bowl/button_twa"},
+		{"predicate": {"custom_model_data": 148}, "model": "tardis:item/gui/vortex_manipulator/predictive"},
+		{"predicate": {"custom_model_data": 149}, "model": "tardis:item/gui/bowl/button_throttle"}
 	]
 }
