@@ -1,7 +1,8 @@
 {
-	"parent": "minecraft:block/furnace",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/lazarus"},
-		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/artron_furnace"}
-	]
+    "parent": "minecraft:block/furnace",
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/lazarus"},
+        {"predicate": {"custom_model_data":10000001}, "model": "tardis:item/tardis/artron_furnace"},
+        {"predicate": {"custom_model_data":10000002}, "model": "tardis:item/tardis/artron_furnace_lit"}
+    ]
 }

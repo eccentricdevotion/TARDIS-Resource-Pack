@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:block/tardis/artron_furnace_front",
+		"0": "tardis:block/tardis/artron_furnace_lit",
 		"1": "tardis:block/tardis/artron_furnace_top",
 		"2": "tardis:block/tardis/artron_furnace_bottom",
-		"particle": "tardis:block/tardis/artron_furnace_front"
+		"particle": "tardis:block/tardis/artron_furnace_lit"
 	},
 	"elements": [
 		{
