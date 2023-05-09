@@ -76,6 +76,7 @@
 		{"predicate": {"custom_model_data": 70}, "model": "tardis:item/handles/handles_variable_redstone"},
 		{"predicate": {"custom_model_data": 71}, "model": "tardis:item/handles/handles_variable_home"},
 		{"predicate": {"custom_model_data": 72}, "model": "tardis:item/handles/handles_variable_recharger"},
-		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/food/paper_bag"}
+		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/food/paper_bag"},
+		{"predicate": {"custom_model_data": 10000002}, "model": "tardis:item/tardis/st_johns"}
 	]
 }
