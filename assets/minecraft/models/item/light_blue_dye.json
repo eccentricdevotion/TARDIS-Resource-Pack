@@ -14,6 +14,7 @@
       {"predicate": {"custom_model_data":10000005}, "model": "tardis:item/time_rotor/time_rotor_twelfth"},
       {"predicate": {"custom_model_data":10000006}, "model": "tardis:item/time_rotor/time_rotor_delta"},
       {"predicate": {"custom_model_data":10000007}, "model": "tardis:item/time_rotor/engine"},
-      {"predicate": {"custom_model_data":10000008}, "model": "tardis:item/time_rotor/engine_rotor"}
+      {"predicate": {"custom_model_data":10000008}, "model": "tardis:item/time_rotor/engine_rotor"},
+      {"predicate": {"custom_model_data":10000009}, "model": "tardis:item/time_rotor/hospital"}
    ]
 }

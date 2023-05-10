@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/white_concrete",
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/hospital"}
+  ]
+}

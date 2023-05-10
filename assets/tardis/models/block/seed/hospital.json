@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+            "particle": "tardis:block/seed/white_concrete",
+            "all": "tardis:block/seed/white_concrete"
+    }
+}
