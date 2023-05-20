@@ -1,10 +1,10 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:block/blue_stained_glass"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 10000015}, "model": "tardis:item/products/glow_sticks/blue_glow_stick"},
-		{"predicate": {"custom_model_data": 12000015}, "model": "tardis:item/products/glow_sticks/blue_glow_stick_active"}
-	]
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:block/blue_stained_glass"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 10000015}, "model": "tardis:item/products/glow_sticks/blue_glow_stick"},
+        {"predicate": {"custom_model_data": 12000015}, "model": "tardis:item/products/glow_sticks/blue_glow_stick_active"}
+    ]
 }
