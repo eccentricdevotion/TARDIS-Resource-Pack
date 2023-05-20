@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/gravel",
+    "parent": "minecraft:block/gravel",
     "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/mushroom"},
         {"predicate": {"custom_model_data":10000}, "model": "tardis:block/destroy/destroy_0"},
         {"predicate": {"custom_model_data":10001}, "model": "tardis:block/destroy/destroy_1"},
         {"predicate": {"custom_model_data":10002}, "model": "tardis:block/destroy/destroy_2"},

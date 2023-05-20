@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/muddy_mangrove_roots",
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/mangrove"}
+    ]
+}
