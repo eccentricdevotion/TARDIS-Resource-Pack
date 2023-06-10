@@ -606,7 +606,8 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"fixed": {
-			"translation": [8, 9, 4],
+			"rotation": [0, 180, 0],
+			"translation": [-8, 9, -3],
 			"scale": [1.33, 1.33, 1.33]
 		}
 	},
