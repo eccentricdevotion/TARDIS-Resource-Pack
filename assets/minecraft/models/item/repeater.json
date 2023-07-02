@@ -54,6 +54,7 @@
 		{"predicate": {"custom_model_data":48}, "model": "tardis:item/gui/repeater/blueprints_on"},
 		{"predicate": {"custom_model_data":49}, "model": "tardis:item/gui/repeater/lock_containers_on"},
 		{"predicate": {"custom_model_data":50}, "model": "tardis:item/gui/repeater/close_gui_on"},
+		{"predicate": {"custom_model_data":53}, "model": "tardis:item/gui/repeater/announce_repeaters_on"},
 		{"predicate": {"custom_model_data":101}, "model": "tardis:item/gui/repeater/allow_off"},
 		{"predicate": {"custom_model_data":102}, "model": "tardis:item/gui/repeater/arch_off"},
 		{"predicate": {"custom_model_data":103}, "model": "tardis:item/gui/repeater/archive_off"},
@@ -105,6 +106,7 @@
 		{"predicate": {"custom_model_data":149}, "model": "tardis:item/gui/repeater/lock_containers_off"},
 		{"predicate": {"custom_model_data":150}, "model": "tardis:item/gui/repeater/close_gui_off"},
 		{"predicate": {"custom_model_data":151}, "model": "tardis:item/gui/repeater/auto_type"},
-		{"predicate": {"custom_model_data":152}, "model": "tardis:item/gui/repeater/auto_default"}
+		{"predicate": {"custom_model_data":152}, "model": "tardis:item/gui/repeater/auto_default"},
+		{"predicate": {"custom_model_data":153}, "model": "tardis:item/gui/repeater/announce_repeaters_off"}
 	]
 }
