@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+   "textures": {
+      "layer0": "minecraft:item/ender_pearl"
+   },
+   "overrides": [
+      {"predicate": {"custom_model_data":1001}, "model": "tardis:block/pandorica/pandorica"},
+      {"predicate": {"custom_model_data":1002}, "model": "tardis:block/pandorica/pandorica_open"},
+      {"predicate": {"custom_model_data":1003}, "model": "tardis:block/pandorica/pandorica_stained"},
+      {"predicate": {"custom_model_data":1004}, "model": "tardis:block/pandorica/pandorica_glass"},
+      {"predicate": {"custom_model_data":1005}, "model": "tardis:block/pandorica/pandorica_75"},
+      {"predicate": {"custom_model_data":1006}, "model": "tardis:block/pandorica/pandorica_50"},
+      {"predicate": {"custom_model_data":1007}, "model": "tardis:block/pandorica/pandorica_25"}
+   ]
+}
