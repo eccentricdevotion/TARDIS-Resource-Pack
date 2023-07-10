@@ -1,24 +1,24 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:item/yellow_dye"
-	},
-	"overrides": [
-
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/genetic/judoon"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/monster/judoon/judoon_head"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/monster/judoon/judoon_arm"},
-		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/monster/judoon/judoon_weapon_arm_1"},
-		{"predicate": {"custom_model_data": 5}, "model": "tardis:item/monster/judoon/judoon_walk_left_1"},
-		{"predicate": {"custom_model_data": 6}, "model": "tardis:item/monster/judoon/judoon_walk_left_2"},
-		{"predicate": {"custom_model_data": 7}, "model": "tardis:item/monster/judoon/judoon_walk_right_1"},
-		{"predicate": {"custom_model_data": 8}, "model": "tardis:item/monster/judoon/judoon_walk_right_2"},
-		{"predicate": {"custom_model_data": 9}, "model": "tardis:item/monster/judoon/judoon_weapon_arm_2"},
-		{"predicate": {"custom_model_data": 10}, "model": "tardis:item/monster/judoon/judoon_disguise"},
-		{"predicate": {"custom_model_data": 11}, "model": "tardis:item/monster/judoon/judoon_monster_head"},
-		{"predicate": {"custom_model_data": 1001}, "model": "tardis:block/police_box/tardis_yellow"},
-		{"predicate": {"custom_model_data": 1002}, "model": "tardis:block/police_box/tardis_yellow_open"},
-		{"predicate": {"custom_model_data": 1003}, "model": "tardis:block/police_box/tardis_yellow_stained"},
-		{"predicate": {"custom_model_data": 1004}, "model": "tardis:block/police_box/tardis_glass"}
-	]
+   "parent": "minecraft:item/generated",
+   "textures": {
+      "layer0": "minecraft:item/yellow_dye"
+   },
+   "overrides": [
+      {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/judoon"},
+      {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/judoon/judoon_head"},
+      {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/judoon/judoon_arm"},
+      {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/judoon/judoon_weapon_arm_1"},
+      {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/judoon/judoon_walk_left_1"},
+      {"predicate": {"custom_model_data":6}, "model": "tardis:item/monster/judoon/judoon_walk_left_2"},
+      {"predicate": {"custom_model_data":7}, "model": "tardis:item/monster/judoon/judoon_walk_right_1"},
+      {"predicate": {"custom_model_data":8}, "model": "tardis:item/monster/judoon/judoon_walk_right_2"},
+      {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/judoon/judoon_weapon_arm_2"},
+      {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/judoon/judoon_disguise"},
+      {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/judoon/judoon_monster_head"},
+      {"predicate": {"custom_model_data":1001}, "model": "tardis:block/police_box/tardis_yellow"},
+      {"predicate": {"custom_model_data":1002}, "model": "tardis:block/police_box/tardis_yellow_open"},
+      {"predicate": {"custom_model_data":1003}, "model": "tardis:block/police_box/tardis_yellow_stained"},
+      {"predicate": {"custom_model_data":1004}, "model": "tardis:block/police_box/tardis_glass"},
+      {"predicate": {"custom_model_data":1005}, "model": "tardis:block/police_box/flying/flying_yellow"}
+   ]
 }

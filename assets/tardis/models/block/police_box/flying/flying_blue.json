@@ -1,0 +1,6 @@
+{
+  "parent": "tardis:block/police_box/flying/flying",
+  "textures":{
+    "f":"tardis:block/police_box/flying/flying_blue"
+  }
+}
