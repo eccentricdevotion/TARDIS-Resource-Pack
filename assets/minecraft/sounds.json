@@ -101,48 +101,48 @@
       "category":"ambient",
       "sounds":[
          {
-            "name":"tardis:tardis_hum_coral",
-            "type":"event"
+            "name":"tardis:tardis_hum_1",
+            "stream":true
          },
          {
-            "name":"tardis:tardis_hum_copper",
-            "type":"event"
+            "name":"tardis:tardis_hum_2",
+            "stream":true
          },
          {
-            "name":"tardis:tardis_hum_computer",
-            "type":"event"
+            "name":"tardis:tardis_hum_3",
+            "stream":true
          },
          {
-            "name":"tardis:tardis_hum_sleeping",
-            "type":"event"
+            "name":"tardis:tardis_hum_4",
+            "stream":true
          },
          {
-            "name":"tardis:tardis_hum_galaxy",
-            "type":"event"
+            "name":"tardis:tardis_hum_5",
+            "stream":true
          },
          {
-            "name":"tardis:tardis_hum_mind",
-            "type":"event"
+            "name":"tardis:tardis_hum_6",
+            "stream":true
          },
          {
-            "name":"tardis:tardis_hum_void",
-            "type":"event"
+            "name":"tardis:tardis_hum_7",
+            "stream":true
          },
          {
-            "name":"tardis:tardis_hum_alien",
-            "type":"event"
+            "name":"tardis:tardis_hum_8",
+            "stream":true
          },
          {
-            "name":"tardis:tardis_hum_atmosphere",
-            "type":"event"
+            "name":"tardis:tardis_hum_9",
+            "stream":true
          },
          {
-            "name":"tardis:tardis_hum_learning",
-            "type":"event"
+            "name":"tardis:tardis_hum_10",
+            "stream":true
          },
          {
-            "name":"tardis:tardis_hum_neon",
-            "type":"event"
+            "name":"tardis:tardis_hum_11",
+            "stream":true
          }
       ],
       "subtitle":"TARDIS hums"
@@ -748,7 +748,7 @@
         "sounds": [
             "tardis:theme_63",
             "tardis:theme_05",
-            "tardis:theme_20"            
+            "tardis:theme_20"
         ],
         "subtitle": "Doctor Who Theme"
     }
