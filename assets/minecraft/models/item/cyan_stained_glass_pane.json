@@ -1,15 +1,30 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:block/cyan_stained_glass"
+        "layer0": "minecraft:block/tennant_stained_glass"
     },
     "overrides": [
     {"predicate": {"custom_model_data":1001}, "model": "tardis:block/police_box/tardis_tennant"},
       {"predicate": {"custom_model_data":1002}, "model": "tardis:block/police_box/tardis_tennant_open"},
       {"predicate": {"custom_model_data":1003}, "model": "tardis:block/police_box/tardis_tennant_stained"},
       {"predicate": {"custom_model_data":1004}, "model": "tardis:block/police_box/tardis_glass"},
-      {"predicate": {"custom_model_data":1005}, "model": "tardis:block/police_box/flying/flying_tennant"},
-      {"predicate": {"custom_model_data":10000013}, "model": "tardis:item/products/glow_sticks/cyan_glow_stick"},
-      {"predicate": {"custom_model_data":12000013}, "model": "tardis:item/products/glow_sticks/cyan_glow_stick_active"}
+      {"predicate": {"custom_model_data":1005}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_0"},
+      {"predicate": {"custom_model_data":1006}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_1"},
+      {"predicate": {"custom_model_data":1007}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_2"},
+      {"predicate": {"custom_model_data":1008}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_3"},
+      {"predicate": {"custom_model_data":1009}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_4"},
+      {"predicate": {"custom_model_data":1010}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_5"},
+      {"predicate": {"custom_model_data":1011}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_6"},
+      {"predicate": {"custom_model_data":1012}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_7"},
+      {"predicate": {"custom_model_data":1013}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_8"},
+      {"predicate": {"custom_model_data":1014}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_9"},
+      {"predicate": {"custom_model_data":1015}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_10"},
+      {"predicate": {"custom_model_data":1016}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_11"},
+      {"predicate": {"custom_model_data":1017}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_12"},
+      {"predicate": {"custom_model_data":1018}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_13"},
+      {"predicate": {"custom_model_data":1019}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_14"},
+      {"predicate": {"custom_model_data":1020}, "model": "tardis:block/police_box/flying/tennant/tennant_flying_15"},
+      {"predicate": {"custom_model_data":10000013}, "model": "tardis:item/products/glow_sticks/tennant_glow_stick"},
+      {"predicate": {"custom_model_data":12000013}, "model": "tardis:item/products/glow_sticks/tennant_glow_stick_active"}
     ]
 }

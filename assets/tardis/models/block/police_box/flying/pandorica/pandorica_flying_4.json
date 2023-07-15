@@ -1,0 +1,10 @@
+{
+	"parent": "tardis:block/pandorica",
+	"display": {
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -6.25, 0],
+			"scale": [1.75, 1.75, 1.75]
+		}
+	}
+}
