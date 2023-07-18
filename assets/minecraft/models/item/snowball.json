@@ -9,9 +9,17 @@
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/ice_warrior/ice_warrior_dagger_arm"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/ice_warrior/ice_warrior_head"},
         {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/ice_warrior/ice_warrior_disguise"},
-        {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/ice_warrior/ice_warrior_static"},
-        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/ice_warrior/ice_warrior_walking"},
-        {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/ice_warrior/ice_warrior_attacking"},
+        {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/ice_warrior/frames/ice_warrior_0"},
+        {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/ice_warrior/frames/ice_warrior_1"},
+        {"predicate": {"custom_model_data":402}, "model": "tardis:item/monster/ice_warrior/frames/ice_warrior_2"},
+        {"predicate": {"custom_model_data":403}, "model": "tardis:item/monster/ice_warrior/frames/ice_warrior_3"},
+        {"predicate": {"custom_model_data":404}, "model": "tardis:item/monster/ice_warrior/frames/ice_warrior_4"},
+        {"predicate": {"custom_model_data":405}, "model": "tardis:item/monster/ice_warrior/ice_warrior_static"},
+        {"predicate": {"custom_model_data":406}, "model": "tardis:item/monster/ice_warrior/frames/ice_warrior_attacking_0"},
+        {"predicate": {"custom_model_data":407}, "model": "tardis:item/monster/ice_warrior/frames/ice_warrior_attacking_1"},
+        {"predicate": {"custom_model_data":408}, "model": "tardis:item/monster/ice_warrior/frames/ice_warrior_attacking_2"},
+        {"predicate": {"custom_model_data":409}, "model": "tardis:item/monster/ice_warrior/frames/ice_warrior_attacking_3"},
+        {"predicate": {"custom_model_data":410}, "model": "tardis:item/monster/ice_warrior/frames/ice_warrior_attacking_4"},
         {"predicate": {"custom_model_data":10000003}, "model": "tardis:item/products/ice_bomb"}
-	]
+    ]
 }

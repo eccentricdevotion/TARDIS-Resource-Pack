@@ -7,8 +7,16 @@
         {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/dalek_sec"},
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/dalek_sec/dalek_sec_head"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/dalek_sec/dalek_sec_disguise"},
-        {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/dalek_sec/dalek_sec_static"},
-        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/dalek_sec/dalek_sec_walking"},
-        {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/dalek_sec/dalek_sec_attacking"}
+        {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/dalek_sec/frames/dalek_sec_0"},
+        {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/dalek_sec/frames/dalek_sec_1"},
+        {"predicate": {"custom_model_data":402}, "model": "tardis:item/monster/dalek_sec/frames/dalek_sec_2"},
+        {"predicate": {"custom_model_data":403}, "model": "tardis:item/monster/dalek_sec/frames/dalek_sec_3"},
+        {"predicate": {"custom_model_data":404}, "model": "tardis:item/monster/dalek_sec/frames/dalek_sec_4"},
+        {"predicate": {"custom_model_data":405}, "model": "tardis:item/monster/dalek_sec/dalek_sec_static"},
+        {"predicate": {"custom_model_data":406}, "model": "tardis:item/monster/dalek_sec/frames/dalek_sec_attacking_0"},
+        {"predicate": {"custom_model_data":407}, "model": "tardis:item/monster/dalek_sec/frames/dalek_sec_attacking_1"},
+        {"predicate": {"custom_model_data":408}, "model": "tardis:item/monster/dalek_sec/frames/dalek_sec_attacking_2"},
+        {"predicate": {"custom_model_data":409}, "model": "tardis:item/monster/dalek_sec/frames/dalek_sec_attacking_3"},
+        {"predicate": {"custom_model_data":410}, "model": "tardis:item/monster/dalek_sec/frames/dalek_sec_attacking_4"}
     ]
 }

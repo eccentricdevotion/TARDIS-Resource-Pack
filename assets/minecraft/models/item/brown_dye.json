@@ -24,6 +24,11 @@
       {"predicate": {"custom_model_data":1017}, "model": "tardis:block/police_box/flying/brown/brown_flying_12"},
       {"predicate": {"custom_model_data":1018}, "model": "tardis:block/police_box/flying/brown/brown_flying_13"},
       {"predicate": {"custom_model_data":1019}, "model": "tardis:block/police_box/flying/brown/brown_flying_14"},
-      {"predicate": {"custom_model_data":1020}, "model": "tardis:block/police_box/flying/brown/brown_flying_15"}
+      {"predicate": {"custom_model_data":1020}, "model": "tardis:block/police_box/flying/brown/brown_flying_15"},
+      {"predicate": {"custom_model_data":1021}, "model": "tardis:item/time_rotor/eleventh/eleventh_0"},
+      {"predicate": {"custom_model_data":1022}, "model": "tardis:item/time_rotor/eleventh/eleventh_1"},
+      {"predicate": {"custom_model_data":1023}, "model": "tardis:item/time_rotor/eleventh/eleventh_2"},
+      {"predicate": {"custom_model_data":1024}, "model": "tardis:item/time_rotor/eleventh/eleventh_3"},
+      {"predicate": {"custom_model_data":1025}, "model": "tardis:item/time_rotor/eleventh/eleventh_4"}
    ]
 }

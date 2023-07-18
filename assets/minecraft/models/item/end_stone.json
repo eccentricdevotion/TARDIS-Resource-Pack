@@ -9,8 +9,17 @@
 		{"predicate": {"custom_model_data":6}, "model": "tardis:item/monster/silent/silent_mouth_open"},
 		{"predicate": {"custom_model_data":7}, "model": "tardis:item/monster/silent/silent_arm_right"},
 		{"predicate": {"custom_model_data":8}, "model": "tardis:item/monster/silent/silent_arm_left"},
-		{"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/silent/silent_static"},
-		{"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/silent/silent_walking"},
-		{"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/silent/silent_beaming"}
+		{"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/silent/silent_beaming"},
+    {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/silent/frames/silent_0"},
+    {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/silent/frames/silent_1"},
+    {"predicate": {"custom_model_data":402}, "model": "tardis:item/monster/silent/frames/silent_2"},
+    {"predicate": {"custom_model_data":403}, "model": "tardis:item/monster/silent/frames/silent_3"},
+    {"predicate": {"custom_model_data":404}, "model": "tardis:item/monster/silent/frames/silent_4"},
+    {"predicate": {"custom_model_data":405}, "model": "tardis:item/monster/silent/silent_static"},
+    {"predicate": {"custom_model_data":406}, "model": "tardis:item/monster/silent/frames/silent_attacking_0"},
+    {"predicate": {"custom_model_data":407}, "model": "tardis:item/monster/silent/frames/silent_attacking_1"},
+    {"predicate": {"custom_model_data":408}, "model": "tardis:item/monster/silent/frames/silent_attacking_2"},
+    {"predicate": {"custom_model_data":409}, "model": "tardis:item/monster/silent/frames/silent_attacking_3"},
+    {"predicate": {"custom_model_data":410}, "model": "tardis:item/monster/silent/frames/silent_attacking_4"}
 	]
 }

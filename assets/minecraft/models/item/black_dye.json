@@ -24,6 +24,14 @@
       {"predicate": {"custom_model_data":1017}, "model": "tardis:block/police_box/flying/black/black_flying_12"},
       {"predicate": {"custom_model_data":1018}, "model": "tardis:block/police_box/flying/black/black_flying_13"},
       {"predicate": {"custom_model_data":1019}, "model": "tardis:block/police_box/flying/black/black_flying_14"},
-      {"predicate": {"custom_model_data":1020}, "model": "tardis:block/police_box/flying/black/black_flying_15"}
+      {"predicate": {"custom_model_data":1020}, "model": "tardis:block/police_box/flying/black/black_flying_15"},
+      {"predicate": {"custom_model_data":1021}, "model": "tardis:item/time_rotor/early/early_0"},
+      {"predicate": {"custom_model_data":1022}, "model": "tardis:item/time_rotor/early/early_1"},
+      {"predicate": {"custom_model_data":1023}, "model": "tardis:item/time_rotor/early/early_2"},
+      {"predicate": {"custom_model_data":1024}, "model": "tardis:item/time_rotor/early/early_3"},
+      {"predicate": {"custom_model_data":1025}, "model": "tardis:item/time_rotor/early/early_4"},
+      {"predicate": {"custom_model_data":1026}, "model": "tardis:item/time_rotor/early/early_5"},
+      {"predicate": {"custom_model_data":1027}, "model": "tardis:item/time_rotor/early/early_6"},
+      {"predicate": {"custom_model_data":1028}, "model": "tardis:item/time_rotor/early/early_7"}
    ]
 }

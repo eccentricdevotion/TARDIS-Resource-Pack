@@ -24,6 +24,7 @@
       {"predicate": {"custom_model_data":1017}, "model": "tardis:block/police_box/flying/gray/gray_flying_12"},
       {"predicate": {"custom_model_data":1018}, "model": "tardis:block/police_box/flying/gray/gray_flying_13"},
       {"predicate": {"custom_model_data":1019}, "model": "tardis:block/police_box/flying/gray/gray_flying_14"},
-      {"predicate": {"custom_model_data":1020}, "model": "tardis:block/police_box/flying/gray/gray_flying_15"}
+      {"predicate": {"custom_model_data":1020}, "model": "tardis:block/police_box/flying/gray/gray_flying_15"},
+      {"predicate": {"custom_model_data":1021}, "model": "tardis:item/time_rotor/time_rotor_twelfth_off"}
    ]
 }
