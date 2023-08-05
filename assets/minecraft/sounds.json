@@ -306,6 +306,20 @@
       ],
       "subtitle":"Door closes"
    },
+   "pandorica_close":{
+      "category":"master",
+      "sounds":[
+         "tardis:pandorica"
+      ],
+      "subtitle":"Pandorica closes"
+   },
+   "pandorica_open":{
+      "category":"master",
+      "sounds":[
+         "tardis:pandorica"
+      ],
+      "subtitle":"Pandorica opens"
+   },
    "tardis_handbrake_engage":{
       "category":"master",
       "sounds":[
