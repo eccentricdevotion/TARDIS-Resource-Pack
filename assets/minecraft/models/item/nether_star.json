@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/admin"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/bowl/button_prefs"}
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/bowl/button_prefs"},
+		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/gui/add_companion"}
 	]
 }
