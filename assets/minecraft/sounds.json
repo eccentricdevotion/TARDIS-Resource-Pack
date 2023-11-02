@@ -396,6 +396,13 @@
       ],
       "subtitle":"TARDIS vworps"
    },
+    "time_rotor_flying": {
+        "category": "master",
+        "sounds": [
+            "tardis:time_rotor_flying"
+        ],
+        "subtitle": "TARDIS vworps"
+   },
    "power_up":{
       "category":"master",
       "sounds":[
