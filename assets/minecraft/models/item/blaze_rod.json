@@ -14,12 +14,14 @@
 		{"predicate": {"custom_model_data": 10000011}, "model": "tardis:item/sonic/eleventh"},
 		{"predicate": {"custom_model_data": 10000012}, "model": "tardis:item/sonic/twelfth"},
 		{"predicate": {"custom_model_data": 10000013}, "model": "tardis:item/sonic/thirteenth"},
+		{"predicate": {"custom_model_data": 10000014}, "model": "tardis:item/sonic/fourteenth"},
 		{"predicate": {"custom_model_data": 10000031}, "model": "tardis:item/sonic/river_song"},
 		{"predicate": {"custom_model_data": 10000032}, "model": "tardis:item/sonic/master"},
 		{"predicate": {"custom_model_data": 10000033}, "model": "tardis:item/sonic/sarah_jane"},
 		{"predicate": {"custom_model_data": 10000085}, "model": "tardis:item/sonic/war"},
 		{"predicate": {"custom_model_data": 12000009}, "model": "tardis:item/sonic/ninth_open"},
 		{"predicate": {"custom_model_data": 12000010}, "model": "tardis:item/sonic/tenth_open"},
-		{"predicate": {"custom_model_data": 12000011}, "model": "tardis:item/sonic/eleventh_open"}
+		{"predicate": {"custom_model_data": 12000011}, "model": "tardis:item/sonic/eleventh_open"},
+		{"predicate": {"custom_model_data": 12000014}, "model": "tardis:item/sonic/fourteenth_open"}
 	]
 }
