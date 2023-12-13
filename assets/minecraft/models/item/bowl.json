@@ -156,6 +156,7 @@
 		{"predicate": {"custom_model_data": 150}, "model": "tardis:item/circuit/brush"},
 		{"predicate": {"custom_model_data": 151}, "model": "tardis:item/gui/bowl/new"},
 		{"predicate": {"custom_model_data": 152}, "model": "tardis:item/gui/bowl/use_selected"},
-		{"predicate": {"custom_model_data": 153}, "model": "tardis:item/gui/bowl/update_selected"}
+		{"predicate": {"custom_model_data": 153}, "model": "tardis:item/gui/bowl/update_selected"},
+		{"predicate": {"custom_model_data": 154}, "model": "tardis:item/circuit/conversion"}
 	]
 }

@@ -28,6 +28,8 @@
 		{"predicate": {"custom_model_data": 10001984}, "model": "tardis:item/circuit/pickup"},
 		{"predicate": {"custom_model_data": 10001985}, "model": "tardis:item/circuit/gallifrey"},
 		{"predicate": {"custom_model_data": 10001986}, "model": "tardis:item/circuit/knockback"},
+		{"predicate": {"custom_model_data": 10001987}, "model": "tardis:item/circuit/brush"},
+		{"predicate": {"custom_model_data": 10001988}, "model": "tardis:item/circuit/conversion"},
 		{"predicate": {"custom_model_data": 20001964}, "model": "tardis:item/circuit/materialisation_damaged"},
 		{"predicate": {"custom_model_data": 20001966}, "model": "tardis:item/circuit/chameleon_damaged"},
 		{"predicate": {"custom_model_data": 20001973}, "model": "tardis:item/circuit/ars_damaged"},
