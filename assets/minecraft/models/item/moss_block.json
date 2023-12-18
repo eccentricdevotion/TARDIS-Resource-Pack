@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/moss_block"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/pen"}
+  ]
+}
