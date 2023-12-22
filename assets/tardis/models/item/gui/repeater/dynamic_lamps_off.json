@@ -2,7 +2,7 @@
 	"parent": "tardis:item/gui/gui_item",
 	"textures": {
 		"0": "minecraft:block/stone",
-		"1": "tardis:item/gui/config/dynamic_lamps_off",
+		"1": "tardis:item/gui/prefs/dynamic_lamps_off",
 		"particle": "minecraft:block/stone"
 	}
 }
