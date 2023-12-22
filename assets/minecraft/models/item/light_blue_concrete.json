@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:block/light_blue_concrete",
 	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/allay"},
 		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/chemistry/constructor"}
 	]
 }
