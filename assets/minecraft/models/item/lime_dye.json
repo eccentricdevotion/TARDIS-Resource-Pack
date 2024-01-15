@@ -24,6 +24,22 @@
       {"predicate": {"custom_model_data":1017}, "model": "tardis:block/police_box/flying/lime/lime_flying_12"},
       {"predicate": {"custom_model_data":1018}, "model": "tardis:block/police_box/flying/lime/lime_flying_13"},
       {"predicate": {"custom_model_data":1019}, "model": "tardis:block/police_box/flying/lime/lime_flying_14"},
-      {"predicate": {"custom_model_data":1020}, "model": "tardis:block/police_box/flying/lime/lime_flying_15"}
+      {"predicate": {"custom_model_data":1020}, "model": "tardis:block/police_box/flying/lime/lime_flying_15"},
+      {"predicate": {"custom_model_data":2005}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_0"},
+      {"predicate": {"custom_model_data":2006}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_1"},
+      {"predicate": {"custom_model_data":2007}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_2"},
+      {"predicate": {"custom_model_data":2008}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_3"},
+      {"predicate": {"custom_model_data":2009}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_4"},
+      {"predicate": {"custom_model_data":2010}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_5"},
+      {"predicate": {"custom_model_data":2011}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_6"},
+      {"predicate": {"custom_model_data":2012}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_7"},
+      {"predicate": {"custom_model_data":2013}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_8"},
+      {"predicate": {"custom_model_data":2014}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_9"},
+      {"predicate": {"custom_model_data":2015}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_10"},
+      {"predicate": {"custom_model_data":2016}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_11"},
+      {"predicate": {"custom_model_data":2017}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_12"},
+      {"predicate": {"custom_model_data":2018}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_13"},
+      {"predicate": {"custom_model_data":2019}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_14"},
+      {"predicate": {"custom_model_data":2020}, "model": "tardis:block/police_box/flying/lime/lime_flying_open_15"}
    ]
 }

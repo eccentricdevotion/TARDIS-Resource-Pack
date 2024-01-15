@@ -1,0 +1,10 @@
+{
+	"parent": "tardis:block/police_box/tardis_tinted_open",
+	"display": {
+		"head": {
+			"rotation": [0, 157.5, 0],
+			"translation": [0, -21.25, 0],
+			"scale": [2.8, 2.8, 2.8]
+		}
+	}
+}
