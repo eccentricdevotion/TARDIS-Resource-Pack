@@ -4,6 +4,8 @@
 		"layer0": "minecraft:item/flower_pot"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data":1000}, "model": "tardis:item/sonic/sonic_dock_off"},
+		{"predicate": {"custom_model_data":1001}, "model": "tardis:item/sonic/sonic_dock_on"},
 		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/sonic/sonic_generator"}
 	]
 }
