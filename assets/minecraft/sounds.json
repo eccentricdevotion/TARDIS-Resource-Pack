@@ -772,5 +772,19 @@
             "tardis:theme_20"
         ],
         "subtitle": "Doctor Who Theme"
+    },
+    "differentiator_on": {
+        "category": "master",
+        "sounds": [
+            "tardis:relativity_differentiator_on"
+        ],
+        "subtitle": "Relativity Differentiator bleeps on"
+    },
+    "differentiator_off": {
+        "category": "master",
+        "sounds": [
+            "tardis:relativity_differentiator_off"
+        ],
+        "subtitle": "Relativity Differentiator bleeps off"
     }
 }
