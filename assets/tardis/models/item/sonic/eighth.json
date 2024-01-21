@@ -575,6 +575,9 @@
 			"rotation": [30, 50, -75],
 			"translation": [0.5, 0.75, 0],
 			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [0.5, 0, -0.5]
 		}
 	}
 }

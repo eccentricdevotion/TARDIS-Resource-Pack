@@ -1260,8 +1260,7 @@
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"fixed": {
-			"translation": [0, 8, 0],
-			"scale": [2, 2, 2]
+			"translation": [0, 3.5, 0]
 		}
 	}
 }
