@@ -374,8 +374,9 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"fixed": {
-			"rotation": [-90, -45, 0],
-			"translation": [0, 0, -7.5]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -5.5],
+			"scale": [0.85, 0.85, 0.85]
 		}
 	},
 	"groups": [
@@ -396,12 +397,14 @@
 			"name": "group",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [13, 14, 15]
 		},
 		{
 			"name": "group",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [16, 17, 18]
 		},
 		19,
