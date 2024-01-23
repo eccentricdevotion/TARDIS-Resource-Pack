@@ -786,5 +786,19 @@
             "tardis:relativity_differentiator_off"
         ],
         "subtitle": "Relativity Differentiator bleeps off"
+    },
+    "charge_done": {
+        "category": "master",
+        "sounds": [
+            "tardis:charge_done"
+        ],
+        "subtitle": "Sonic finishes recharging"
+    },
+    "charge_fail": {
+        "category": "master",
+        "sounds": [
+            "tardis:charge_fail"
+        ],
+        "subtitle": "Sonic fails to recharge"
     }
 }
