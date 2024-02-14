@@ -4,6 +4,22 @@
 		"layer0": "minecraft:block/lever"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/handbrake"}
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/handbrake"},
+		{"predicate": {"custom_model_data": 1000}, "model": "tardis:block/control/lamp_0"},
+		{"predicate": {"custom_model_data": 1001}, "model": "tardis:block/control/lamp_1"},
+		{"predicate": {"custom_model_data": 1002}, "model": "tardis:block/control/lamp_2"},
+		{"predicate": {"custom_model_data": 1003}, "model": "tardis:block/control/lamp_3"},
+		{"predicate": {"custom_model_data": 2000}, "model": "tardis:block/control/lamp_0_off"}
+		{"predicate": {"custom_model_data": 2001}, "model": "tardis:block/control/lamp_1_off"},
+		{"predicate": {"custom_model_data": 2002}, "model": "tardis:block/control/lamp_2_off"},
+		{"predicate": {"custom_model_data": 2003}, "model": "tardis:block/control/lamp_3_off"},
+		{"predicate": {"custom_model_data": 3000}, "model": "tardis:block/control/light_0"},
+		{"predicate": {"custom_model_data": 3001}, "model": "tardis:block/control/light_1"},
+		{"predicate": {"custom_model_data": 3002}, "model": "tardis:block/control/light_2"},
+		{"predicate": {"custom_model_data": 3003}, "model": "tardis:block/control/light_3"},
+		{"predicate": {"custom_model_data": 4000}, "model": "tardis:block/control/light_0_off"}
+		{"predicate": {"custom_model_data": 4001}, "model": "tardis:block/control/light_1_off"},
+		{"predicate": {"custom_model_data": 4002}, "model": "tardis:block/control/light_2_off"},
+		{"predicate": {"custom_model_data": 4003}, "model": "tardis:block/control/light_3_off"}
 	]
 }
