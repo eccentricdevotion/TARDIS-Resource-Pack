@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_hoe"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/sonic/blaster"}
+	]
+}
