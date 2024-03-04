@@ -25,14 +25,16 @@
 		{"predicate": {"custom_model_data": 10000022}, "model": "tardis:item/compounds/jar"},
 		{"predicate": {"custom_model_data": 10000023}, "model": "tardis:item/compounds/jar"},
 		{"predicate": {"custom_model_data": 10000024}, "model": "tardis:item/compounds/potassium_iodide"},
-		{"predicate": {"custom_model_data": 10000025}, "model": "tardis:item/compounds/salt"},
-		{"predicate": {"custom_model_data": 10000026}, "model": "tardis:item/compounds/soap"},
-		{"predicate": {"custom_model_data": 10000027}, "model": "tardis:item/compounds/jar"},
-		{"predicate": {"custom_model_data": 10000028}, "model": "tardis:item/compounds/sodium_fluoride"},
-		{"predicate": {"custom_model_data": 10000029}, "model": "tardis:item/compounds/sodium_hydride"},
-		{"predicate": {"custom_model_data": 10000030}, "model": "tardis:item/compounds/sodium_hypochlorite"},
-		{"predicate": {"custom_model_data": 10000031}, "model": "tardis:item/compounds/jar"},
+		{"predicate": {"custom_model_data": 10000025}, "model": "tardis:item/compounds/jar"},
+		{"predicate": {"custom_model_data": 10000026}, "model": "tardis:item/compounds/salt"},
+		{"predicate": {"custom_model_data": 10000027}, "model": "tardis:item/compounds/soap"},
+		{"predicate": {"custom_model_data": 10000028}, "model": "tardis:item/compounds/jar"},
+		{"predicate": {"custom_model_data": 10000029}, "model": "tardis:item/compounds/sodium_fluoride"},
+		{"predicate": {"custom_model_data": 10000030}, "model": "tardis:item/compounds/sodium_hydride"},
+		{"predicate": {"custom_model_data": 10000031}, "model": "tardis:item/compounds/sodium_hypochlorite"},
+		{"predicate": {"custom_model_data": 10000032}, "model": "tardis:item/compounds/jar"},
 		{"predicate": {"custom_model_data": 10000033}, "model": "tardis:item/compounds/jar"},
-		{"predicate": {"custom_model_data": 10000034}, "model": "tardis:item/compounds/tungsten_chloride"}
-	]
+		{"predicate": {"custom_model_data": 10000034}, "model": "tardis:item/compounds/jar"},
+		{"predicate": {"custom_model_data": 10000035}, "model": "tardis:item/compounds/jar"},
+		{"predicate": {"custom_model_data": 10000036}, "model": "tardis:item/compounds/tungsten_chloride"}	]
 }
