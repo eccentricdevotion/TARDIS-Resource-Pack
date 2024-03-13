@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "tardis:item/sonic/war",
-		"1": "tardis:item/sonic/red_glass"
+		"1": "tardis:item/sonic/lipstick"
 	},
 	"elements": [
 		{

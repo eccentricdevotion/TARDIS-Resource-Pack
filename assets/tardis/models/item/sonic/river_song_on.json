@@ -6,8 +6,9 @@
 		"2": "tardis:item/disk/black_plastic",
 		"3": "tardis:item/sonic/greenish",
 		"4": "tardis:item/disk/blacker_plastic",
-		"5": "tardis:item/sonic/blue_glass",
+		"5": "tardis:item/sonic/light_blue_glass",
 		"6": "tardis:item/sonic/gold",
+		"7": "tardis:item/sonic/probe_wire",
 		"particle": "tardis:item/disk/silver"
 	},
 	"elements": [
@@ -257,6 +258,18 @@
 				"south": {"uv": [2, 6, 4.4, 8.81], "texture": "#5"},
 				"west": {"uv": [2, 6, 4.4, 8.81], "texture": "#5"},
 				"up": {"uv": [2, 6, 4.4, 8.81], "texture": "#5"}
+			}
+		},
+		{
+			"from": [7.2, 19, 8.2],
+			"to": [7.7, 20.4, 8.7],
+			"faces": {
+				"north": {"uv": [12, 11.25, 12.5, 12.65], "texture": "#7"},
+				"east": {"uv": [12, 11.25, 12.5, 12.65], "texture": "#7"},
+				"south": {"uv": [12, 11.25, 12.5, 12.65], "texture": "#7"},
+				"west": {"uv": [12, 11.25, 12.5, 12.65], "texture": "#7"},
+				"up": {"uv": [12, 11.25, 12.5, 11.75], "texture": "#7"},
+				"down": {"uv": [12, 11.25, 12.5, 11.75], "texture": "#7"}
 			}
 		},
 		{

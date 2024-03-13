@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:item/sonic/thirteenth_off",
-		"particle": "tardis:item/sonic/thirteenth_off"
+		"0": "tardis:item/sonic/thirteenth",
+		"particle": "tardis:item/sonic/thirteenth"
 	},
 	"elements": [
 		{
