@@ -633,7 +633,7 @@
 		},
 		"fixed": {
 			"rotation": [0, 180, 0],
-			"translation": [8, 9, -2],
+			"translation": [8, 9, -10],
 			"scale": [1.33, 1.33, 1.33]
 		}
 	},
