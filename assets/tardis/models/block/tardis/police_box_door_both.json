@@ -8,9 +8,18 @@
 		"4": "tardis:block/the_moment/the_moment_3",
 		"5": "tardis:block/police_box/tardis_white_police_box",
 		"6": "tardis:block/police_box/tardis_white",
+		"7": "tardis:block/police_box/tardis_black",
 		"particle": "tardis:block/police_box/tardis_blue_police_box"
 	},
 	"elements": [
+		{
+			"from": [0, 1, 8.5],
+			"to": [16, 28, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#7"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#7"}
+			}
+		},
 		{
 			"from": [16, 1, 6.95],
 			"to": [20, 27.75, 8.95],
@@ -648,12 +657,13 @@
 			"color": 0,
 			"nbt": "{}",
 			"children": [
+				0,
 				{
 					"name": "sides",
 					"origin": [8, 8, 8],
 					"color": 0,
 					"nbt": "{}",
-					"children": [0, 1, 2, 3]
+					"children": [1, 2, 3, 4]
 				},
 				{
 					"name": "door_left",
@@ -661,7 +671,6 @@
 					"color": 0,
 					"nbt": "{}",
 					"children": [
-						4,
 						5,
 						6,
 						7,
@@ -684,14 +693,15 @@
 						24,
 						25,
 						26,
+						27,
 						{
 							"name": "telephone_box",
 							"origin": [0, 0, 0],
 							"color": 0,
 							"nbt": "{}",
-							"children": [27, 28, 29]
+							"children": [28, 29, 30]
 						},
-						30
+						31
 					]
 				},
 				{
@@ -699,7 +709,7 @@
 					"origin": [8, -3.5904, 8],
 					"color": 0,
 					"nbt": "{}",
-					"children": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]
+					"children": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
 				}
 			]
 		}
