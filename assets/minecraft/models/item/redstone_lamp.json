@@ -8,6 +8,8 @@
         {"predicate": {"custom_model_data":10005}, "model": "tardis:block/lights/lamp_on"},
         {"predicate": {"custom_model_data":10006}, "model": "tardis:block/lights/tenth_on"},
         {"predicate": {"custom_model_data":10007}, "model": "tardis:block/lights/eleventh_on"},
-        {"predicate": {"custom_model_data":10011}, "model": "tardis:block/lights/lamp_on"}
+        {"predicate": {"custom_model_data":10011}, "model": "tardis:block/lights/lamp_on"},
+        {"predicate": {"custom_model_data":20006}, "model": "tardis:block/lights/tenth_cloister"},
+        {"predicate": {"custom_model_data":20007}, "model": "tardis:block/lights/eleventh_cloister"}
     ]
 }
