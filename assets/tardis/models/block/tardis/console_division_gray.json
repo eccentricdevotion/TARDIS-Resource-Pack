@@ -1,0 +1,7 @@
+{
+	"parent": "tardis:block/tardis/console_division",
+	"textures": {
+		"0": "block/gray_concrete",
+		"particle": "block/gray_concrete"
+	}
+}

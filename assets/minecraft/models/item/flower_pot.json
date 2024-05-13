@@ -6,6 +6,8 @@
 	"overrides": [
 		{"predicate": {"custom_model_data":1000}, "model": "tardis:item/sonic/sonic_dock_off"},
 		{"predicate": {"custom_model_data":1001}, "model": "tardis:item/sonic/sonic_dock_on"},
-		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/sonic/sonic_generator"}
+    {"predicate": {"custom_model_data":2000}, "model": "tardis:block/controls/sonic_dock"},
+    {"predicate": {"custom_model_data":2001}, "model": "tardis:block/controls/sonic_dock_charging"},
+		{"predicate": {"custom_model_data":10000001}, "model": "tardis:item/sonic/sonic_generator"}
 	]
 }

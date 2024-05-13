@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/oxidized_cut_copper",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/bone"}
+	]
+}

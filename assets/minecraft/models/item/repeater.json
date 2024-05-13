@@ -113,6 +113,10 @@
 		{"predicate": {"custom_model_data":153}, "model": "tardis:item/gui/repeater/announce_repeaters_off"},
 		{"predicate": {"custom_model_data":154}, "model": "tardis:item/gui/repeater/dynamic_lamps_off"},
 		{"predicate": {"custom_model_data":155}, "model": "tardis:item/gui/repeater/sonic_off"},
-		{"predicate": {"custom_model_data":156}, "model": "tardis:item/gui/repeater/info_off"}
+		{"predicate": {"custom_model_data":156}, "model": "tardis:item/gui/repeater/info_off"},
+		{"predicate": {"custom_model_data":1001}, "model": "tardis:block/controls/throttle_warp"},
+		{"predicate": {"custom_model_data":1002}, "model": "tardis:block/controls/throttle_rapid"},
+		{"predicate": {"custom_model_data":1003}, "model": "tardis:block/controls/throttle_faster"},
+		{"predicate": {"custom_model_data":1004}, "model": "tardis:block/controls/throttle_normal"}
 	]
 }

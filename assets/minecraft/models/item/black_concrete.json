@@ -2,6 +2,7 @@
   "parent": "minecraft:block/black_concrete",
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/cursed"},
+		{"predicate": {"custom_model_data":1001}, "model": "tardis:item/tardis/console_black"},
 		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/pandorica"}
 	]
 }
