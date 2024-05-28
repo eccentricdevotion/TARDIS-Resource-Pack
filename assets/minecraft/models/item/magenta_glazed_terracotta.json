@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/magenta_glazed_terracotta",
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "tardis:item/circuit/sys_t_up"},
+    {"predicate": {"custom_model_data":2}, "model": "tardis:item/circuit/sys_t_right"},
+    {"predicate": {"custom_model_data":3}, "model": "tardis:item/circuit/sys_horizontal"},
+    {"predicate": {"custom_model_data":4}, "model": "tardis:item/circuit/sys_down_right"},
+    {"predicate": {"custom_model_data":5}, "model": "tardis:item/circuit/sys_blank"},
+    {"predicate": {"custom_model_data":6}, "model": "tardis:item/circuit/sys_close"}
+  ]
+}

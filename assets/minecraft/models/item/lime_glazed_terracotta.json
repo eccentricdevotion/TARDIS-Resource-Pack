@@ -1,6 +1,18 @@
 {
 	"parent": "minecraft:block/lime_glazed_terracotta",
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/legacy_deluxe"}
+		{"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/legacy_deluxe"},
+		{"predicate": {"custom_model_data":1001}, "model": "tardis:item/circuit/sys_locked_down"},
+		{"predicate": {"custom_model_data":1002}, "model": "tardis:item/circuit/sys_locked_down_right"},
+		{"predicate": {"custom_model_data":1003}, "model": "tardis:item/circuit/sys_locked_t_down"},
+		{"predicate": {"custom_model_data":1004}, "model": "tardis:item/circuit/sys_locked_down_left"},
+		{"predicate": {"custom_model_data":1005}, "model": "tardis:item/circuit/sys_locked_left"},
+		{"predicate": {"custom_model_data":1006}, "model": "tardis:item/circuit/sys_locked_right"},
+		{"predicate": {"custom_model_data":2001}, "model": "tardis:item/circuit/sys_unlocked_down"},
+		{"predicate": {"custom_model_data":2002}, "model": "tardis:item/circuit/sys_unlocked_down_right"},
+		{"predicate": {"custom_model_data":2003}, "model": "tardis:item/circuit/sys_unlocked_t_down"},
+		{"predicate": {"custom_model_data":2004}, "model": "tardis:item/circuit/sys_unlocked_down_left"},
+		{"predicate": {"custom_model_data":2005}, "model": "tardis:item/circuit/sys_unlocked_left"},
+		{"predicate": {"custom_model_data":2006}, "model": "tardis:item/circuit/sys_unlocked_right"}
 	]
 }
