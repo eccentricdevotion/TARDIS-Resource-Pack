@@ -158,6 +158,7 @@
 		{"predicate": {"custom_model_data": 152}, "model": "tardis:item/gui/bowl/use_selected"},
 		{"predicate": {"custom_model_data": 153}, "model": "tardis:item/gui/bowl/update_selected"},
 		{"predicate": {"custom_model_data": 154}, "model": "tardis:item/circuit/conversion"},
-		{"predicate": {"custom_model_data": 155}, "model": "tardis:item/gui/bowl/button_farm_prefs"}
+		{"predicate": {"custom_model_data": 155}, "model": "tardis:item/gui/bowl/button_farm_prefs"},
+		{"predicate": {"custom_model_data": 156}, "model": "tardis:item/gui/bowl/button_system_upgrades"}
 	]
 }
