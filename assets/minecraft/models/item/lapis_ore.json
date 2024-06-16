@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/lapis_ore",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/particle/shape_selected"}
+  ]
+}
