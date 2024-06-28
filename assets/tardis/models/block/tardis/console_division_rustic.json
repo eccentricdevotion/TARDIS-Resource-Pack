@@ -1,0 +1,7 @@
+{
+	"parent": "tardis:block/tardis/console_division",
+	"textures": {
+		"0": "block/spruce_trapdoor",
+		"particle": "block/spruce_trapdoor"
+	}
+}

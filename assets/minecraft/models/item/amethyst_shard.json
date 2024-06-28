@@ -20,6 +20,7 @@
     {"predicate": {"custom_model_data": 1014}, "model": "tardis:block/tardis/console_magenta"},
     {"predicate": {"custom_model_data": 1015}, "model": "tardis:block/tardis/console_pink"},
     {"predicate": {"custom_model_data": 1016}, "model": "tardis:block/tardis/console_brown"},
+    {"predicate": {"custom_model_data": 1017}, "model": "tardis:block/tardis/console_rustic"},
     {"predicate": {"custom_model_data": 2001}, "model": "tardis:block/tardis/console_division_light_gray"},
     {"predicate": {"custom_model_data": 2002}, "model": "tardis:block/tardis/console_division_gray"},
     {"predicate": {"custom_model_data": 2003}, "model": "tardis:block/tardis/console_division_black"},
@@ -36,6 +37,7 @@
     {"predicate": {"custom_model_data": 2014}, "model": "tardis:block/tardis/console_division_magenta"},
     {"predicate": {"custom_model_data": 2015}, "model": "tardis:block/tardis/console_division_pink"},
     {"predicate": {"custom_model_data": 2016}, "model": "tardis:block/tardis/console_division_brown"},
+    {"predicate": {"custom_model_data": 2017}, "model": "tardis:block/tardis/console_division_rustic"},
     {"predicate": {"custom_model_data": 3001}, "model": "tardis:block/tardis/console_centre_light_gray"},
     {"predicate": {"custom_model_data": 3002}, "model": "tardis:block/tardis/console_centre_gray"},
     {"predicate": {"custom_model_data": 3003}, "model": "tardis:block/tardis/console_centre_black"},
@@ -51,6 +53,7 @@
     {"predicate": {"custom_model_data": 3013}, "model": "tardis:block/tardis/console_centre_purple"},
     {"predicate": {"custom_model_data": 3014}, "model": "tardis:block/tardis/console_centre_magenta"},
     {"predicate": {"custom_model_data": 3015}, "model": "tardis:block/tardis/console_centre_pink"},
-    {"predicate": {"custom_model_data": 3016}, "model": "tardis:block/tardis/console_centre_brown"}
+    {"predicate": {"custom_model_data": 3016}, "model": "tardis:block/tardis/console_centre_brown"},
+    {"predicate": {"custom_model_data": 3017}, "model": "tardis:block/tardis/console_centre_rustic"}
   ]
 }
