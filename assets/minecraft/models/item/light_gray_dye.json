@@ -48,6 +48,7 @@
       {"predicate": {"custom_model_data":10000007}, "model": "tardis:item/time_rotor/engine_off"},
       {"predicate": {"custom_model_data":10000008}, "model": "tardis:item/time_rotor/engine_rotor_off"},
       {"predicate": {"custom_model_data":10000009}, "model": "tardis:item/time_rotor/hospital_off"},
-      {"predicate": {"custom_model_data":10000100}, "model": "tardis:item/time_rotor/time_rotor_console_off"}
+      {"predicate": {"custom_model_data":10000100}, "model": "tardis:item/time_rotor/time_rotor_console_off"},
+      {"predicate": {"custom_model_data":10000101}, "model": "tardis:item/time_rotor/time_rotor_rustic_off"}
    ]
 }
