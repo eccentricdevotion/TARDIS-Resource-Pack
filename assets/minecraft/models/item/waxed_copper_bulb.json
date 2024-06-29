@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_bulb",
+  "overrides": [
+		{"predicate": {"custom_model_data":10008}, "model": "tardis:block/lights/bulb"}
+  ]
+}
