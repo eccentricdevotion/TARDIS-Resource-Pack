@@ -1,10 +1,10 @@
 {
 	"parent": "tardis:item/circuit/sys",
 	"textures": {
-		"0": "tardis:item/circuit/sys_branch_unlocked",
+		"0": "tardis:item/circuit/sys_unlocked",
 		"1": "block/gray_wool",
 		"2": "block/light_gray_concrete",
-		"particle": "tardis:item/circuit/sys_branch_unlocked"
+		"particle": "tardis:item/circuit/sys_unlocked"
 	},
 	"elements": [
 		{
@@ -17,21 +17,12 @@
 			}
 		},
 		{
-			"from": [7, 0.075, 15],
-			"to": [9, 0.075, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 15]},
+			"from": [7, 0.075, 0],
+			"to": [9, 0.075, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 0, 1]},
 			"faces": {
-				"up": {"uv": [0, 0, 2, 1], "texture": "#1"},
-				"down": {"uv": [0, 0, 2, 1], "texture": "#1"}
-			}
-		},
-		{
-			"from": [15, 0.075, 7],
-			"to": [16, 0.075, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 7]},
-			"faces": {
-				"up": {"uv": [0, 0, 2, 1], "rotation": 90, "texture": "#1"},
-				"down": {"uv": [0, 0, 2, 1], "rotation": 270, "texture": "#1"}
+				"up": {"uv": [0, 0, 2, 1], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [0, 0, 2, 1], "rotation": 180, "texture": "#1"}
 			}
 		},
 		{

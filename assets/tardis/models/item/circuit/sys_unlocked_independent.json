@@ -2,7 +2,6 @@
 	"parent": "tardis:item/circuit/sys",
 	"textures": {
 		"0": "tardis:item/circuit/sys_unlocked",
-		"1": "block/gray_wool",
 		"2": "block/light_gray_concrete",
 		"particle": "tardis:item/circuit/sys_unlocked"
 	},
@@ -13,16 +12,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 1]},
 			"faces": {
 				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
-			}
-		},
-		{
-			"from": [0, 0.075, 7],
-			"to": [1, 0.075, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 9]},
-			"faces": {
-				"up": {"uv": [0, 0, 2, 1], "rotation": 270, "texture": "#1"},
-				"down": {"uv": [0, 0, 2, 1], "rotation": 90, "texture": "#1"}
+				"down": {"uv": [0, 16, 16, 0], "texture": "#0"}
 			}
 		},
 		{
