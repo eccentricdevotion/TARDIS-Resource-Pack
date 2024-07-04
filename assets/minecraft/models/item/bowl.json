@@ -160,6 +160,8 @@
 		{"predicate": {"custom_model_data": 154}, "model": "tardis:item/circuit/conversion"},
 		{"predicate": {"custom_model_data": 155}, "model": "tardis:item/gui/bowl/button_farm_prefs"},
 		{"predicate": {"custom_model_data": 156}, "model": "tardis:item/gui/bowl/button_system_upgrades"},
-		{"predicate": {"custom_model_data": 157}, "model": "tardis:item/gui/bowl/button_particles"}
+		{"predicate": {"custom_model_data": 157}, "model": "tardis:item/gui/bowl/button_particles"},
+		{"predicate": {"custom_model_data": 158}, "model": "tardis:item/gui/bowl/auto_save"},
+		{"predicate": {"custom_model_data": 159}, "model": "tardis:item/gui/bowl/auto_save_selector"}
 	]
 }

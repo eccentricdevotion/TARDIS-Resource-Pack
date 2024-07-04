@@ -1,12 +1,14 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:item/bucket"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/bucket/delete"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/bucket/deactivate"},
-		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/artron_battery"},
-		{"predicate": {"custom_model_data": 10000002}, "model": "tardis:item/tardis/blaster_battery"}
-	]
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/bucket"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/bucket/delete"},
+        {"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/bucket/deactivate"},
+        {"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/tardis/artron_battery"},
+        {"predicate": {"custom_model_data": 10000002}, "model": "tardis:item/tardis/blaster_battery"},
+      {"predicate": {"custom_model_data":10000003}, "model": "tardis:item/tardis/artron_capacitor"},
+      {"predicate": {"custom_model_data":10000004}, "model": "tardis:item/tardis/artron_capacitor_damaged"}
+    ]
 }
