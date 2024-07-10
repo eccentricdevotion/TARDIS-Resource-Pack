@@ -1,6 +1,7 @@
 {
-	"parent": "minecraft:block/emerald_block",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/eleventh"}
-	]
+  "parent": "minecraft:block/emerald_block",
+  "overrides": [
+  {"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/eleventh"},
+  {"predicate": {"custom_model_data":2}, "model": "tardis:item/gui/particle/colour_info"}
+  ]
 }

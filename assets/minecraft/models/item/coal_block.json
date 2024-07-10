@@ -1,6 +1,7 @@
 {
-	"parent": "minecraft:block/coal_block",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/steampunk"}
-	]
+  "parent": "minecraft:block/coal_block",
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/steampunk"},
+    {"predicate": {"custom_model_data":2}, "model": "tardis:item/gui/particle/block_info"}
+  ]
 }

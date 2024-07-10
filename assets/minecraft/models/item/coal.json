@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/coal"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/particle/block"}
+  ]
+}
