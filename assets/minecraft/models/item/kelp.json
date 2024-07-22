@@ -7,6 +7,7 @@
         {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/sea_devil"},
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/sea_devil/sea_devil_head"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/sea_devil/sea_devil_disguise"},
+        {"predicate": {"custom_model_data":5}, "model": "tardis:item/lazarus/sea_devil_ears"},
         {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/sea_devil/frames/sea_devil_0"},
         {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/sea_devil/frames/sea_devil_1"},
         {"predicate": {"custom_model_data":402}, "model": "tardis:item/monster/sea_devil/frames/sea_devil_2"},

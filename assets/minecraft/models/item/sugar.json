@@ -8,6 +8,7 @@
         {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/empty_child/empty_child_arm"},
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/empty_child/empty_child_head"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/empty_child/empty_child_disguise"},
+        {"predicate": {"custom_model_data":5}, "model": "tardis:item/lazarus/empty_child_mask"},
         {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/empty_child/frames/empty_child_0"},
         {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/empty_child/frames/empty_child_1"},
         {"predicate": {"custom_model_data":402}, "model": "tardis:item/monster/empty_child/frames/empty_child_2"},

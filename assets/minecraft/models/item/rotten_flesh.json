@@ -8,6 +8,7 @@
         {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/ood/ood_head"},
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/ood/ood_arm"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/ood/ood_ball_arm"},
+        {"predicate": {"custom_model_data":5}, "model": "tardis:item/lazarus/ood_features"},
         {"predicate": {"custom_model_data":12}, "model": "tardis:item/monster/ood/ood_head_blue"},
         {"predicate": {"custom_model_data":13}, "model": "tardis:item/monster/ood/ood_arm_blue"},
         {"predicate": {"custom_model_data":14}, "model": "tardis:item/monster/ood/ood_ball_arm_blue"},

@@ -15,6 +15,7 @@
 		{"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/silurian/silurian_arm"},
 		{"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/silurian/silurian_head"},
 		{"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/silurian/silurian_disguise"},
+		{"predicate": {"custom_model_data":5}, "model": "tardis:item/lazarus/silurian_crest"},
     {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/silurian/frames/silurian_0"},
     {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/silurian/frames/silurian_1"},
     {"predicate": {"custom_model_data":402}, "model": "tardis:item/monster/silurian/frames/silurian_2"},

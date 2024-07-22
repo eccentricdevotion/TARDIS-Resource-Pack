@@ -9,6 +9,8 @@
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/cyberman/cyberman_head"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/cyberman/cyberman_disguise"},
         {"predicate": {"custom_model_data":5}, "model": "tardis:item/gui/particle/density"},
+        {"predicate": {"custom_model_data":6}, "model": "tardis:item/lazarus/cyberman_features"},
+        {"predicate": {"custom_model_data":7}, "model": "tardis:item/lazarus/cyber_weapon"},
         {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/cyberman/frames/cyberman_0"},
         {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/cyberman/frames/cyberman_1"},
         {"predicate": {"custom_model_data":402}, "model": "tardis:item/monster/cyberman/frames/cyberman_2"},

@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "tardis:item/lazarus/sycorax_cape",
+		"particle": "tardis:item/lazarus/sycorax_cape"
+	},
+	"elements": [
+		{
+			"from": [6.5, 10, 10],
+			"to": [9.5, 13, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.5, 10, 10]},
+			"faces": {
+				"north": {"uv": [1, 8.5, 2.5, 10], "texture": "#0"},
+				"east": {"uv": [2.5, 8.5, 4, 10], "texture": "#0"},
+				"south": {"uv": [4, 8.5, 5.5, 10], "texture": "#0"},
+				"west": {"uv": [5.5, 8.5, 7, 10], "texture": "#0"},
+				"up": {"uv": [8.5, 10, 7, 8.5], "texture": "#0"},
+				"down": {"uv": [10, 8.5, 8.5, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, -12, 10],
+			"to": [13, 4, 11],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 4, 10.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 8], "texture": "#0"},
+				"east": {"uv": [0, 8, 0.5, 16], "texture": "#0"},
+				"south": {"uv": [5, 0, 10, 8], "texture": "#0"},
+				"west": {"uv": [0.5, 8, 1, 16], "texture": "#0"},
+				"up": {"uv": [6, 8.5, 1, 8], "texture": "#0"},
+				"down": {"uv": [11, 8, 6, 8.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

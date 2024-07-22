@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/weeping_angel/weeping_angel_head"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/weeping_angel/weeping_angel_wings"},
         {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/weeping_angel/weeping_angel_static"},
+        {"predicate": {"custom_model_data":6}, "model": "tardis:item/lazarus/weeping_angel_wings"},
         {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/weeping_angel/weeping_angel_disguise"},
         {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/weeping_angel/frames/weeping_angel_0"},
         {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/weeping_angel/frames/weeping_angel_1"},

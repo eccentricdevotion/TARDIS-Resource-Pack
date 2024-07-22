@@ -8,6 +8,7 @@
       {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/judoon/judoon_head"},
       {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/judoon/judoon_arm"},
       {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/judoon/judoon_weapon_arm_1"},
+      {"predicate": {"custom_model_data":5}, "model": "tardis:item/lazarus/judoon_snout"},
       {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/judoon/judoon_weapon_arm_2"},
       {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/judoon/judoon_disguise"},
       {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/judoon/judoon_monster_head"},

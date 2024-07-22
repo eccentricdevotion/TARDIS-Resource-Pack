@@ -1,10 +1,14 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:block/brown_stained_glass"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 10000016}, "model": "tardis:item/products/glow_sticks/brown_glow_stick"},
-		{"predicate": {"custom_model_data": 12000016}, "model": "tardis:item/products/glow_sticks/brown_glow_stick_active"}
-	]
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:block/brown_stained_glass"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data":1000}, "model": "tardis:item/lazarus/doctor"},
+      {"predicate": {"custom_model_data":1001}, "model": "tardis:item/lazarus/companion"},
+      {"predicate": {"custom_model_data":1002}, "model": "tardis:item/lazarus/character"},
+      {"predicate": {"custom_model_data":1003}, "model": "tardis:item/lazarus/monster"},
+      {"predicate": {"custom_model_data":10000016}, "model": "tardis:item/products/glow_sticks/brown_glow_stick"},
+      {"predicate": {"custom_model_data":12000016}, "model": "tardis:item/products/glow_sticks/brown_glow_stick_active"}
+    ]
 }

@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/totem_of_undying"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data":1001}, "model": "tardis:item/regeneration/first"},
+      {"predicate": {"custom_model_data":1002}, "model": "tardis:item/regeneration/second"},
+      {"predicate": {"custom_model_data":1003}, "model": "tardis:item/regeneration/third"},
+      {"predicate": {"custom_model_data":1004}, "model": "tardis:item/regeneration/fourth"},
+      {"predicate": {"custom_model_data":1005}, "model": "tardis:item/regeneration/fifth"},
+      {"predicate": {"custom_model_data":1006}, "model": "tardis:item/regeneration/sixth"},
+      {"predicate": {"custom_model_data":1007}, "model": "tardis:item/regeneration/seventh"},
+      {"predicate": {"custom_model_data":1008}, "model": "tardis:item/regeneration/eighth"},
+      {"predicate": {"custom_model_data":1009}, "model": "tardis:item/regeneration/ninth"},
+      {"predicate": {"custom_model_data":1010}, "model": "tardis:item/regeneration/tenth"},
+      {"predicate": {"custom_model_data":1011}, "model": "tardis:item/regeneration/eleventh"},
+      {"predicate": {"custom_model_data":1012}, "model": "tardis:item/regeneration/twelfth"},
+      {"predicate": {"custom_model_data":1013}, "model": "tardis:item/regeneration/thirteenth"},
+      {"predicate": {"custom_model_data":1014}, "model": "tardis:item/regeneration/fourteenth"},
+      {"predicate": {"custom_model_data":1015}, "model": "tardis:item/regeneration/fifteenth"},
+      {"predicate": {"custom_model_data":1016}, "model": "tardis:item/regeneration/war"},
+      {"predicate": {"custom_model_data":1017}, "model": "tardis:item/regeneration/rassilon"}
+    ]
+}
