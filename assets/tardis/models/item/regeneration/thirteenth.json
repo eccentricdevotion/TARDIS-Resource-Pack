@@ -1,5 +1,5 @@
 {
-	"parent": "tardis:item/regeneration/slim",
+	"parent": "tardis:item/regeneration/wide",
 	"textures": {
 		"0": "tardis:item/regeneration/13th",
 		"1": "tardis:item/regeneration/effect",
