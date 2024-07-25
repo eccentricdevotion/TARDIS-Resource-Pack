@@ -15,6 +15,7 @@
     {"predicate": {"custom_model_data":13}, "model": "tardis:item/lazarus/cybershade_ears"},
     {"predicate": {"custom_model_data":14}, "model": "tardis:item/lazarus/omega_frill"},
     {"predicate": {"custom_model_data":15}, "model": "tardis:item/lazarus/angel_of_liberty_crown"},
-    {"predicate": {"custom_model_data":16}, "model": "tardis:item/lazarus/racnoss_features"}
+    {"predicate": {"custom_model_data":16}, "model": "tardis:item/lazarus/racnoss_features"},
+    {"predicate": {"custom_model_data":17}, "model": "tardis:item/lazarus/jenny_flint_katana"}
   ]
 }

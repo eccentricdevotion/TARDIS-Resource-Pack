@@ -9,6 +9,7 @@
     {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/hath/hath_weapon_arm"},
     {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/hath/hath_head"},
     {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/hath/hath_disguise"},
+    {"predicate": {"custom_model_data":6}, "model": "tardis:item/lazarus/hath_features"},
     {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/hath/frames/hath_0"},
     {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/hath/frames/hath_1"},
     {"predicate": {"custom_model_data":402}, "model": "tardis:item/monster/hath/frames/hath_2"},

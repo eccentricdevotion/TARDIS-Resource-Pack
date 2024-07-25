@@ -10,6 +10,7 @@
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/sontaran/sontaran_head"},
         {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/sontaran/sontaran_disguise"},
         {"predicate": {"custom_model_data":6}, "model": "tardis:item/lazarus/sontaran_ears"},
+        {"predicate": {"custom_model_data":7}, "model": "tardis:item/lazarus/strax_ears"},
         {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/sontaran/frames/sontaran_0"},
         {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/sontaran/frames/sontaran_1"},
         {"predicate": {"custom_model_data":402}, "model": "tardis:item/monster/sontaran/frames/sontaran_2"},
