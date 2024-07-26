@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/gold_ingot"
   },
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/particle/speed"}
+		{"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/particle/speed"},
+		{"predicate": {"custom_model_data":2}, "model": "tardis:item/regeneration/elixir_of_life"}
   ]
 }
