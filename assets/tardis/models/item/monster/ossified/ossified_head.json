@@ -1,20 +1,36 @@
 {
 	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
 	"textures": {
-		"0": "tardis:item/monster/ossified/ossified",
-		"2": "tardis:item/monster/ossified/ossified_body"
+		"0": "tardis:item/lazarus/ossified"
 	},
 	"elements": [
 		{
-			"from": [0, 0, 0],
-			"to": [16, 16, 16],
+			"name": "Head",
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
-				"north": {"uv": [0, 1.75, 8, 9.75], "texture": "#0"},
-				"east": {"uv": [8, 1.75, 16, 9.75], "texture": "#2"},
-				"south": {"uv": [0, 1.75, 8, 9.75], "texture": "#2"},
-				"west": {"uv": [8, 1.75, 16, 9.75], "texture": "#2"},
-				"up": {"uv": [0, 0, 8, 8], "texture": "#2"},
-				"down": {"uv": [8, 8, 16, 16], "texture": "#2"}
+				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Hair",
+			"from": [3.5, -0.5, 3.5],
+			"to": [12.5, 8.5, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 2, 12, 4], "texture": "#0"},
+				"east": {"uv": [8, 2, 10, 4], "texture": "#0"},
+				"south": {"uv": [14, 2, 16, 4], "texture": "#0"},
+				"west": {"uv": [12, 2, 14, 4], "texture": "#0"},
+				"up": {"uv": [12, 2, 10, 0], "texture": "#0"},
+				"down": {"uv": [14, 0, 12, 2], "texture": "#0"}
 			}
 		}
 	],
@@ -30,29 +46,37 @@
 			"scale": [0.375, 0.375, 0.375]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 125, 0],
-			"translation": [0, 3.5, 0],
+			"rotation": [0, 45, 0],
+			"translation": [0, 2.5, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 125, 0],
-			"translation": [0, 3.5, 0],
+			"rotation": [0, 45, 0],
+			"translation": [0, 2.5, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
-			"translation": [0, 3, 0],
-			"scale": [0.33, 0.33, 0.33]
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
 			"rotation": [30, 225, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [0, 2.25, 0]
 		},
 		"head": {
-			"scale": [0.81, 0.81, 0.81]
+			"translation": [0, 6.5, 0],
+			"scale": [1.61, 1.61, 1.61]
 		},
 		"fixed": {
-			"translation": [0, 0, -3],
-			"scale": [0.8, 0.8, 0.8]
+			"translation": [0, 6, 0],
+			"scale": [1.5, 1.5, 1.5]
 		}
-	}
+	},
+	"groups": [
+		{
+			"name": "Head",
+			"origin": [8, 24, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
 }
