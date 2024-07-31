@@ -460,6 +460,15 @@
       ],
       "subtitle":"Empty Child speaks"
    },
+   "clockwork_droid":{
+     "category":"hostile",
+      "sounds":[
+         "tardis:clockwork_1",
+         "tardis:clockwork_2",
+         "tardis:clockwork_3"
+      ],
+      "subtitle":"Clockwork Droid ticks"
+   },
    "cyberman":{
       "category":"hostile",
       "sounds":[
@@ -664,6 +673,24 @@
          "tardis:racnoss_suffer"
       ],
       "subtitle":"Racnoss taunts"
+   },
+   "scarecrow":{
+     "category":"hostile",
+      "sounds":[
+         "tardis:scarecrow_1",
+         "tardis:scarecrow_2",
+         "tardis:scarecrow_3"
+      ],
+      "subtitle":"Scarecrow rustles"
+   },
+   "sycorax":{
+     "category":"hostile",
+      "sounds":[
+         "tardis:sycorax_1",
+         "tardis:sycorax_2",
+         "tardis:sycorax_3"
+      ],
+      "subtitle":"Sycorax bellows"
    },
    "toclafane":{
       "category":"hostile",
