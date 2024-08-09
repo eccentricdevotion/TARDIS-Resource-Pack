@@ -162,6 +162,7 @@
 		{"predicate": {"custom_model_data": 156}, "model": "tardis:item/gui/bowl/button_system_upgrades"},
 		{"predicate": {"custom_model_data": 157}, "model": "tardis:item/gui/bowl/button_particles"},
 		{"predicate": {"custom_model_data": 158}, "model": "tardis:item/gui/bowl/auto_save"},
-		{"predicate": {"custom_model_data": 159}, "model": "tardis:item/gui/bowl/auto_save_selector"}
+		{"predicate": {"custom_model_data": 159}, "model": "tardis:item/gui/bowl/auto_save_selector"},
+		{"predicate": {"custom_model_data": 160}, "model": "tardis:item/gui/bowl/button_skins"}
 	]
 }
