@@ -6,6 +6,22 @@
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/tardis/monitor_frame_middle"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/tardis/monitor_frame_right"},
         {"predicate": {"custom_model_data":5}, "model": "tardis:item/space_suit/helmet"},
-        {"predicate": {"custom_model_data":6}, "model": "tardis:item/lazarus/tv"}
+        {"predicate": {"custom_model_data":6}, "model": "tardis:item/lazarus/tv"},
+        {"predicate": {"custom_model_data":1000}, "model": "tardis:block/lights/off"},
+        {"predicate": {"custom_model_data":1001}, "model": "tardis:block/lights/on"},
+        {"predicate": {"custom_model_data":1002}, "model": "tardis:block/lights/cloister"},
+        {"predicate": {"custom_model_data":1003}, "model": "tardis:block/lights/variable"},
+        {"predicate": {"custom_model_data":1004}, "model": "tardis:block/lights/blue"},
+        {"predicate": {"custom_model_data":1005}, "model": "tardis:block/lights/green"},
+        {"predicate": {"custom_model_data":1006}, "model": "tardis:block/lights/orange"},
+        {"predicate": {"custom_model_data":1007}, "model": "tardis:block/lights/pink"},
+        {"predicate": {"custom_model_data":1008}, "model": "tardis:block/lights/purple"},
+        {"predicate": {"custom_model_data":1009}, "model": "tardis:block/lights/yellow"},
+        {"predicate": {"custom_model_data":1010}, "model": "tardis:block/lights/blue_off"},
+        {"predicate": {"custom_model_data":1011}, "model": "tardis:block/lights/green_off"},
+        {"predicate": {"custom_model_data":1012}, "model": "tardis:block/lights/orange_off"},
+        {"predicate": {"custom_model_data":1013}, "model": "tardis:block/lights/pink_off"},
+        {"predicate": {"custom_model_data":1014}, "model": "tardis:block/lights/purple_off"},
+        {"predicate": {"custom_model_data":1015}, "model": "tardis:block/lights/yellow_off"}
 	]
 }
