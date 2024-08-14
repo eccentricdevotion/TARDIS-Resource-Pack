@@ -7,6 +7,7 @@
     {"predicate": {"custom_model_data":1000}, "model": "tardis:block/controls/astrosextant_rectifier"},
     {"predicate": {"custom_model_data":1001}, "model": "tardis:block/controls/gravitic_anomoliser"},
     {"predicate": {"custom_model_data":1002}, "model": "tardis:block/controls/absolute_tesseractulator"},
+    {"predicate": {"custom_model_data":1003}, "model": "tardis:block/controls/console_lamp"},
     {"predicate": {"custom_model_data":2000}, "model": "tardis:block/controls/helmic_regulator_0"},
     {"predicate": {"custom_model_data":2001}, "model": "tardis:block/controls/helmic_regulator_1"},
     {"predicate": {"custom_model_data":2002}, "model": "tardis:block/controls/helmic_regulator_2"},
