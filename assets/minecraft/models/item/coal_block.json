@@ -2,6 +2,15 @@
   "parent": "minecraft:block/coal_block",
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/steampunk"},
-    {"predicate": {"custom_model_data":2}, "model": "tardis:item/gui/particle/block_info"}
+    {"predicate": {"custom_model_data":2}, "model": "tardis:item/gui/particle/block_info"},
+    {"predicate": {"custom_model_data":3}, "model": "tardis:item/gui/lights/block_button"},
+    {"predicate": {"custom_model_data":4}, "model": "tardis:item/gui/lights/levels_button"},
+    {"predicate": {"custom_model_data":5}, "model": "tardis:item/gui/lights/sequence_button"},
+    {"predicate": {"custom_model_data":6}, "model": "tardis:item/gui/lights/edit_button"},
+    {"predicate": {"custom_model_data":7}, "model": "tardis:item/gui/lights/light_levels"},
+    {"predicate": {"custom_model_data":8}, "model": "tardis:item/gui/lights/lights_button"},
+    {"predicate": {"custom_model_data":9}, "model": "tardis:item/gui/lights/delay"},
+    {"predicate": {"custom_model_data":10}, "model": "tardis:item/gui/lights/change"},
+    {"predicate": {"custom_model_data":11}, "model": "tardis:item/gui/lights/convert"}
   ]
 }
