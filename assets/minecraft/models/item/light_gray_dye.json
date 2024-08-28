@@ -40,6 +40,7 @@
       {"predicate": {"custom_model_data":2018}, "model": "tardis:block/police_box/flying/light_gray/light_gray_flying_open_13"},
       {"predicate": {"custom_model_data":2019}, "model": "tardis:block/police_box/flying/light_gray/light_gray_flying_open_14"},
       {"predicate": {"custom_model_data":2020}, "model": "tardis:block/police_box/flying/light_gray/light_gray_flying_open_15"},
+      {"predicate": {"custom_model_data":10000}, "model": "tardis:item/equipment/microscope"},
       {"predicate": {"custom_model_data":10000002}, "model": "tardis:item/time_rotor/time_rotor_early_off"},
       {"predicate": {"custom_model_data":10000003}, "model": "tardis:item/time_rotor/time_rotor_tennant_off"},
       {"predicate": {"custom_model_data":10000004}, "model": "tardis:item/time_rotor/time_rotor_eleventh_off"},

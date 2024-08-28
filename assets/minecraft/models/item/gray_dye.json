@@ -41,6 +41,7 @@
       {"predicate": {"custom_model_data":2017}, "model": "tardis:block/police_box/flying/gray/gray_flying_open_12"},
       {"predicate": {"custom_model_data":2018}, "model": "tardis:block/police_box/flying/gray/gray_flying_open_13"},
       {"predicate": {"custom_model_data":2019}, "model": "tardis:block/police_box/flying/gray/gray_flying_open_14"},
-      {"predicate": {"custom_model_data":2020}, "model": "tardis:block/police_box/flying/gray/gray_flying_open_15"}
+      {"predicate": {"custom_model_data":2020}, "model": "tardis:block/police_box/flying/gray/gray_flying_open_15"},
+      {"predicate": {"custom_model_data":10000}, "model": "tardis:item/equipment/electron_microscope"}
    ]
 }

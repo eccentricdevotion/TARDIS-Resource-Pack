@@ -1,0 +1,8 @@
+{
+	"parent": "tardis:item/slide/empty_slide",
+	"textures": {
+		"0": "tardis:item/telescope/horsehead_nebula",
+		"1": "tardis:item/telescope/label",
+		"particle": "tardis:item/telescope/horsehead_nebula"
+	}
+}
