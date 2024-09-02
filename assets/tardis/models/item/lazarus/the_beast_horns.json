@@ -137,6 +137,10 @@
 		}
 	],
 	"display": {
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
 		"head": {
 			"translation": [0, 6.25, 0],
 			"scale": [1.6, 1.6, 1.6]

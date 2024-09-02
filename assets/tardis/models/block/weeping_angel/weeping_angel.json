@@ -959,7 +959,8 @@
 			"scale": [0.3, 0.3, 0.3]
 		},
 		"head": {
-			"scale": [0.2, 0.2, 0.2]
+			"translation": [0, -13.25, 0],
+			"scale": [1.25, 1.25, 1.25]
 		},
 		"fixed": {
 			"rotation": [-90, 90, 0],
@@ -971,23 +972,32 @@
 		{
 			"name": "head",
 			"origin": [0.5, 0, 0.5],
+			"color": 0,
 			"children": [0, 1, 2, 3]
 		},
 		{
 			"name": "arm0",
 			"origin": [8, 8, 8],
-			"children": [4,
+			"color": 0,
+			"children": [
+				4,
 				{
 					"name": "forearm0",
 					"origin": [0.5, 0, 0],
-					"children": [5,
+					"color": 0,
+					"children": [
+						5,
 						{
 							"name": "hand0",
 							"origin": [0.5, 0, 0],
-							"children": [6, 7,
+							"color": 0,
+							"children": [
+								6,
+								7,
 								{
 									"name": "fingers0",
 									"origin": [6, 22.5, 1.5],
+									"color": 0,
 									"children": [8, 9, 10, 11, 12]
 								}
 							]
@@ -999,18 +1009,26 @@
 		{
 			"name": "arm1",
 			"origin": [8, 8, 8],
-			"children": [13,
+			"color": 0,
+			"children": [
+				13,
 				{
 					"name": "forearm1",
 					"origin": [0.5, 0, 0],
-					"children": [14,
+					"color": 0,
+					"children": [
+						14,
 						{
 							"name": "hand1",
 							"origin": [0.5, 0, 0],
-							"children": [15, 16,
+							"color": 0,
+							"children": [
+								15,
+								16,
 								{
 									"name": "fingers1",
 									"origin": [6, 22.5, 1.5],
+									"color": 0,
 									"children": [17, 18, 19, 20, 21]
 								}
 							]
@@ -1022,50 +1040,64 @@
 		{
 			"name": "torso",
 			"origin": [9, -15.5, 8],
+			"color": 0,
 			"children": [22, 23, 24, 25, 26, 27, 28]
 		},
 		{
 			"name": "wing0",
 			"origin": [6, 17.625, 11],
+			"color": 0,
 			"children": [
 				{
 					"name": "group0",
 					"origin": [6, 17.625, 11],
+					"color": 0,
 					"children": [29, 30, 31, 32, 33]
-				}, 34]
+				},
+				34
+			]
 		},
 		{
 			"name": "wing1",
 			"origin": [6, 17.625, 11],
+			"color": 0,
 			"children": [
 				{
 					"name": "group1",
 					"origin": [6, 17.625, 11],
+					"color": 0,
 					"children": [35, 36, 37, 38, 39]
-				}, 40]
+				},
+				40
+			]
 		},
 		{
 			"name": "dress",
 			"origin": [8, -15.5, 8],
+			"color": 0,
 			"children": [
 				{
 					"name": "top",
 					"origin": [8, -1, 8],
+					"color": 0,
 					"children": [41, 42, 43, 44, 45, 46, 47, 48, 49]
 				},
 				{
 					"name": "middle",
 					"origin": [11.5, -15.5, 8],
+					"color": 0,
 					"children": [50, 51, 52, 53, 54, 55, 56, 57, 58]
 				},
 				{
 					"name": "bottom",
 					"origin": [8, -14, 8],
+					"color": 0,
 					"children": [59, 60, 61, 62, 63, 64, 65, 66, 67]
 				},
 				{
 					"name": "base",
 					"origin": [8, -15.5, 8],
+					"color": 0,
 					"children": [68, 69, 70, 71, 72, 73, 74, 75, 76]
 				}
 			]

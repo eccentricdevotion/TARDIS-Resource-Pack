@@ -27,6 +27,10 @@
 		"thirdperson_lefthand": {
 			"rotation": [90, 0, 0],
 			"translation": [3, -2, 7]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.75, 0.75, 0.75]
 		}
 	}
 }
