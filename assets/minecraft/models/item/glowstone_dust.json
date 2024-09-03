@@ -32,14 +32,19 @@
       {"predicate": {"custom_model_data":10001987}, "model": "tardis:item/circuit/brush"},
       {"predicate": {"custom_model_data":10001988}, "model": "tardis:item/circuit/conversion"},
       {"predicate": {"custom_model_data":20001962}, "model": "tardis:item/circuit/telepathic_damaged"},
+      {"predicate": {"custom_model_data":20001963}, "model": "tardis:item/circuit/stattenheim_damaged"},
       {"predicate": {"custom_model_data":20001964}, "model": "tardis:item/circuit/materialisation_damaged"},
+      {"predicate": {"custom_model_data":20001965}, "model": "tardis:item/circuit/locator_damaged"},
       {"predicate": {"custom_model_data":20001966}, "model": "tardis:item/circuit/chameleon_damaged"},
+      {"predicate": {"custom_model_data":20001967}, "model": "tardis:item/circuit/sonic_damaged"},
       {"predicate": {"custom_model_data":20001973}, "model": "tardis:item/circuit/ars_damaged"},
       {"predicate": {"custom_model_data":20001974}, "model": "tardis:item/circuit/temporal_damaged"},
       {"predicate": {"custom_model_data":20001975}, "model": "tardis:item/circuit/memory_damaged"},
       {"predicate": {"custom_model_data":20001976}, "model": "tardis:item/circuit/input_damaged"},
       {"predicate": {"custom_model_data":20001977}, "model": "tardis:item/circuit/scanner_damaged"},
+      {"predicate": {"custom_model_data":20001978}, "model": "tardis:item/circuit/perception_damaged"},
       {"predicate": {"custom_model_data":20001980}, "model": "tardis:item/circuit/random_damaged"},
-      {"predicate": {"custom_model_data":20001981}, "model": "tardis:item/circuit/invisibility_damaged"}
+      {"predicate": {"custom_model_data":20001981}, "model": "tardis:item/circuit/invisibility_damaged"},
+      {"predicate": {"custom_model_data":20001983}, "model": "tardis:item/circuit/rift_damaged"}
   	]
 }
