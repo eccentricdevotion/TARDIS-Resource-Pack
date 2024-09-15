@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/polished_blackstone_bricks",
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/observatory"}
+  ]
+}
