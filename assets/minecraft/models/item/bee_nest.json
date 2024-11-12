@@ -1,6 +1,8 @@
-{
-	"parent": "minecraft:block/bee_nest",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/apiary"}
-	]
+{,
+    "parent": "minecraft:block/bee_nest",
+    "overrides": [
+        {"predicate": {"honey_level": 0}, "model" : "item/bee_nest_empty"},
+        {"predicate": {"honey_level" : 1}, "model": "item/bee_nest_honey"},
+        {"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/apiary"}
+    ]
 }
