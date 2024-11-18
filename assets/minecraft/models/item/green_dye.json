@@ -30,7 +30,6 @@
       {"predicate": {"custom_model_data":1023}, "model": "tardis:item/time_rotor/rustic/rustic_2"},
       {"predicate": {"custom_model_data":1024}, "model": "tardis:item/time_rotor/rustic/rustic_3"},
       {"predicate": {"custom_model_data":1025}, "model": "tardis:item/time_rotor/rustic/rustic_4"},
-      {"predicate": {"custom_model_data":2005}, "model": "tardis:block/police_box/flying/orange/orange_flying_open_0"},
       {"predicate": {"custom_model_data":2005}, "model": "tardis:block/police_box/flying/green/green_flying_open_0"},
       {"predicate": {"custom_model_data":2006}, "model": "tardis:block/police_box/flying/green/green_flying_open_1"},
       {"predicate": {"custom_model_data":2007}, "model": "tardis:block/police_box/flying/green/green_flying_open_2"},
