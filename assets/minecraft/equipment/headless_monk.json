@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:headless_monk"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:headless_monk"
+      }
+    ]
+  }
+}

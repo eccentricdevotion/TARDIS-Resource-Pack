@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:slitheen"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:slitheen"
+      }
+    ]
+  }
+}

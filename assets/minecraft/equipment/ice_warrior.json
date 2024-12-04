@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:ice_warrior"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:ice_warrior"
+      }
+    ]
+  }
+}

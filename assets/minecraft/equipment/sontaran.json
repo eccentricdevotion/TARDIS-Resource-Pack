@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:sontaran"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:sontaran"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:weeping_angel"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:weeping_angel"
+      }
+    ]
+  }
+}

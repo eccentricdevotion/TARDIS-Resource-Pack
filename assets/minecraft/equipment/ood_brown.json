@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:ood_brown"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:ood_brown"
+      }
+    ]
+  }
+}

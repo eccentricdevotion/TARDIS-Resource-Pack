@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:clockwork_droid_female"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:clockwork_droid_female"
+      }
+    ]
+  }
+}

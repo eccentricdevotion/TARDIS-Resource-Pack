@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:vampire_of_venice"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:vampire_of_venice"
+      }
+    ]
+  }
+}

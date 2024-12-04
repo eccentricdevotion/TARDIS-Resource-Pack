@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:sea_devil"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:sea_devil"
+      }
+    ]
+  }
+}

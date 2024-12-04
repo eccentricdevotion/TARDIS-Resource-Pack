@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:angel_of_liberty"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:angel_of_liberty"
+      }
+    ]
+  }
+}

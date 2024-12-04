@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:vashta_nerada"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:vashta_nerada"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:dalek_sec"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:dalek_sec"
+      }
+    ]
+  }
+}
