@@ -1,0 +1,9 @@
+{
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [90, 0, 0],
+			"scale": [1.125, 1.125, 1.125]
+		}
+	}
+}

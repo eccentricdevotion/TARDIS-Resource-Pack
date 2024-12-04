@@ -1,0 +1,7 @@
+{
+	"parent": "tardis:item/products/glow_sticks/glow_stick",
+	"textures": {
+		"0": "tardis:item/glow_sticks/light_blue_plastic",
+		"particle": "tardis:item/glow_sticks/light_blue_plastic"
+	}
+}

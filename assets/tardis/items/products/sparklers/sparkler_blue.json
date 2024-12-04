@@ -1,0 +1,9 @@
+{
+	"parent": "tardis:item/products/sparklers/sparkler",
+	"textures": {
+		"0": "tardis:item/sparklers/sparkler_powder",
+		"1": "tardis:item/sparklers/sparkler_wire",
+		"2": "tardis:item/sparklers/sparkler_blue",
+		"particle": "tardis:item/sparklers/sparkler_blue"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "tardis:block/chemistry/red_lamp"
+	}
+}

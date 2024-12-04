@@ -1,0 +1,8 @@
+{
+	"parent": "tardis:item/circuit/sonic_circuit",
+	"textures": {
+		"0": "tardis:block/handles/yellow_wool",
+		"1": "tardis:item/circuit/sonic/ignite",
+		"particle": "tardis:block/handles/yellow_wool"
+	}
+}

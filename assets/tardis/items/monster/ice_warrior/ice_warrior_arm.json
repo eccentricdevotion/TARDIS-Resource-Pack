@@ -1,0 +1,8 @@
+{
+	"parent": "tardis:item/monster/monster_arm",
+	"textures": {
+		"0": "tardis:item/monster/ice_warrior/ice_warrior_arm_1",
+		"1": "tardis:item/monster/ice_warrior/ice_warrior_arm_2",
+		"particle": "tardis:item/monster/ice_warrior/ice_warrior_arm_1"
+	}
+}

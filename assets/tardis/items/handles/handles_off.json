@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "tardis:item/handles/handles",
+	"textures": {
+		"0": "tardis:block/handles/handles_back",
+		"1": "tardis:block/handles/handles_bottom",
+		"2": "tardis:block/handles/handles_front",
+		"3": "tardis:block/handles/handles_left",
+		"4": "tardis:block/handles/handles_right",
+		"5": "tardis:block/handles/handles_top",
+		"8": "tardis:block/handles/lime_wool",
+		"9": "tardis:block/handles/light_blue_wool",
+		"10": "tardis:block/handles/orange_wool",
+		"11": "tardis:block/handles/yellow_wool",
+		"particle": "tardis:block/handles/handles_bottom"
+	}
+}

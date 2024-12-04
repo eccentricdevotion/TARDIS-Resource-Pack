@@ -1,0 +1,8 @@
+{
+	"parent": "tardis:item/slide/empty_slide",
+	"textures": {
+		"0": "tardis:item/slide/plastic_fracturing_on_credit_card_hologram",
+		"1": "tardis:item/telescope/label",
+		"particle": "tardis:item/slide/plastic_fracturing_on_credit_card_hologram"
+	}
+}

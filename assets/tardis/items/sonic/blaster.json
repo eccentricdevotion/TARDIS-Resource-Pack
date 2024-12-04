@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "tardis:item/sonic/blaster"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [0, -90, -30],
+            "translation": [0, 1.25, 0],
+            "scale": [0.75, 0.75, 0.75]
+        },
+        "firstperson_righthand": {
+            "rotation": [0, -90, 0],
+            "translation": [0, 4, 2],
+            "scale": [0.75, 0.75, 0.75]
+        }
+    }
+}

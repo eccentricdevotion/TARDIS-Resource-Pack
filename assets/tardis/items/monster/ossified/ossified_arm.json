@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "tardis:item/lazarus/ossified"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 16]},
+			"faces": {
+				"north": {"uv": [9, 13, 10, 16], "texture": "#1"},
+				"east": {"uv": [8, 13, 9, 16], "texture": "#1"},
+				"south": {"uv": [11, 13, 12, 16], "texture": "#1"},
+				"west": {"uv": [10, 13, 11, 16], "texture": "#1"},
+				"up": {"uv": [9, 12, 10, 13], "texture": "#1"},
+				"down": {"uv": [10, 12, 11, 13], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.75, -0.25, 5.75],
+			"to": [10.25, 12.25, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 16]},
+			"faces": {
+				"north": {"uv": [13, 13, 14, 16], "texture": "#1"},
+				"east": {"uv": [12, 13, 13, 16], "texture": "#1"},
+				"south": {"uv": [15, 13, 16, 16], "texture": "#1"},
+				"west": {"uv": [14, 13, 15, 16], "texture": "#1"},
+				"up": {"uv": [13, 12, 14, 13], "texture": "#1"},
+				"down": {"uv": [14, 12, 15, 13], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 180, 0],
+			"translation": [0, -2, 8],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2, 8],
+			"scale": [1.01, 1.01, 1.01]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [0, 45, -33],
+			"translation": [0, 0.333, 0],
+			"scale": [0.96, 0.96, 0.96]
+		}
+	}
+}

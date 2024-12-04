@@ -1,0 +1,7 @@
+{
+	"parent": "tardis:item/sonic/sonic_dock",
+	"textures": {
+		"4": "tardis:item/sonic/sonic-dock-off",
+		"particle": "tardis:item/sonic/sonic-dock-off"
+	}
+}

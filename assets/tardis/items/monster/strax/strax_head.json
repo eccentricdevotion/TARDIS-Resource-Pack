@@ -1,0 +1,12 @@
+{
+	"parent": "tardis:item/monster/monster_head",
+	"textures": {
+		"0": "tardis:item/monster/strax/strax_front",
+		"1": "tardis:item/monster/strax/strax_left",
+		"2": "tardis:item/monster/strax/strax_right",
+		"3": "tardis:item/monster/strax/strax_back",
+		"4": "tardis:item/monster/strax/strax_top",
+		"5": "tardis:item/monster/strax/strax_bottom",
+		"particle": "tardis:item/monster/strax/strax_bottom"
+	}
+}

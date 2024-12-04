@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "tardis:item/lazarus/cybershade_ears",
+		"particle": "tardis:item/lazarus/cybershade_ears"
+	},
+	"elements": [
+		{
+			"from": [1, 5, 3.925],
+			"to": [15, 11, 3.925],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 3.925]},
+			"faces": {
+				"north": {"uv": [0, 0, 14, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 6], "texture": "#0"},
+				"south": {"uv": [0, 6, 14, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 6], "texture": "#0"},
+				"up": {"uv": [14, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [14, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"translation": [0, 5.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

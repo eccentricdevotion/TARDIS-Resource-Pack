@@ -1,0 +1,9 @@
+{
+	"parent": "tardis:item/monster/k9/k9",
+	"display": {
+		"head": {
+			"translation": [0, -29, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"end": "tardis:block/tardis/roundel_top_bottom",
+		"side": "tardis:block/tardis/roundel_offset"
+	}
+}

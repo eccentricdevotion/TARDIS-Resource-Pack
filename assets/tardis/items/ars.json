@@ -1,0 +1,8 @@
+{
+	"parent": "tardis:item/circuit/circuit",
+	"textures": {
+		"0": "tardis:item/circuit/circuit_ars",
+		"1": "tardis:item/circuit/circuit_back",
+		"particle": "tardis:item/circuit/circuit_back"
+	}
+}

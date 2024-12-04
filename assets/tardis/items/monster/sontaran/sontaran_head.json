@@ -1,0 +1,12 @@
+{
+	"parent": "tardis:item/monster/monster_head",
+	"textures": {
+		"0": "tardis:item/monster/sontaran/sontaran_front",
+		"1": "tardis:item/monster/sontaran/sontaran_left",
+		"2": "tardis:item/monster/sontaran/sontaran_right",
+		"3": "tardis:item/monster/sontaran/sontaran_back",
+		"4": "tardis:item/monster/sontaran/sontaran_top",
+		"5": "tardis:item/monster/sontaran/sontaran_bottom",
+		"particle": "tardis:item/monster/sontaran/sontaran_top"
+	}
+}
