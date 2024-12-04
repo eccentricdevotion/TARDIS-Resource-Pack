@@ -1,0 +1,9 @@
+{
+	"parent": "tardis:item/police_box/flying/tardis_camera",
+	"textures": {
+		"0": "tardis:block/police_box/tardis_green",
+		"1": "tardis:block/police_box/tardis_green_windows",
+		"3": "tardis:block/police_box/tardis_green_police_box",
+		"particle": "tardis:block/police_box/tardis_green"
+	}
+}

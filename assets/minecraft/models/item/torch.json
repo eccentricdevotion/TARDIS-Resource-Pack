@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:block/torch"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data":5}, "model": "tardis:item/lazarus/angel_of_liberty_torch"}
-	]
-}

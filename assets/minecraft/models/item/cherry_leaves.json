@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/leaves",
-  "textures": {
-    "all": "minecraft:block/cherry_leaves"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/garden"}
-  ]
-}

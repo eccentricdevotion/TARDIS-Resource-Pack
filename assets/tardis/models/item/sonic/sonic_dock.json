@@ -1,5 +1,5 @@
 {
-	"parent": "tardis:block/small_block",
+	"parent": "tardis:item/tardis/small_block",
 	"ambientocclusion": false,
 	"elements": [
 		{

@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block/crimson_button_inventory",
-    "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/davros"},
-        {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/davros/davros_head"},
-        {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/davros/davros_disguise"},
-        {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/davros/davros"}
-    ]
-}

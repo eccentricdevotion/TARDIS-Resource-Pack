@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/white_terracotta",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/war"}
-	]
-}

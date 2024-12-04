@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/carved_pumpkin",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/monster/empty_child/empty_child_mask"}
-	]
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/oxidized_copper",
-  "overrides": [
-		{"predicate": {"custom_model_data":1001}, "model": "tardis:item/tardis/console_rustic"}
-  ]
-}

@@ -1,7 +1,0 @@
-{
-	"parent": "tardis:block/tardis/console_side",
-	"textures": {
-		"0": "block/oxidized_copper",
-		"particle": "block/oxidized_copper"
-	}
-}

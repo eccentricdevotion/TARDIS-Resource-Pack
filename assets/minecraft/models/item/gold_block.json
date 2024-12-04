@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/gold_block",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:block/seed/bigger"}
-	]
-}

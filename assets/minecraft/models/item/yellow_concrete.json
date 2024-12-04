@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/yellow_concrete",
-	"overrides": [
-		{"predicate": {"custom_model_data":1001}, "model": "tardis:item/tardis/console_yellow"},
-		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/chemistry/lab"}
-	]
-}
