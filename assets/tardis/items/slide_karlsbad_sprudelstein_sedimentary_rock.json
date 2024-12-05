@@ -1,8 +1,6 @@
 {
-	"parent": "tardis:item/slide/empty_slide",
-	"textures": {
-		"0": "tardis:item/slide/karlsbad_sprudelstein_sedimentary_rock",
-		"1": "tardis:item/telescope/label",
-		"particle": "tardis:item/slide/karlsbad_sprudelstein_sedimentary_rock"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

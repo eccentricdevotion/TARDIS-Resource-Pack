@@ -1,8 +1,6 @@
 {
-	"parent": "tardis:item/slide/empty_slide",
-	"textures": {
-		"0": "tardis:item/slide/liquid_crystal_ribbon_filament",
-		"1": "tardis:item/telescope/label",
-		"particle": "tardis:item/slide/liquid_crystal_ribbon_filament"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

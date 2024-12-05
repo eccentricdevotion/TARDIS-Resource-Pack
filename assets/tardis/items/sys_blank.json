@@ -1,26 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "tardis:item/circuit/sys",
-	"textures": {
-		"1": "block/light_gray_concrete"
-	},
-	"elements": [
-		{
-			"from": [-16, 0, 0],
-			"to": [32, 0, 32],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-17, 0, -1]},
-			"faces": {
-				"up": {"uv": [0, 0, 16, 10.667], "texture": "#1"},
-				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
-			}
-		}
-	],
-	"gui_light": "front",
-	"display": {
-		"gui": {
-			"rotation": [90, 0, 0],
-			"translation": [54, 0.25, 0],
-			"scale": [3.375, 3.4, 3.375]
-		}
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

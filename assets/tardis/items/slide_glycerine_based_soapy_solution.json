@@ -1,8 +1,6 @@
 {
-	"parent": "tardis:item/slide/empty_slide",
-	"textures": {
-		"0": "tardis:item/slide/glycerine_based_soapy_solution",
-		"1": "tardis:item/telescope/label",
-		"particle": "tardis:item/slide/glycerine_based_soapy_solution"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

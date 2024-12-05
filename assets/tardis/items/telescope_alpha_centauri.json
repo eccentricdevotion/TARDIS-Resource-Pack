@@ -1,8 +1,6 @@
 {
-	"parent": "tardis:item/slide/empty_slide",
-	"textures": {
-		"0": "tardis:item/telescope/alpha_centauri",
-		"1": "tardis:item/telescope/label",
-		"particle": "tardis:item/telescope/alpha_centauri"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

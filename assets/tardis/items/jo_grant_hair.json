@@ -1,32 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "tardis:item/lazarus/jo_grant_hair",
-		"particle": "tardis:item/lazarus/jo_grant_hair"
-	},
-	"elements": [
-		{
-			"from": [4, 0, 13],
-			"to": [12, 3, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 13]},
-			"faces": {
-				"north": {"uv": [0, 0, 8, 3], "texture": "#0"},
-				"east": {"uv": [8, 3, 11, 6], "texture": "#0"},
-				"south": {"uv": [0, 3, 8, 6], "texture": "#0"},
-				"west": {"uv": [8, 6, 11, 9], "texture": "#0"},
-				"up": {"uv": [8, 9, 0, 6], "texture": "#0"},
-				"down": {"uv": [16, 0, 8, 3], "texture": "#0"}
-			}
-		}
-	],
-	"display": {
-		"ground": {
-			"translation": [0, 3, 0],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"head": {
-			"translation": [0, 4.25, -1.5],
-			"scale": [1.6, 1.6, 1.6]
-		}
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

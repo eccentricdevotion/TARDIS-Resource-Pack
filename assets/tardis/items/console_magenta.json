@@ -1,9 +1,6 @@
 {
-	"parent": "tardis:item/console/console_item",
-	"textures": {
-		"0": "block/copper_block",
-		"1": "block/lever",
-		"2": "block/magenta_concrete",
-		"particle": "block/magenta_concrete"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

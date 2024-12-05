@@ -1,32 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "tardis:item/lazarus/vampire_of_venice_fan",
-		"particle": "tardis:item/lazarus/vampire_of_venice_fan"
-	},
-	"elements": [
-		{
-			"from": [-1, 0, 8],
-			"to": [17, 10, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 8]},
-			"faces": {
-				"north": {"uv": [0.5, 0, 9.5, 5], "texture": "#0"},
-				"east": {"uv": [0, 0, 0, 10], "texture": "#missing"},
-				"south": {"uv": [0.5, 0, 9.5, 5], "texture": "#0"},
-				"west": {"uv": [0, 0, 0, 10], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
-			}
-		}
-	],
-	"display": {
-		"ground": {
-			"translation": [0, 3, 0],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"head": {
-			"translation": [0, 4.5, 7],
-			"scale": [1.5, 1.5, 1.5]
-		}
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

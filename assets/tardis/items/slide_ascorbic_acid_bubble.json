@@ -1,8 +1,6 @@
 {
-	"parent": "tardis:item/slide/empty_slide",
-	"textures": {
-		"0": "tardis:item/slide/ascorbic_acid_air_bubbles",
-		"1": "tardis:item/telescope/label",
-		"particle": "tardis:item/slide/ascorbic_acid_air_bubbles"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

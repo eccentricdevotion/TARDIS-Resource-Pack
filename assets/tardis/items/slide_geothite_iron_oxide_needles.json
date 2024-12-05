@@ -1,8 +1,6 @@
 {
-	"parent": "tardis:item/slide/empty_slide",
-	"textures": {
-		"0": "tardis:item/slide/geothite_iron_oxide_needles",
-		"1": "tardis:item/telescope/label",
-		"particle": "tardis:item/slide/geothite_iron_oxide_needles"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

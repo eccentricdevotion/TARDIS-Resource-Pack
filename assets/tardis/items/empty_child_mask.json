@@ -1,32 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "tardis:item/lazarus/empty_child_mask",
-		"particle": "tardis:item/lazarus/empty_child_mask"
-	},
-	"elements": [
-		{
-			"from": [6, 0, 0],
-			"to": [10, 4, 2],
-			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 0]},
-			"faces": {
-				"north": {"uv": [2, 2, 6, 6], "texture": "#0"},
-				"east": {"uv": [0, 2, 2, 6], "texture": "#0"},
-				"south": {"uv": [8, 2, 12, 6], "texture": "#0"},
-				"west": {"uv": [6, 2, 8, 6], "texture": "#0"},
-				"up": {"uv": [6, 2, 2, 0], "texture": "#0"},
-				"down": {"uv": [10, 0, 6, 2], "texture": "#0"}
-			}
-		}
-	],
-	"display": {
-		"ground": {
-			"translation": [0, 4, 0],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"head": {
-			"translation": [0, 3, 3.5],
-			"scale": [1.6, 1.6, 1.6]
-		}
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

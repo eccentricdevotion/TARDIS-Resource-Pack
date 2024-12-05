@@ -1,45 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "tardis:item/lazarus/sontaran_ears",
-		"particle": "tardis:item/lazarus/sontaran_ears"
-	},
-	"elements": [
-		{
-			"from": [3, 3, 7],
-			"to": [13, 5, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 3, 4]},
-			"faces": {
-				"north": {"uv": [0.5, 3.5, 3, 4], "texture": "#0"},
-				"east": {"uv": [0, 3.5, 0.5, 4], "texture": "#0"},
-				"south": {"uv": [3.5, 3.5, 6, 4], "texture": "#0"},
-				"west": {"uv": [3, 3.5, 3.5, 4], "texture": "#0"},
-				"up": {"uv": [3, 3.5, 0.5, 3], "texture": "#0"},
-				"down": {"uv": [5.5, 3, 3, 3.5], "texture": "#0"}
-			}
-		},
-		{
-			"from": [5, 8, 5],
-			"to": [11, 9, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 8, 4]},
-			"faces": {
-				"north": {"uv": [0, 6.25, 1.5, 6.5], "texture": "#0"},
-				"east": {"uv": [1.5, 6.25, 3, 6.5], "texture": "#0"},
-				"south": {"uv": [3, 6.25, 4.5, 6.5], "texture": "#0"},
-				"west": {"uv": [4.5, 6.25, 6, 6.5], "texture": "#0"},
-				"up": {"uv": [0, 6.5, 1.5, 8], "texture": "#0"}
-			}
-		}
-	],
-	"display": {
-		"ground": {
-			"translation": [0, 3, 0],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"head": {
-			"translation": [0, 6.25, 0],
-			"scale": [1.6, 1.6, 1.6]
-		}
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

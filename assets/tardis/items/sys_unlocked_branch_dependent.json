@@ -1,46 +1,6 @@
 {
-	"parent": "tardis:item/circuit/sys",
-	"textures": {
-		"0": "tardis:item/circuit/sys_branch_unlocked",
-		"1": "block/gray_wool",
-		"2": "block/light_gray_concrete",
-		"particle": "tardis:item/circuit/sys_branch_unlocked"
-	},
-	"elements": [
-		{
-			"from": [1, 0.075, 1],
-			"to": [15, 0.075, 15],
-			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 1]},
-			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"down": {"uv": [0, 16, 16, 0], "texture": "#0"}
-			}
-		},
-		{
-			"from": [7, 0.075, 0],
-			"to": [9, 0.075, 1],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 0]},
-			"faces": {
-				"up": {"uv": [0, 0, 2, 1], "texture": "#1"},
-				"down": {"uv": [0, 0, 2, 1], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7, 0.075, 15],
-			"to": [9, 0.075, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 15]},
-			"faces": {
-				"up": {"uv": [0, 0, 2, 1], "texture": "#1"},
-				"down": {"uv": [0, 0, 2, 1], "texture": "#1"}
-			}
-		},
-		{
-			"from": [0, 0, 0],
-			"to": [16, 0, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, -1]},
-			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#2"}
-			}
-		}
-	]
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

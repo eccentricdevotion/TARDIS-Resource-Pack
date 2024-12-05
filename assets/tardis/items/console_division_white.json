@@ -1,7 +1,6 @@
 {
-	"parent": "tardis:item/console_part/console_division",
-	"textures": {
-		"0": "block/white_concrete",
-		"particle": "block/white_concrete"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

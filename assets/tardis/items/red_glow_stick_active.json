@@ -1,8 +1,6 @@
 {
-	"parent": "tardis:item/products/glow_sticks/glow_stick_active",
-	"textures": {
-		"0": "tardis:item/glow_sticks/red_plastic",
-		"1": "tardis:item/glow_sticks/red_glow",
-		"particle": "tardis:item/glow_sticks/red_plastic"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

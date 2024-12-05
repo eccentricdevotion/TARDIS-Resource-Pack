@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/copper_bulb_lit"
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
   }
 }

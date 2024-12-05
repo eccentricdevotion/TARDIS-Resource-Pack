@@ -1,7 +1,6 @@
 {
-	"parent": "tardis:item/bowtie/bowtie",
-	"textures": {
-		"0": "minecraft:block/purple_wool",
-		"particle": "minecraft:block/purple_wool"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

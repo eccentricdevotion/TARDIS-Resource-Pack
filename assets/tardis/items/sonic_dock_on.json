@@ -1,7 +1,6 @@
 {
-	"parent": "tardis:item/sonic/sonic_dock",
-	"textures": {
-		"4": "tardis:item/sonic/sonic-dock-on",
-		"particle": "tardis:item/sonic/sonic-dock-on"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

@@ -1,8 +1,6 @@
 {
-	"parent": "tardis:item/circuit/damaged",
-	"textures": {
-		"0": "tardis:item/circuit/circuit_locator_damaged",
-		"1": "tardis:item/circuit/circuit_damaged_back",
-		"particle": "tardis:item/circuit/circuit_damaged_back"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

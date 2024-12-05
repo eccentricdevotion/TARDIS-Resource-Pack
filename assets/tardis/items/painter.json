@@ -1,8 +1,6 @@
 {
-	"parent": "tardis:item/circuit/sonic_circuit",
-	"textures": {
-		"0": "tardis:block/handles/orange_wool",
-		"1": "tardis:item/circuit/sonic/painter",
-		"particle": "tardis:block/handles/orange_wool"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

@@ -1,8 +1,6 @@
 {
-	"parent": "tardis:item/gui/gui_item",
-	"textures": {
-		"0": "block/stone",
-		"1": "tardis:item/gui/room/lava",
-		"particle": "block/stone"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

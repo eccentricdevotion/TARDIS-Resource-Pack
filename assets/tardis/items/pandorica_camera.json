@@ -1,10 +1,6 @@
 {
-	"parent": "tardis:item/pandorica",
-	"display": {
-		"head": {
-			"rotation": [0, -90, 0],
-			"translation": [0, -6.25, 0],
-			"scale": [1.75, 1.75, 1.75]
-		}
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

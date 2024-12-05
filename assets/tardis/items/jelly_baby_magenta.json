@@ -1,7 +1,6 @@
 {
-	"parent": "tardis:item/food/jelly_baby",
-	"textures": {
-		"0": "tardis:item/food/magenta_jelly",
-		"particle": "tardis:item/food/magenta_jelly"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

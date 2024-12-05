@@ -1,7 +1,6 @@
 {
-	"parent": "tardis:item/console_part/console_side",
-	"textures": {
-		"0": "block/oxidized_copper",
-		"particle": "block/oxidized_copper"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

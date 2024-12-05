@@ -1,49 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"texture_size": [32, 32],
-	"textures": {
-		"0": "tardis:item/lazarus/slitheen_head",
-		"particle": "tardis:item/lazarus/slitheen_head"
-	},
-	"elements": [
-		{
-			"from": [4, 0, 4],
-			"to": [12, 8, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
-			"faces": {
-				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
-				"east": {"uv": [0, 4, 2, 8], "texture": "#0"},
-				"south": {"uv": [4, 0, 8, 4], "texture": "#0"},
-				"west": {"uv": [4, 4, 6, 8], "texture": "#0"},
-				"up": {"uv": [4, 10, 0, 8], "texture": "#0"},
-				"down": {"uv": [12, 0, 8, 2], "texture": "#0"}
-			}
-		},
-		{
-			"from": [4, 4, 8],
-			"to": [12, 8, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 4, 2], "texture": "#0"},
-				"east": {"uv": [1.5, 4, 3.5, 6], "texture": "#0"},
-				"south": {"uv": [4, 0, 8, 2], "texture": "#0"},
-				"west": {"uv": [6, 4, 8, 6], "texture": "#0"},
-				"up": {"uv": [4, 10, 0, 8], "texture": "#0"},
-				"down": {"uv": [12, 0, 8, 2], "texture": "#0"}
-			}
-		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"scale": [1.6, 1.6, 1.6]
-		},
-		"ground": {
-			"translation": [0, 3, 0],
-			"scale": [0.75, 0.75, 0.75]
-		},
-		"head": {
-			"translation": [0, 12.75, -6.25],
-			"scale": [1.6, 1.6, 1.6]
-		}
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

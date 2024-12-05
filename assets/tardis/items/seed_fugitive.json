@@ -1,7 +1,6 @@
 {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-            "particle": "tardis:block/seed/polished_deepslate",
-            "all": "tardis:block/seed/polished_deepslate"
-    }
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

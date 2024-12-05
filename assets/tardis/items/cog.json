@@ -1,7 +1,6 @@
 {
-	"parent": "minecraft:block/cube_column",
-	"textures": {
-		"end": "tardis:block/tardis/cog_top_bottom",
-		"side": "tardis:block/tardis/cog"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

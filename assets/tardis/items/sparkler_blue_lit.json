@@ -1,9 +1,6 @@
 {
-	"parent": "tardis:item/products/sparklers/sparkler_lit",
-	"textures": {
-		"0": "tardis:item/sparklers/sparkler_powder",
-		"1": "tardis:item/sparklers/sparkler_wire",
-		"2": "tardis:item/sparklers/sparkler_blue",
-		"particle": "tardis:item/sparklers/sparkler_blue"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }

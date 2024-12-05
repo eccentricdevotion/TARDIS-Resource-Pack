@@ -1,7 +1,6 @@
 {
-	"parent": "tardis:item/police_box/tardis_stained",
-	"textures": {
-		"0": "tardis:block/police_box/tardis_transparent_white",
-		"particle": "tardis:block/police_box/tardis_transparent_white"
-	}
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/tardis/blue_box"
+  }
 }
