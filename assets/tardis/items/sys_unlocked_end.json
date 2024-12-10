@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/sys_unlocked_end"
+    "model": "tardis:item/circuit/sys_unlocked_end"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/compounds/iron_sulphide"
+    "model": "tardis:item/compounds/iron_sulfide"
   }
 }

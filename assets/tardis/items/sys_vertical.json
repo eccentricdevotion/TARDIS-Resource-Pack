@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/sys_vertical"
+    "model": "tardis:item/circuit/sys_vertical"
   }
 }
