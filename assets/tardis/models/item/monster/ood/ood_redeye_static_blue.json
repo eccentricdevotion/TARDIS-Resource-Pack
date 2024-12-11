@@ -1,5 +1,5 @@
 {
-	"parent": "tardis:item/monster/ood/ood_head",
+	"parent": "tardis:item/monster/ood/ood_static_black",
 	"textures": {
 		"0": "tardis:item/monster/ood/ood_redeye_front",
 		"1": "tardis:item/monster/ood/ood_left",

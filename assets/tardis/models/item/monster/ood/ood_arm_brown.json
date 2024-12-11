@@ -1,5 +1,5 @@
 {
-	"parent": "tardis:item/monster/ood/ood_arm",
+	"parent": "tardis:item/monster/ood/ood_arm_black",
 	"textures": {
 		"0": "tardis:item/monster/ood/ood_brown_arm"
 	}

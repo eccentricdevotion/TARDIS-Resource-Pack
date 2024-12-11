@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/tardis/blue_box"
+    "model": "tardis:item/telescope/star_bubble_nebula"
   }
 }

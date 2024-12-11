@@ -1,5 +1,5 @@
 {
-	"parent": "tardis:item/monster/ood/ood_ball_arm",
+	"parent": "tardis:item/monster/ood/ood_ball_arm_black",
 	"textures": {
 		"0": "tardis:item/monster/ood/ood_blue_arm",
 		"1": "tardis:item/balloons/white",
