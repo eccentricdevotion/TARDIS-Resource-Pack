@@ -1,5 +1,5 @@
 {
-	"parent": "tardis:item/pandorica",
+	"parent": "tardis:item/pandorica/pandorica_closed",
 	"display": {
 		"head": {
 			"rotation": [0, -90, 0],

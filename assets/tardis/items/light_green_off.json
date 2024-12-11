@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/lights/green_on"
+    "model": "tardis:item/lights/green_off"
   }
 }

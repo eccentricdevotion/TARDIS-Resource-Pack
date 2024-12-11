@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "tardis:item/monster/clockwork_droid/clockwork_droid_female"
+		"0": "tardis:item/monster/clockwork_droid/clockwork_droid_female",
+		"particle": "tardis:item/lazarus/clockwork_droid_female"
 	},
 	"elements": [
 		{

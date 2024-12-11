@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "tardis:item/sonic/eleventh",
-		"1": "tardis:item/sonic/lime_glass"
+		"1": "tardis:item/sonic/lime_glass",
+        "particle": "tardis:item/sonic/eleventh"
 	},
 	"elements": [
 		{

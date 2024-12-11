@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/gui/repeater/dynamic_lights_on"
+    "model": "tardis:item/gui/repeater/dynamic_lamps_on"
   }
 }

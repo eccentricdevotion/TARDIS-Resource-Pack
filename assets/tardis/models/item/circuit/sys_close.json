@@ -1,8 +1,10 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "tardis:item/circuit/sys",
 	"textures": {
 		"0": "block/light_gray_concrete",
-		"1": "tardis:item/gui/close"
+		"1": "tardis:item/gui/close",
+		"particle": "block/light_gray_concrete"
 	},
 	"elements": [
 		{

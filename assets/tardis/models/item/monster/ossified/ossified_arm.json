@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "tardis:item/lazarus/ossified"
+		"1": "tardis:item/lazarus/ossified",
+		"particle": "tardis:item/lazarus/ossified"
 	},
 	"elements": [
 		{

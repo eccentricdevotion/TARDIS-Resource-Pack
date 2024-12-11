@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/lights/light_levels"
+    "model": "tardis:item/gui/lights/light_levels"
   }
 }

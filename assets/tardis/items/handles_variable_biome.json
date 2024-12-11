@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/handles/handles_selector_biome"
+    "model": "tardis:item/handles/handles_variable_biome"
   }
 }

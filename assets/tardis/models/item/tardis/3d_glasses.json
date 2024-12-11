@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:block/quartz_block_top",
-		"1": "minecraft:block/blue_stained_glass",
-		"2": "minecraft:block/red_stained_glass"
+		"0": "block/quartz_block_top",
+		"1": "block/blue_stained_glass",
+		"2": "block/red_stained_glass",
+		"particle": "block/quartz_block_top"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/mire_left_arm"
+    "model": "tardis:item/lazarus/mire_left_arm"
   }
 }

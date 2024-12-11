@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "tardis:item/monster/racnoss/racnoss_head"
+		"3": "tardis:item/monster/racnoss/racnoss_head",
+		"particle": "tardis:item/monster/racnoss/racnoss_head"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/police_box/cyan_"
+    "model": "tardis:item/police_box/cyan_camera"
   }
 }

@@ -4,7 +4,8 @@
 		"0": "tardis:item/disk/black_plastic",
 		"1": "tardis:item/sonic/lipstick",
 		"2": "tardis:item/disk/silver",
-		"3": "tardis:item/disk/blacker_plastic"
+		"3": "tardis:item/disk/blacker_plastic",
+		"particle": "tardis:item/disk/black_plastic"
 	},
 	"elements": [
 		{

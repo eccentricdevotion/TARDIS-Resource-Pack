@@ -70,7 +70,7 @@
 			"to": [8, 1.26, 5],
 			"faces": {
 				"up": {"uv": [0.5, 8.5, 5.5, 10.5], "texture": "#1"},
-				"down": {"uv": [0, 0, 0, 0], "texture": "#missing"}
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
 			}
 		},
 		{
@@ -145,19 +145,16 @@
 			"name": "direction",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				{
 					"name": "group",
 					"origin": [8, 1, 8],
 					"color": 0,
-					"nbt": "{}",
 					"children": [
 						{
 							"name": "indicator",
 							"origin": [12, 2.5, 4],
 							"color": 0,
-							"nbt": "{}",
 							"children": [0, 1, 2]
 						},
 						3,
@@ -165,14 +162,12 @@
 							"name": "group",
 							"origin": [0, 0, 0],
 							"color": 0,
-							"nbt": "{}",
 							"children": [4, 5, 6, 7, 8]
 						},
 						{
 							"name": "slider",
 							"origin": [0, 0, 0],
 							"color": 0,
-							"nbt": "{}",
 							"children": [9, 10]
 						}
 					]
@@ -181,7 +176,6 @@
 					"name": "base",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"nbt": "{}",
 					"children": [11]
 				}
 			]

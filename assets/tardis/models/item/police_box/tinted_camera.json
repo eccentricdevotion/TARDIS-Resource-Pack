@@ -1,5 +1,5 @@
 {
-	"parent": "tardis:item/police_box/tardis_tinted",
+	"parent": "tardis:item/police_box/tinted_closed",
 	"display": {
 		"head": {
 			"rotation": [0, -90, 0],

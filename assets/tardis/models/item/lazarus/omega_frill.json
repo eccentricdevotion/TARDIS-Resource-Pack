@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "tardis:item/lazarus/omega_frill"
+		"1": "tardis:item/lazarus/omega_frill",
+		"particle": "tardis:item/lazarus/omega_frill"
 	},
 	"elements": [
 		{

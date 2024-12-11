@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"main": "tardis:item/time_rotor/engine_base"
+		"main": "tardis:item/time_rotor/engine_base",
+		"particle": "tardis:item/time_rotor/engine_base"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item//products/eyedrops"
+    "model": "tardis:item/products/eyedrops"
   }
 }
