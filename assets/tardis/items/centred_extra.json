@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/doors/police_box_door_1"
+    "model": "tardis:item/doors/centred_extra"
   }
 }
