@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "tardis:item/lazarus/sycorax",
 		"1": "tardis:item/lazarus/sycorax_cape",
-		"particle": "tardis:item/lazarus/sycorax_cape"
+		"particle": "tardis:item/lazarus/sycorax"
 	},
 	"elements": [
 		{

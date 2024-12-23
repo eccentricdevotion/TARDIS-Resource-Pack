@@ -1,6 +1,0 @@
-{
-	"parent": "tardis:item/monster/ood/ood_arm_black",
-	"textures": {
-		"0": "tardis:item/monster/ood/ood_blue_arm"
-	}
-}

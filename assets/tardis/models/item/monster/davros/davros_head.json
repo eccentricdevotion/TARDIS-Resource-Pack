@@ -490,8 +490,9 @@
 			"scale": [2.14, 2.14, 2.14]
 		},
 		"fixed": {
-			"translation": [0, 6.25, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"rotation": [-90, 0, 0],
+			"translation": [0, -5, -18],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [

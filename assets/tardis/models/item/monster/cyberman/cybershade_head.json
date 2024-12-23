@@ -1,0 +1,91 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "tardis:item/lazarus/cybershade",
+		"1": "tardis:item/lazarus/cybershade_ears",
+		"particle": "tardis:item/lazarus/cybershade"
+	},
+	"elements": [
+		{
+			"name": "Hat Layer",
+			"from": [3.5, 0, 3.5],
+			"to": [12.5, 9, 3.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -23, 8]},
+			"faces": {
+				"north": {"uv": [10, 2, 12, 4], "texture": "#0"},
+				"south": {"uv": [10, 2, 12, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 5.5, 3.925],
+			"to": [15, 11.5, 3.925],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0.5, 3.925]},
+			"faces": {
+				"north": {"uv": [0, 0, 14, 6], "texture": "#1"},
+				"south": {"uv": [0, 6, 14, 12], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Head",
+			"from": [4, 1, 4],
+			"to": [12, 9, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -23, 8]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"rotation": [0, -180, 0],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [-0.5, 2.5, 0]
+		},
+		"head": {
+			"translation": [0, 5, 0],
+			"scale": [1.63, 1.63, 1.63]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "Head",
+			"origin": [8, 24, 8],
+			"color": 0,
+			"children": [0, 1]
+		},
+		2
+	]
+}

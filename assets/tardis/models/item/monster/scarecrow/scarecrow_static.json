@@ -111,7 +111,7 @@
 		},
 		{
 			"name": "Right Leg",
-			"from": [7.9, 0, 6],
+			"from": [8, 0, 6],
 			"to": [11.9, 12, 10],
 			"rotation": {"angle": 0, "axis": "x", "origin": [10, 12, 8]},
 			"faces": {
@@ -123,7 +123,7 @@
 		},
 		{
 			"name": "Left Leg",
-			"from": [4.1, 0, 6],
+			"from": [4, 0, 6],
 			"to": [8.1, 12, 10],
 			"rotation": {"angle": 0, "axis": "x", "origin": [6, 12, 8]},
 			"faces": {
