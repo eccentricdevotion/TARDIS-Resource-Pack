@@ -459,6 +459,12 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"translation": [0, -27.75, 0],
+			"scale": [1.63, 1.63, 1.63]
+		}
+	},
 	"groups": [
 		{
 			"name": "Head",
