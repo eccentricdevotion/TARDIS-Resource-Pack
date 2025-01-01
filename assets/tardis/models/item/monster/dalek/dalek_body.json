@@ -14,7 +14,8 @@
 		"16": "tardis:item/monster/dalek/brass/lower_front",
 		"17": "tardis:item/monster/dalek/brass/lower_left",
 		"18": "tardis:item/monster/dalek/brass/lower_right",
-		"19": "tardis:item/monster/dalek/brass/lower_top"
+		"19": "tardis:item/monster/dalek/brass/lower_top",
+		"particle": "tardis:item/monster/dalek/brass/bottom"
 	},
 	"elements": [
 		{
