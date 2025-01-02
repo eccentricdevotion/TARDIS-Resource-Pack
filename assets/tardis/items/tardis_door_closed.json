@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/doors/tardis_door_0"
+    "model": "tardis:item/doors/tardis_door_closed"
   }
 }
