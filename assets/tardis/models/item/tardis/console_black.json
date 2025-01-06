@@ -1,9 +1,0 @@
-{
-	"parent": "tardis:item/tardis/console_item",
-	"textures": {
-		"0": "block/copper_block",
-		"1": "block/lever",
-		"2": "block/black_concrete",
-		"particle": "block/black_concrete"
-	}
-}

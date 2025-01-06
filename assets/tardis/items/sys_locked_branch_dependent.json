@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/circuit/sys_locked_branch_independent"
+  }
+}

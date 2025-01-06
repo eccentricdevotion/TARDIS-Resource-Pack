@@ -1,9 +1,0 @@
-{
-	"parent": "minecraft:block/cyan_wool",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/arrow/up"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/arrow/down"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/gui/bowl/left"},
-		{"predicate": {"custom_model_data": 4}, "model": "tardis:item/gui/bowl/right"}
-	]
-}

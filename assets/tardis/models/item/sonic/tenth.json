@@ -3,7 +3,8 @@
 	"textures": {
 		"0": "tardis:item/sonic/tenth",
 		"1": "tardis:item/disk/silver_metal",
-		"2": "tardis:item/sonic/blue_glass"
+		"2": "tardis:item/sonic/blue_glass",
+        "particle": "tardis:item/sonic/tenth"
 	},
 	"elements": [
 		{

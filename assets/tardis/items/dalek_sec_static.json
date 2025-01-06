@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/monster/dalek_sec/dalek_sec_static"
+  }
+}

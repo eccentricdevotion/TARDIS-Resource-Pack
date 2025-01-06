@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/orange_wool",
-	"overrides": [
-		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/tardis/hexagon"}
-	]
-}

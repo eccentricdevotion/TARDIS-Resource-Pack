@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "tardis:item/lazarus/ossified"
+		"0": "tardis:item/lazarus/ossified",
+		"particle": "tardis:item/lazarus/ossified"
 	},
 	"elements": [
 		{
@@ -67,8 +68,9 @@
 			"scale": [1.61, 1.61, 1.61]
 		},
 		"fixed": {
-			"translation": [0, 6, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [

@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/gui/repeater/police_box_textures_off"
+  }
+}

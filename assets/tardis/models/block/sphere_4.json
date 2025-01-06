@@ -1,8 +1,0 @@
-{
-	"parent": "tardis:block/sphere",
-	"display": {
-		"ground": {
-			"scale": [3, 3, 3]
-		}
-	}
-}

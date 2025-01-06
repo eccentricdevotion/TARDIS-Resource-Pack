@@ -1,9 +1,0 @@
-{
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:item/mushroom_stew"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/food/bowl_of_custard"}
-	]
-}

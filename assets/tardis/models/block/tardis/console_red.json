@@ -1,7 +1,0 @@
-{
-	"parent": "tardis:block/tardis/console_side",
-	"textures": {
-		"0": "block/red_concrete",
-		"particle": "block/red_concrete"
-	}
-}

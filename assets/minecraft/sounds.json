@@ -535,6 +535,16 @@
       ],
       "subtitle":"Headless Monk prays"
    },
+   "omega":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:omega_can",
+         "tardis:omega_fear",
+         "tardis:omega_mind",
+         "tardis:omega_two"
+      ],
+      "subtitle":"Slitheen farts"
+   },
    "sea_devil":{
       "category":"hostile",
       "sounds":[
@@ -587,6 +597,16 @@
          "tardis:strax_lactic"
       ],
       "subtitle":"Strax speaks"
+   },
+   "sutekh":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:sutekh_angels",
+         "tardis:sutekh_blessed",
+         "tardis:sutekh_machine",
+         "tardis:sutekh_meet"
+      ],
+      "subtitle":"Slitheen farts"
    },
    "vashta":{
       "category":"hostile",

@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "tardis:block/small_block",
+	"parent": "tardis:item/tardis/small_block",
 	"ambientocclusion": false,
 	"textures": {
 		"2": "tardis:item/sonic/generator_top",

@@ -4,7 +4,8 @@
 		"0": "tardis:item/sonic/tenth",
 		"1": "tardis:item/disk/silver_metal",
 		"2": "tardis:item/sonic/blue_glass",
-		"3": "tardis:item/sonic/tenth_open"
+		"3": "tardis:item/sonic/tenth_open",
+        "particle": "tardis:item/sonic/tenth"
 	},
 	"elements": [
 		{

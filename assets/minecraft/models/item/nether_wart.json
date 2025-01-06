@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/nether_wart"
-  },
-  "overrides": [
-    {"predicate": {"custom_model_data":5}, "model": "tardis:item/lazarus/bannakaffalatta_spikes"}
-  ]
-}

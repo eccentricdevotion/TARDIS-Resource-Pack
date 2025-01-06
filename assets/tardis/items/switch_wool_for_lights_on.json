@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/gui/repeater/wool_for_lights_on"
+  }
+}

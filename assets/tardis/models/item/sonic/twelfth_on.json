@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "tardis:item/sonic/twelfth",
-		"1": "tardis:item/sonic/probe_wire"
+		"1": "tardis:item/sonic/probe_wire",
+        "particle": "tardis:item/sonic/twelfth"
 	},
 	"elements": [
 		{

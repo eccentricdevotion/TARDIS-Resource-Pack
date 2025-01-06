@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/ancient_debris",
-  "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "tardis:item/regeneration/untempered_schism_block"},
-    {"predicate": {"custom_model_data":10001}, "model": "tardis:item/regeneration/untempered_schism"}
-  ]
-}

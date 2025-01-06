@@ -4,7 +4,8 @@
 		"0": "tardis:item/disk/silver",
 		"1": "tardis:item/sonic/gold",
 		"3": "tardis:item/sonic/greenish",
-		"1_1": "tardis:item/disk/silver_metal"
+		"1_1": "tardis:item/disk/silver_metal",
+        "particle": "tardis:item/disk/silver"
 	},
 	"elements": [
 		{

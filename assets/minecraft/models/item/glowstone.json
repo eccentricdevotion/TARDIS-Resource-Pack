@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/glowstone",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/room/bedroom"}
-	]
-}

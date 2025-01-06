@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:block/yellow_wool",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/map/level_bottom_active"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/gui/map/level_main_active"},
-		{"predicate": {"custom_model_data": 3}, "model": "tardis:item/gui/map/level_top_active"}
-	]
-}

@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:item/sonic/mark4"
+		"0": "tardis:item/sonic/mark4",
+        "particle": "tardis:item/sonic/mark4"
 	},
 	"elements": [
 		{

@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block/sandstone",
-    "overrides": [
-		  {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/antigravity"},
-		  {"predicate": {"custom_model_data":10001}, "model": "tardis:block/seed/factory"}
-	]
-}

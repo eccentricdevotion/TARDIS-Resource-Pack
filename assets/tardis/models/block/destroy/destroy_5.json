@@ -1,7 +1,0 @@
-{
-	"parent": "tardis:block/destroy/destroy",
-	"textures": {
-		"0": "block/destroy_stage_5",
-		"particle": "block/destroy_stage_5"
-	}
-}

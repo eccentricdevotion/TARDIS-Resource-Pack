@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "tardis:item/gui/particle/shape_selected"
+  }
+}

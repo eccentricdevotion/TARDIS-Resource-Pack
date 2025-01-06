@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "tardis:item/lazarus/ossified"
+		"0": "tardis:item/lazarus/ossified",
+		"particle": "tardis:item/lazarus/ossified"
 	},
 	"elements": [
 		{
@@ -115,7 +116,7 @@
 		},
 		{
 			"name": "Right Leg",
-			"from": [7.9, -0.5, 6],
+			"from": [8, -0.5, 6],
 			"to": [11.9, 11.5, 10],
 			"rotation": {"angle": 0, "axis": "x", "origin": [9.9, 11.5, 8]},
 			"faces": {
@@ -143,7 +144,7 @@
 		},
 		{
 			"name": "Left Leg",
-			"from": [4.1, -0.5, 6],
+			"from": [4, -0.5, 6],
 			"to": [8.1, 11.5, 10],
 			"rotation": {"angle": 0, "axis": "x", "origin": [6.1, 11.5, 8]},
 			"faces": {

@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:block/lime_wool",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "tardis:item/gui/map/scroll_right"},
-		{"predicate": {"custom_model_data": 2}, "model": "tardis:item/sonic/enabled"}
-	]
-}

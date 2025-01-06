@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "tardis:block/handles/handles_left"
+		"0": "tardis:block/handles/handles_left",
+		"particle": "tardis:block/handles/handles_left"
 	},
 	"elements": [
 		{
@@ -92,6 +93,7 @@
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2]
 		}
 	]

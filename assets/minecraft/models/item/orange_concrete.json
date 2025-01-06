@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/orange_concrete",
-	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/thirteenth"},
-		{"predicate": {"custom_model_data":1001}, "model": "tardis:item/tardis/console_orange"},
-		{"predicate": {"custom_model_data":10001}, "model": "tardis:block/chemistry/compound"}
-	]
-}
