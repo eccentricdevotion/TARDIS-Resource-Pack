@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "tardis:item/monster/cyberman/c5_arm",
+		"particle": "tardis:item/monster/cyberman/c5_arm"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 7],
+			"to": [8.5, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [4, 0, 5, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 8], "texture": "#0"},
+				"south": {"uv": [5, 0, 6, 8], "texture": "#0"},
+				"west": {"uv": [2, 0, 4, 8], "texture": "#0"},
+				"up": {"uv": [7, 8, 6, 6], "texture": "#0"},
+				"down": {"uv": [8, 6, 7, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 8, 7],
+			"to": [7.5, 9, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.5, 8, 8.5]},
+			"faces": {
+				"north": {"uv": [2, 4, 3, 8], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [3, 3, 5, 4], "texture": "#0"},
+				"south": {"uv": [3, 4, 4, 8], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [3, 2, 5, 3], "texture": "#0"},
+				"up": {"uv": [2, 8, 0, 4], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 4, 2, 0], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [2.5, -2, 12]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -180, 0],
+			"translation": [2.5, -2, 12]
+		}
+	}
+}

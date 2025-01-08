@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "tardis:item/monster/cyberman/c1_features",
+		"particle": "tardis:item/monster/cyberman/c1_features"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [11, 11, 12, 16], "texture": "#0"},
+				"east": {"uv": [12, 11, 13, 16], "texture": "#0"},
+				"south": {"uv": [13, 11, 14, 16], "texture": "#0"},
+				"west": {"uv": [14, 11, 15, 16], "texture": "#0"},
+				"up": {"uv": [16, 12, 15, 11], "texture": "#0"},
+				"down": {"uv": [16, 12, 15, 13], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [2.5, -2, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [2.5, -2, 3]
+		}
+	}
+}
