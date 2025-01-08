@@ -3,7 +3,6 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "tardis:item/monster/cyberman/c7_features",
-		"1": "tardis:item/monster/cyberman/c7",
 		"particle": "tardis:item/monster/cyberman/c7_features"
 	},
 	"elements": [
@@ -83,19 +82,6 @@
 				"west": {"uv": [1.5, 5, 3, 10], "texture": "#0"},
 				"up": {"uv": [7, 6.5, 3, 5], "texture": "#0"},
 				"down": {"uv": [7, 6.5, 3, 8], "texture": "#0"}
-			}
-		},
-		{
-			"from": [4, 0, 5],
-			"to": [12, 8, 13],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 5]},
-			"faces": {
-				"north": {"uv": [2, 2, 4, 4], "texture": "#1"},
-				"east": {"uv": [0, 2, 2, 4], "texture": "#1"},
-				"south": {"uv": [6, 2, 8, 4], "texture": "#1"},
-				"west": {"uv": [4, 2, 6, 4], "texture": "#1"},
-				"up": {"uv": [2, 0, 4, 2], "rotation": 180, "texture": "#1"},
-				"down": {"uv": [4, 0, 6, 2], "texture": "#1"}
 			}
 		}
 	],

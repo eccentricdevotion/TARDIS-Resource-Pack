@@ -2,7 +2,6 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "tardis:item/monster/cyberman/c1_features",
-		"1": "tardis:item/monster/cyberman/c1",
 		"particle": "tardis:item/monster/cyberman/c1_features"
 	},
 	"elements": [
@@ -82,19 +81,6 @@
 				"west": {"uv": [8, 1, 10, 4], "texture": "#0"},
 				"up": {"uv": [12, 3, 10, 1], "texture": "#0"},
 				"down": {"uv": [12, 3, 10, 5], "texture": "#0"}
-			}
-		},
-		{
-			"from": [4, 0, 4],
-			"to": [12, 8, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
-			"faces": {
-				"north": {"uv": [2, 2, 4, 4], "texture": "#1"},
-				"east": {"uv": [0, 2, 2, 4], "texture": "#1"},
-				"south": {"uv": [6, 2, 8, 4], "texture": "#1"},
-				"west": {"uv": [4, 2, 6, 4], "texture": "#1"},
-				"up": {"uv": [2, 0, 4, 2], "rotation": 180, "texture": "#1"},
-				"down": {"uv": [4, 0, 6, 2], "texture": "#1"}
 			}
 		}
 	],
