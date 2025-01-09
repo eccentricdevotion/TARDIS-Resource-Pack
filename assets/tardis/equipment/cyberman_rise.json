@@ -2,12 +2,12 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "tardis:cyberman"
+        "texture": "tardis:cyberman_rise"
       }
     ],
     "humanoid_leggings": [
       {
-        "texture": "tardis:cyberman"
+        "texture": "tardis:cyberman_rise"
       }
     ]
   }
