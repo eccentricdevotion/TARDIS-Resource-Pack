@@ -1,0 +1,445 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_model_data",
+		"cases": [
+			{
+				"when": [
+					{
+						"floats": [
+							101
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/mark1"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						201
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/mark1_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							102
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/mark2"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						202
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/mark2_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							103
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/mark3"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						203
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/mark3_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							104
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/mark4"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						204
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/mark4_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							108
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/eighth"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						208
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/eighth_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							109
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/ninth"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						209
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/ninth_open"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							110
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/tenth"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						210
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/tenth_open"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							111
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/eleventh"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						211
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/eleventh_open"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							112
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/twelfth"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						212
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/twelfth_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							113
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/thirteenth"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						213
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/thirteenth_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							114
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/fourteenth"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						214
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/fourteenth_open"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							115
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/fifteenth"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						215
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/fifteenth_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							120
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/war"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						220
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/war_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							121
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/master"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						221
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/master_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							122
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/sarah_jane"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						222
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/sarah_jane_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							123
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/sonic_probe"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						223
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/sonic_probe_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							124
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/river_song"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						224
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/river_song_on"
+				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							125
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/umbrella"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						225
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/umbrella_on"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/blaze_rod"
+		}
+	}
+}

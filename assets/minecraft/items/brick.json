@@ -1,0 +1,45 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "component",
+		"component": "minecraft:custom_name",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/brick"
+		},
+		"cases": [
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "TARDIS Biome Reader",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/tardis/biome_reader"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Weeping Angel"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/weeping_angel_wings"
+				}
+			}
+		]
+	}
+}

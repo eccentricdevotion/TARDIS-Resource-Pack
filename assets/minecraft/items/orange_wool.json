@@ -1,0 +1,33 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "component",
+		"component": "minecraft:custom_name",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:block/orange_wool"
+		},
+		"cases": [
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Hexagon",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/tardis/hexagon"
+				}
+			}
+		]
+	}
+}

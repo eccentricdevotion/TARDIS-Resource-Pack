@@ -1,0 +1,145 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "component",
+		"component": "minecraft:custom_name",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/iron_ingot"
+		},
+		"cases": [
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Particle Density"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/density"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Black Cyberman"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/black_cyberman_features"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Cyber Lord"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/cyber_lord_features"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Cyber Weapon"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/cyber_weapon"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Earthshock Cyberman"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/cyberman_earthshock_features"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Cyberman"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/cyberman_features"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Cyber Arm"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/cyberman_invasion_arm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Invasion Cyberman"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/cyberman_invasion_features"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Moonbase Cyberman"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/cyberman_moonbase_features"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Rise of the Cyberman"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/cyberman_rise_features"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Tenth Planet Cyberman"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/cyberman_tenth_planet_features"
+				}
+			}
+		]
+	}
+}

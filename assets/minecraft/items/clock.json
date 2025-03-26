@@ -1,0 +1,357 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "component",
+		"component": "minecraft:custom_name",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/clock_00"
+		},
+		"cases": [
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Fob Watch",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/tardis/fob_watch"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Morning"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/morning"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Noon"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/noon"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Night"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/night"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Midnight"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/midnight"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"7 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/seven_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"8 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/eight_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"9 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/nine_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"10 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/ten_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"11 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/eleven_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"12 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/twelve_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"1 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/one_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"2 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/two_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"3 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/three_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"4 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/four_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"5 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/five_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"6 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/six_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"7 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/seven_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"8 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/eight_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"9 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/nine_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"10 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/ten_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"11 PM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/eleven_pm"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"12 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/twelve_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"1 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/one_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"2 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/two_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"3 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/three_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"4 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/four_am"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"5 AM"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/clock/five_am"
+				}
+			}
+		]
+	}
+}

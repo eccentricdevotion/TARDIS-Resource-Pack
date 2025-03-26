@@ -1,0 +1,25 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "component",
+		"component": "minecraft:custom_name",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/rotten_flesh"
+		},
+		"cases": [
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Ood"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/ood_features"
+				}
+			}
+		]
+	}
+}

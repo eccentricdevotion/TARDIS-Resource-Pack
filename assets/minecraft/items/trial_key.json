@@ -1,0 +1,156 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "component",
+		"component": "minecraft:custom_model_data",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/gold_nugget"
+		},
+		"cases": [
+			{
+				"when": {
+					"floats": [
+						101
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/brass_yale"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						102
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/brass_plain"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						103
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/spade_shaped"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						104
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/silver_yale"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						105
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/seal_of_rassilon"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						106
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/silver_variant"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						107
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/silver_plain"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						108
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/silver_new"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						109
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/silver_era"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						110
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/silver_string"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						111
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/filter"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						112
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/brass_string"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						113
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/key/bromley_gold"
+				}
+			}
+		]
+	}
+}

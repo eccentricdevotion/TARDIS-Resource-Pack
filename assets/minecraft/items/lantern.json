@@ -1,0 +1,25 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "component",
+		"component": "minecraft:custom_name",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/lantern"
+		},
+		"cases": [
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Lights Interior"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/lights/interior"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,1003 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "component",
+		"component": "minecraft:custom_model_data",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/repeater"
+		},
+		"cases": [
+			{
+				"when": {
+					"floats": [
+						101
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/autonomous_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						201
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/autonomous_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						102
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/autonomous_siege_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						202
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/autonomous_siege_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						103
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/auto_rescue_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						203
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/auto_rescue_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						104
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/beacon_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						204
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/beacon_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						105
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/close_gui_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						205
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/close_gui_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						106
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/do_not_disturb_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						206
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/do_not_disturb_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						107
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/dynamic_lamps_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						207
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/dynamic_lamps_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						108
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/emergency_program_one_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						208
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/emergency_program_one_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						109
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/hostile_action_displacement_system_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						209
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/hostile_action_displacement_system_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						110
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/hads_type_dispersal"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						210
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/hads_type_displacement"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						111
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/who_quotes_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						211
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/who_quotes_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						112
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/exterior_rendering_room_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						212
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/exterior_rendering_room_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						113
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/interior_sfx_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						213
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/interior_sfx_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						114
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/submarine_mode_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						214
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/submarine_mode_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						115
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/companion_build_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						215
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/companion_build_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						116
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/preset_sign_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						216
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/preset_sign_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						117
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/travel_bar_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						217
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/travel_bar_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						118
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/mob_farming_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						218
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/mob_farming_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						119
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/telepathic_circuit_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						219
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/telepathic_circuit_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						120
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/junk_tardis_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						220
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/junk_tardis_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						121
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/auto_power_up_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						221
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/auto_power_up_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						122
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/force_field_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						222
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/force_field_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						123
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/minecart_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						223
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/minecart_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						124
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/lock_containers_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						224
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/lock_containers_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						125
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/info_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						225
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/info_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						126
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/announce_repeaters_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						226
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/announce_repeaters_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						127
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/allow_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						227
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/allow_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						128
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/arch_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						228
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/arch_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						129
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/archive_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						229
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/archive_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						130
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/blueprints_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						230
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/blueprints_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						131
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/creation_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						231
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/creation_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						132
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/difficulty_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						232
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/difficulty_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						133
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/eye_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						233
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/eye_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						134
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/growth_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						234
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/growth_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						135
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/handles_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						235
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/handles_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						136
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/police_box_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						236
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/police_box_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						137
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/preferences_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						237
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/preferences_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						138
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/abandon_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						238
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/abandon_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						139
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/circuit_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						239
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/circuit_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						140
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/debug_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						240
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/debug_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						141
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/theme_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						241
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/theme_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						142
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/junk_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						242
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/junk_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						143
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/siege_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						243
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/siege_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						144
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/sonic_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						244
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/sonic_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						145
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/travel_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						245
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/travel_on"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "component",
+		"component": "minecraft:custom_name",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/coal"
+		},
+		"cases": [
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Particle Block"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/block"
+				}
+			}
+		]
+	}
+}

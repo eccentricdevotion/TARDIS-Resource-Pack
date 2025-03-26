@@ -1,0 +1,49 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "component",
+		"component": "minecraft:custom_name",
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/turtle_egg"
+		},
+		"cases": [
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Slitheen Left Claw"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/slitheen_claw_left"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Slitheen Right Claw"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/slitheen_claw_right"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Slitheen"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/monster/slitheen/slitheen_head"
+				}
+			}
+		]
+	}
+}
