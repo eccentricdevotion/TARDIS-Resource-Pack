@@ -1,25 +1,97 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/lapis_lazuli"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Particle Shape"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/particle/shape"
-				}
-			}
-		]
-	}
+    "model":{
+        "type":"minecraft:select",
+        "property":"component",
+        "component":"minecraft:custom_name",
+        "fallback":{
+            "type":"minecraft:model",
+            "model":"minecraft:item/lapis_lazuli"
+        },
+        "cases":[
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Beam"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/particle/shape_selected"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Helix"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/particle/shape_selected"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Random"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/particle/shape_selected"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Rings"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/particle/shape_selected"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Vacuum"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/particle/shape_selected"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Wave"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/particle/shape_selected"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Falling"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/particle/shape_selected"
+                }
+            }
+        ]
+    }
 }

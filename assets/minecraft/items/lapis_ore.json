@@ -5,79 +5,91 @@
         "component":"minecraft:custom_name",
         "fallback":{
             "type":"minecraft:model",
-            "model":"minecraft:block/magma_block"
+            "model":"minecraft:block/lapis_ore"
         },
         "cases":[
             {
                 "when":{
                     "text":"",
                     "extra":[
-                        "Lava"
+                        "Beam"
                     ]
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/gui/room/lava"
+                    "model":"tardis:item/gui/particle/shape_selected"
                 }
             },
             {
                 "when":{
                     "text":"",
                     "extra":[
-                        "Sphere Normal"
+                        "Helix"
                     ]
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/eye/sphere_0"
+                    "model":"tardis:item/gui/particle/shape_selected"
                 }
             },
             {
                 "when":{
                     "text":"",
                     "extra":[
-                        "Sphere Medium"
+                        "Random"
                     ]
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/eye/sphere_1"
+                    "model":"tardis:item/gui/particle/shape_selected"
                 }
             },
             {
                 "when":{
                     "text":"",
                     "extra":[
-                        "Sphere Large"
+                        "Rings"
                     ]
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/eye/sphere_2"
+                    "model":"tardis:item/gui/particle/shape_selected"
                 }
             },
             {
                 "when":{
                     "text":"",
                     "extra":[
-                        "Sphere Enormous"
+                        "Vacuum"
                     ]
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/eye/sphere_3"
+                    "model":"tardis:item/gui/particle/shape_selected"
                 }
             },
             {
                 "when":{
                     "text":"",
                     "extra":[
-                        "Sphere Supermassive"
+                        "Wave"
                     ]
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/eye/sphere_4"
+                    "model":"tardis:item/gui/particle/shape_selected"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Falling"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/particle/shape_selected"
                 }
             }
         ]
