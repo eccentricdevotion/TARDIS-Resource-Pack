@@ -997,6 +997,139 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/repeater/travel_on"
 				}
+			},
+			{
+				"when": {
+					"floats": [
+						146
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/auto_type"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						246
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/auto_default"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						147
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/button_lights_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						247
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/button_lights_on"
+				}
+			}
+            ,
+			{
+				"when": {
+					"floats": [
+						148
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/button_power_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						248
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/button_power_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						149
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/button_siege_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						249
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/button_siege_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						150
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/button_toggle_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						250
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/button_toggle_on"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						151
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/download_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						251
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/repeater/download_on"
+				}
 			}
 		]
 	}
