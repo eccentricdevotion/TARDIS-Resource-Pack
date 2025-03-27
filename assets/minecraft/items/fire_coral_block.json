@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/coral"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"10th Doctor's Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/coral"
+				}
 			}
 		]
 	}

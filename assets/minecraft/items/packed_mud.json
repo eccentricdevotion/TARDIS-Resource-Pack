@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/original"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"The original TARDIS plugin Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/original"
+				}
 			}
 		]
 	}

@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/thirteenth"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"13th Doctor's Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/thirteenth"
+				}
 			}
 		]
 	}

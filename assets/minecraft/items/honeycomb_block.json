@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/rotor"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Time Rotor Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/rotor"
+				}
 			}
 		]
 	}

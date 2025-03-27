@@ -32,6 +32,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"St John's Hospital Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/hospital"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						{
 							"bold": false,
 							"color": "white",

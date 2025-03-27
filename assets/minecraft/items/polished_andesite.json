@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/mechanical"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Mechanical Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/mechanical"
+				}
 			}
 		]
 	}

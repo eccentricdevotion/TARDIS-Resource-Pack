@@ -1,0 +1,25 @@
+{
+   "model": {
+     "type": "minecraft:select",
+     "property": "component",
+     "component": "minecraft:custom_name",
+     "fallback": {
+       "type": "minecraft:model",
+       "model": "minecraft:block/melon"
+     },
+     "cases": [
+       {
+         "when": {
+           "text": "",
+           "extra": [
+               "Greenhouse"
+           ]
+         },
+         "model": {
+           "type": "minecraft:model",
+           "model": "tardis:item/gui/room/greenhouse"
+         }
+       }
+     ]
+   }
+ }

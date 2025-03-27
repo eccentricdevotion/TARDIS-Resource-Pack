@@ -12,6 +12,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Empty"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/empty"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						{
 							"bold": false,
 							"color": "white",

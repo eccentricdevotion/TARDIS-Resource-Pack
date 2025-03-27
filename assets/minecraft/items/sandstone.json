@@ -5,27 +5,19 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/copper_block"
+			"model": "minecraft:block/sandstone"
 		},
 		"cases": [
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
+						"Anti-gravity Well"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/seed/copper"
+					"model": "tardis:item/gui/room/antigravity"
 				}
 			}
 		]

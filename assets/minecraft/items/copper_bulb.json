@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/rustic"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Rustic Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/rustic"
+				}
 			}
 		]
 	}

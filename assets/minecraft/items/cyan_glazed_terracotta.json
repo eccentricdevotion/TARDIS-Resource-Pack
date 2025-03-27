@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/legacy_eleventh"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Legacy 11th Doctor's Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/legacy_eleventh"
+				}
 			}
 		]
 	}

@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/genetic/button_age"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Rail Transfer Station"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/rail"
+				}
 			}
 		]
 	}

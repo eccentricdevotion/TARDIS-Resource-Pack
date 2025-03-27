@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/division"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"The Division Interuniverse Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/division"
+				}
 			}
 		]
 	}

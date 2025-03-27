@@ -32,6 +32,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Steampunk Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/steampunk"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Light Levels"
 					]
 				},
@@ -56,7 +68,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Lights Button"
+						"Lights"
 					]
 				},
 				"model": {

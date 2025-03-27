@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/master"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"The Master's Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/master"
+				}
 			}
 		]
 	}

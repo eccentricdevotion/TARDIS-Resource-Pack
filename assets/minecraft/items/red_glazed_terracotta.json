@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/legacy_redstone"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Legacy Redstone Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/legacy_redstone"
+				}
 			}
 		]
 	}

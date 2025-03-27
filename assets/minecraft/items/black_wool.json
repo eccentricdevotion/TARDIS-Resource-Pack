@@ -12,7 +12,19 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Map Blank"
+						"Load the map!"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/map/blank"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Load map"
 					]
 				},
 				"model": {

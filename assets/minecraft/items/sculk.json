@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/ancient"
 				}
+			},
+			{
+			    "when": {
+					"text": "",
+					"extra": [
+						"Ancient Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/ancient"
+				}
 			}
 		]
 	}

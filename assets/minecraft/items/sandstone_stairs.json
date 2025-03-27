@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/pyramid"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"A Sandstone Pyramid Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/pyramid"
+				}
 			}
 		]
 	}

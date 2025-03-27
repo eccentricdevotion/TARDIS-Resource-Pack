@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/bigger"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"A Bigger Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/bigger"
+				}
 			}
 		]
 	}

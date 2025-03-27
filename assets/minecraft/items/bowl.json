@@ -1,1033 +1,1065 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/bowl"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Abort upgrade"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_abort"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Adaptive"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_adapt"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Archive Consoles"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/archive_consoles"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Archive Current Console"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/archive_current_console"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"TARDIS Areas"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_areas"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Architectural Reconfiguration System"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_ars"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Artron Energy Levels"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_artron"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Auto Prefs"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_auto_prefs"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Auto Save Selector"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/auto_save_selector"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Fast Return"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/back"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Cancel"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_cancel"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Chameleon Circuit"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_chameleon"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Check Out Selected Program"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/check_out_selected_program"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Check destination"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/check"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Clean"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/clean"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Close"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/close"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Closest"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/closest"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Companions Menu"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/companions_menu"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Configured"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/configured"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Construct"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_construct"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Craft"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/craft"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Death"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_death"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Direction"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_direction"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Eight"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/eight"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Electrons"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/electrons"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Farm Prefs"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_farm_prefs"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Five"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/five"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Default Floor Block"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/floor"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Four"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/four"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Generate Sonic Screwdriver"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/generate_sonic_screwdriver"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Help"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/help"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Hide"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_hide"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Home"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/home"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"TARDIS Information System"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/info"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Interior Hum Sound"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/interior_hum_sound"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Invisible"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_invisible"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Load Selected Program In Editor"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/load_selected_program_in_editor"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Lock"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_lock"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Medium"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/medium"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Neutrons"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/neutrons"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"New"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/new"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Next"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/next"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Nine"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/nine"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"One"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/one"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Own Saves"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/own_saves"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Particles"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_particles"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Play"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/play"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Player Preferences"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_prefs"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Prev"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/prev"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Protons"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/protons"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Random Location"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_random"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Rebuild"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_rebuild"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Reduce"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/reduce"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Repair Console"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/repair_console"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Rooms World"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_rooms_world"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Save"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/save"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Saved Locations"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_saves"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Scan Console"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/scan_console"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Scanner"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_scanner"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Set Size"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/set_size"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Seven"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/seven"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Shorted out"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_short"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Six"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/six"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Skins"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_skins"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Small"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/small"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Sonic"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_sonic"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Standard Sonic"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/standard_sonic"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Stay"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/stay"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"System Upgrades"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_system_upgrades"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Tall"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/tall"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"TARDIS Saves"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/tardis_saves"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Temporal Locator"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_temp"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Destination Terminal"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_term"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Desktop Theme"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_theme"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Three"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/three"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Space Time Throttle"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_throttle"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Transmat"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_transmat"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"TARDIS Monsters"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_twa"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Two"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/two"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Update selected"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/update_selected"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Use last saved construct"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/use_last_saved_construct"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Use selected shell"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/use_selected"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"View example template"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/view_temp"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Default Wall Block"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/wall"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Zero Room transmat"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_zero"
-				}
-			}
-		]
-	}
+    "model":{
+        "type":"minecraft:select",
+        "property":"component",
+        "component":"minecraft:custom_name",
+        "fallback":{
+            "type":"minecraft:model",
+            "model":"minecraft:item/bowl"
+        },
+        "cases":[
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Abort upgrade"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_abort"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Adaptive"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_adapt"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Archive Consoles"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/archive_consoles"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Archive Current Console"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/archive_current_console"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "TARDIS Areas"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_areas"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Architectural Reconfiguration System"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_ars"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Artron Energy Levels"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_artron"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Auto Prefs"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_auto_prefs"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Auto Save Selector"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/auto_save_selector"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Fast Return"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/back"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Cancel"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_cancel"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Chameleon Circuit"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_chameleon"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Check Out Selected Program"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/check_out_selected_program"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Check destination"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/check"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Clean"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/clean"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Close"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/close"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Closest"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/closest"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Companion Menu"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/companions_menu"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Configured"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/configured"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Construct"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_construct"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Craft"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/craft"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Death"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_death"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Direction"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_direction"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Eight"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/eight"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Electrons"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/electrons"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Farm Prefs"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_farm_prefs"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Five"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/five"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Default Floor Block"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/floor"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Four"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/four"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Generate Sonic Screwdriver"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/generate_sonic_screwdriver"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Help"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/help"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Hide"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_hide"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Home"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/home"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "TARDIS Information System"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Info"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Interior Hum Sound"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/interior_hum_sound"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Invisible"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_invisible"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Load Selected Program In Editor"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/load_selected_program_in_editor"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Lock"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_lock"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Medium"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/medium"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Neutrons"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/neutrons"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "New"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/new"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Next"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/next"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Nine"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/nine"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "One"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/one"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Own Saves"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/own_saves"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Particles"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_particles"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Play"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/play"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Player Preferences"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_prefs"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Prev"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/prev"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Protons"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/protons"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "text":"",
+                    "extra":[
+                        {
+                            "text":"ran",
+                            "obfuscated":true
+                        },
+                        {
+                            "underlined":false,
+                            "text":"Random Location",
+                            "strikethrough":false,
+                            "bold":false,
+                            "obfuscated":false,
+                            "italic":false
+                        },
+                        {
+                            "underlined":false,
+                            "text":"dom",
+                            "strikethrough":false,
+                            "bold":false,
+                            "obfuscated":true,
+                            "italic":false
+                        }
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_random"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Rebuild"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_rebuild"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Reduce"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/reduce"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Repair Console"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/repair_console"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Rooms World"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_rooms_world"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Save"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/save"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Saved Locations"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_saves"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Scan Console"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/scan_console"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Scanner"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_scanner"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Set Size"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/set_size"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Seven"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/seven"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Shorted out"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_short"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Six"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/six"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Skins"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_skins"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Small"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/small"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Sonic"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_sonic"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Standard Sonic"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/standard_sonic"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Stay"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/stay"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "System Upgrades"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_system_upgrades"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Tall"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/tall"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "TARDIS Saves"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/tardis_saves"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Temporal Locator"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_temp"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Destination Terminal"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_term"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Desktop Theme"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_theme"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Three"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/three"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Space Time Throttle"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_throttle"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Transmat"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_transmat"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "TARDIS Monsters"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_twa"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Two"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/two"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Update selected"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/update_selected"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Use last saved construct"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/use_last_saved_construct"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Use selected shell"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/use_selected"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "View example template"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/view_temp"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Default Wall Block"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/wall"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Zero Room transmat"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/button_zero"
+                }
+            }
+        ]
+    }
 }

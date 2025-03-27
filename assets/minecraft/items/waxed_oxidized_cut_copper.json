@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/bone"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"An Early Style Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/bone"
+				}
 			}
 		]
 	}

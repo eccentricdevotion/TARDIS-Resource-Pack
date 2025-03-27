@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/weathered"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Weathered Copper Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/weathered"
+				}
 			}
 		]
 	}

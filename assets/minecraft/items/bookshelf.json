@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/plank"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Wood Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/plank"
+				}
 			}
 		]
 	}

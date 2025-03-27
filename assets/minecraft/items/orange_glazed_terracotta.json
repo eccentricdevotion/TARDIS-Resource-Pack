@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/legacy_bigger"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Legacy Bigger Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/legacy_bigger"
+				}
 			}
 		]
 	}

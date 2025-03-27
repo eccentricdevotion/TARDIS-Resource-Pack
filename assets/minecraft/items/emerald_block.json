@@ -32,6 +32,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"11th Doctor's Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/eleventh"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Particle Colour Info"
 					]
 				},

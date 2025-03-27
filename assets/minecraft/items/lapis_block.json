@@ -32,6 +32,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"4th Doctor's Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/tom"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Effect Shape"
 					]
 				},

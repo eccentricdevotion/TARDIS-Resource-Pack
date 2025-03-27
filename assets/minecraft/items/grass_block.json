@@ -1,0 +1,25 @@
+{
+   "model": {
+     "type": "minecraft:select",
+     "property": "component",
+     "component": "minecraft:custom_name",
+     "fallback": {
+       "type": "minecraft:model",
+       "model": "minecraft:block/grass_block"
+     },
+     "cases": [
+       {
+         "when": {
+           "text": "",
+           "extra": [
+               "Zero Room"
+           ]
+         },
+         "model": {
+           "type": "minecraft:model",
+           "model": "tardis:item/gui/room/zero"
+         }
+       }
+     ]
+   }
+ }

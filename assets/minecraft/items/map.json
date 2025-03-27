@@ -36,7 +36,19 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Map Load Map"
+						"Load map"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/map/load_map"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Load the map!"
 					]
 				},
 				"model": {

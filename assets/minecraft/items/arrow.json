@@ -60,7 +60,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Page One"
+						"Go to page 1"
 					]
 				},
 				"model": {
@@ -72,7 +72,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Page Two"
+						"Go to page 2"
 					]
 				},
 				"model": {

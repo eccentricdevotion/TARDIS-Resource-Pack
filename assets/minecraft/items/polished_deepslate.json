@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/fugitive"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Ruth (The Fugitive Doctor) Clayton's Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/fugitive"
+				}
 			}
 		]
 	}

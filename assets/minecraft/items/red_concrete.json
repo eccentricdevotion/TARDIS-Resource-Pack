@@ -12,6 +12,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Hospital Surgery"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/surgery"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						{
 							"bold": false,
 							"color": "white",

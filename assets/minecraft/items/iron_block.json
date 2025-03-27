@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/budget"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Default Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/budget"
+				}
 			}
 		]
 	}

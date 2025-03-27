@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/custom"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Custom Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/custom"
+				}
 			}
 		]
 	}

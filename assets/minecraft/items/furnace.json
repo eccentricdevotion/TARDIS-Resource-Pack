@@ -12,6 +12,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Genetic Manipulator"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/lazarus"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						{
 							"bold": false,
 							"color": "white",

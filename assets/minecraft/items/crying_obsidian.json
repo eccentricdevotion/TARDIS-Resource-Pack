@@ -27,6 +27,30 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/delta"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Nether Delta Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/delta"
+					}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Cursed Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/cursed"
+				}
 			}
 		]
 	}

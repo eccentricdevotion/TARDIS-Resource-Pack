@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/legacy_deluxe"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Legacy Deluxe Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/legacy_deluxe"
+				}
 			}
 		]
 	}

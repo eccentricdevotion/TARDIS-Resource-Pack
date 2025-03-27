@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/war"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"War Doctor's Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/war"
+				}
 			}
 		]
 	}

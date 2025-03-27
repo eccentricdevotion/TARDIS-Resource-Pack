@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/ender"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Ender Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/ender"
+				}
 			}
 		]
 	}

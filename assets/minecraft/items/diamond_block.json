@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/seed/deluxe"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Supersized Deluxe Console"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/deluxe"
+				}
 			}
 		]
 	}
