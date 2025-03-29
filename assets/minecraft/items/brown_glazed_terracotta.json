@@ -12,6 +12,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Llama"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/stall"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Llama Stall"
 					]
 				},

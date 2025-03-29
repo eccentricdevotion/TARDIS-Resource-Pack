@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/room/pen"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Sniffer"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/pen"
+				}
 			}
 		]
 	}

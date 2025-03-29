@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/room/bamboo"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Panda"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/bamboo"
+				}
 			}
 		]
 	}

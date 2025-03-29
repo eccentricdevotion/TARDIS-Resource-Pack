@@ -17,6 +17,18 @@
 				},
 				"model": {
 					"type": "minecraft:model",
+					"model": "tardis:item/genetic/ice_warrior"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Ice Warrior Crest"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
 					"model": "tardis:item/lazarus/ice_warrior_crest"
 				}
 			}

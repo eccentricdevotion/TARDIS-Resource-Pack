@@ -12,12 +12,24 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Dalek Sec"
+						"Dalek Sec Tentacles"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
 					"model": "tardis:item/lazarus/dalek_sec_tentacles"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Dalek Sec"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/dalek_sec"
 				}
 			}
 		]

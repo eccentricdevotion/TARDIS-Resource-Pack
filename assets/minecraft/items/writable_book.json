@@ -12,7 +12,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Companion All"
+						"Add all online players"
 					]
 				},
 				"model": {
@@ -24,7 +24,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Companion List"
+						"List companions"
 					]
 				},
 				"model": {

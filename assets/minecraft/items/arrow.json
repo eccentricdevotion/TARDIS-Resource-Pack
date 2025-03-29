@@ -24,6 +24,42 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Back to Chameleon Circuit"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/bowl/back"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Back to construction"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/bowl/back"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Back to help"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/bowl/back"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Go"
 					]
 				},
@@ -84,6 +120,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Go to construction..."
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/bowl/next"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Rearrange"
 					]
 				},
@@ -96,7 +144,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Scroll Down"
+						"Scroll down"
 					]
 				},
 				"model": {
@@ -108,7 +156,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Scroll Up"
+						"Scroll up"
 					]
 				},
 				"model": {

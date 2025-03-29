@@ -5,55 +5,67 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:item/netherite_scrap"
+			"model": "minecraft:item/brown_stained_glass_pane"
 		},
 		"cases": [
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						"Mire"
+						"Characters"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/genetic/mire"
+					"model": "tardis:item/lazarus/character"
 				}
 			},
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						"Mire Helmet"
+						"Companions"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/mire_helmet"
+					"model": "tardis:item/lazarus/companion"
 				}
 			},
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						"Mire Left Arm"
+						"Cybermen"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/mire_left_arm"
+					"model": "tardis:item/genetic/cyberman"
 				}
 			},
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						"Mire Right Arm"
+						"Doctors"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/mire_right_arm"
+					"model": "tardis:item/lazarus/doctor"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Monsters"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lazarus/monster"
 				}
 			}
 		]

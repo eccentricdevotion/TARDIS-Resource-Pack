@@ -27,6 +27,13 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/disks/biome_disk"
 				}
+			},
+			{
+				"when": "Biomes",
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/disks/biome_disk"
+				}
 			}
 		]
 	}

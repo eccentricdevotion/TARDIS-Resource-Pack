@@ -27,66 +27,6 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/lazarus/tv"
 				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Character"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/character"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Companion"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/companion"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Cyberman"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/cyberman"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Doctor"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/doctor"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Monster"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/monster"
-				}
 			}
 		]
 	}

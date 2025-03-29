@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/room/village"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Villager"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/village"
+				}
 			}
 		]
 	}

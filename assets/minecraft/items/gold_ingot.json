@@ -39,6 +39,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/particle/speed"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Omega"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/omega"
+				}
 			}
 		]
 	}

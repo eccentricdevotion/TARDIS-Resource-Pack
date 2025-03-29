@@ -5,31 +5,34 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/dirt"
+			"model": "minecraft:item/music_disc_blocks"
 		},
 		"cases": [
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						"Mob Farm"
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Area Disk",
+							"underlined": false
+						}
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/farm"
+					"model": "tardis:item/disks/area_disk"
 				}
 			},
 			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Cow & Mooshroom, Sheep, Pig, Chicken"
-					]
-				},
+				"when": "Areas",
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/farm"
+					"model": "tardis:item/disks/area_disk"
 				}
 			}
 		]

@@ -12,6 +12,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Frog"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/mangrove"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Mangrove"
 					]
 				},

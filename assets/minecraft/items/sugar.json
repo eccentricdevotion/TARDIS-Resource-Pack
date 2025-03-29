@@ -17,6 +17,18 @@
 				},
 				"model": {
 					"type": "minecraft:model",
+					"model": "tardis:item/genetic/empty_child"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Empty Child Mask"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
 					"model": "tardis:item/lazarus/empty_child_mask"
 				}
 			}

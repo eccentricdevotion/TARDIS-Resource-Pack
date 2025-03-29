@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/room/apiary"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Bee"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/apiary"
+				}
 			}
 		]
 	}

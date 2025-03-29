@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/tardis/the_moment"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Cybershade"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/cybershade"
+				}
 			}
 		]
 	}

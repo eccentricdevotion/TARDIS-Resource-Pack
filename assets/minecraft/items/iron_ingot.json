@@ -24,6 +24,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Cyberman"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/cyberman"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Black Cyberman"
 					]
 				},
@@ -72,7 +84,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Cyberman"
+						"Cyberman Handles"
 					]
 				},
 				"model": {

@@ -12,7 +12,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Apply preset now"
+						"Apply now"
 					]
 				},
 				"model": {
@@ -24,7 +24,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Master Off"
+						"The Master's reverse polarity button"
 					]
 				},
 				"model": {

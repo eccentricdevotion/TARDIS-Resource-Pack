@@ -5,31 +5,19 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/dirt"
+			"model": "minecraft:block/crimson_button"
 		},
 		"cases": [
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						"Mob Farm"
+						"Davros"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/farm"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Cow & Mooshroom, Sheep, Pig, Chicken"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/farm"
+					"model": "tardis:item/genetic/davros"
 				}
 			}
 		]

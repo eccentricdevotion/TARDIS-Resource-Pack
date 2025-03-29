@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/room/aquarium"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Fish"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/aquarium"
+				}
 			}
 		]
 	}

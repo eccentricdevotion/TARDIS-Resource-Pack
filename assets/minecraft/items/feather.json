@@ -29,6 +29,18 @@
 				},
 				"model": {
 					"type": "minecraft:model",
+					"model": "tardis:item/genetic/silurian"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Silurian Crest"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
 					"model": "tardis:item/lazarus/silurian_crest"
 				}
 			}

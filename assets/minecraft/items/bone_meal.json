@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/products/super_fertiliser"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Sycorax"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/sycorax"
+				}
 			}
 		]
 	}

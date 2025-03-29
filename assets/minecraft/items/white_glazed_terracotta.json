@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/room/iistubil"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Camel"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/iistubil"
+				}
 			}
 		]
 	}

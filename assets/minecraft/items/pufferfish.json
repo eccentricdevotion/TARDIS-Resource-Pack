@@ -17,6 +17,18 @@
 				},
 				"model": {
 					"type": "minecraft:model",
+					"model": "tardis:item/genetic/hath"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Hath Breather"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
 					"model": "tardis:item/lazarus/hath_features"
 				}
 			}

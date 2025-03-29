@@ -24,6 +24,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Main level"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/map/level_main"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Top level"
 					]
 				},

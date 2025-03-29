@@ -12,6 +12,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Rabbit"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/hutch"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Rabbit Hutch"
 					]
 				},

@@ -17,6 +17,18 @@
 				},
 				"model": {
 					"type": "minecraft:model",
+					"model": "tardis:item/genetic/sea_devil"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Sea Devil Ears"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
 					"model": "tardis:item/lazarus/sea_devil_ears"
 				}
 			}

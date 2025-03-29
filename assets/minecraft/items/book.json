@@ -19,6 +19,54 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/bowl/info"
 				}
+			},
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Info"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Instructions 1 Of 2"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Instructions 2 Of 2"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Vashta Nerada"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/vashta_nerada"
+				}
 			}
 		]
 	}

@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/room/igloo"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Polar Bear"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/igloo"
+				}
 			}
 		]
 	}

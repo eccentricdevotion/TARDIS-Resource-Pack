@@ -12,7 +12,19 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Vampire of Venice"
+						"Vampire Of Venice"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/vampire_of_venice"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Vampire of Venice Fan"
 					]
 				},
 				"model": {

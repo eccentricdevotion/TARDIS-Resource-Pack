@@ -12,6 +12,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Allay"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/allay"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Allay House"
 					]
 				},

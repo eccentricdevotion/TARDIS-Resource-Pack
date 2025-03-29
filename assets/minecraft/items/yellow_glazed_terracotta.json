@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/room/birdcage"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Bird"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/birdcage"
+				}
 			}
 		]
 	}

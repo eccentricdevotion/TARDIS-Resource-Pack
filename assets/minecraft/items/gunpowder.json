@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/thunder"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Toclafane"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/toclafane"
+				}
 			}
 		]
 	}

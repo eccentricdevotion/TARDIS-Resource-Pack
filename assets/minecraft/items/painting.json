@@ -17,6 +17,18 @@
 				},
 				"model": {
 					"type": "minecraft:model",
+					"model": "tardis:item/genetic/zygon"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Zygon Crest"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
 					"model": "tardis:item/lazarus/zygon_crest"
 				}
 			}

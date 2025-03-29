@@ -24,6 +24,18 @@
                 "when":{
                     "text":"",
                     "extra":[
+                        "Strider"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/room/lava"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
                         "Sphere Normal"
                     ]
                 },

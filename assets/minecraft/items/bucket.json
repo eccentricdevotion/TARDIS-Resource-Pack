@@ -76,7 +76,19 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Remove"
+						"Delete selected shell"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/bucket/delete"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Remove skin"
 					]
 				},
 				"model": {

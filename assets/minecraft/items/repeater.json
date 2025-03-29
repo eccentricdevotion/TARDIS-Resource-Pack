@@ -1130,6 +1130,28 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/repeater/download_on"
 				}
+			},
+			{
+				"when": {
+					"floats": [
+						152
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/button_master_off"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						252
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/button_master_on"
+				}
 			}
 		]
 	}

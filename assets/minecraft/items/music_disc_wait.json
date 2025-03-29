@@ -27,6 +27,13 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/disks/player_disk"
 				}
+			},
+			{
+				"when": "Players",
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/disks/player_disk"
+				}
 			}
 		]
 	}

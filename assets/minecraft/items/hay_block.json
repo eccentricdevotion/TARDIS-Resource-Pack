@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/room/stable"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Horse"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/stable"
+				}
 			}
 		]
 	}

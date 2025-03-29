@@ -17,6 +17,18 @@
 				},
 				"model": {
 					"type": "minecraft:model",
+					"model": "tardis:item/genetic/sontaran"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Sontaran Ears"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
 					"model": "tardis:item/lazarus/sontaran_ears"
 				}
 			},
@@ -24,7 +36,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Strax"
+						"Strax Ears"
 					]
 				},
 				"model": {

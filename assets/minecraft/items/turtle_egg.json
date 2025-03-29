@@ -36,12 +36,24 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Slitheen"
+						"Slitheen Head"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
 					"model": "tardis:item/monster/slitheen/slitheen_head"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Slitheen"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/slitheen"
 				}
 			}
 		]

@@ -17,6 +17,18 @@
 				},
 				"model": {
 					"type": "minecraft:model",
+					"model": "tardis:item/genetic/scarecrow"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Scarecrow Ears"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
 					"model": "tardis:item/lazarus/scarecrow_ears"
 				}
 			}

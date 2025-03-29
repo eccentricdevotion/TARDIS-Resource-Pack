@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/room/geode"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Axolotl"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/room/geode"
+				}
 			}
 		]
 	}

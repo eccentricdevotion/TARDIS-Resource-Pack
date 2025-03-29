@@ -37,6 +37,18 @@
 				},
 				"model": {
 					"type": "minecraft:model",
+					"model": "tardis:item/genetic/k9"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"K9 "
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
 					"model": "tardis:item/monster/k9/k9"
 				}
 			}
