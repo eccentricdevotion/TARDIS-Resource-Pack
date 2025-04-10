@@ -99,7 +99,103 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/lights/variable"
 				}
-			}
+			},
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Variable"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/lights/variable"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Variable Blue"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/lights/blue"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Variable Green"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/lights/green"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Variable Orange"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/lights/orange"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Variable Pink"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/lights/pink"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Variable Purple"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/lights/purple"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Variable Red"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/lights/cloister"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Variable Yellow"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/lights/yellow"
+                }
+            }
 		]
 	}
 }

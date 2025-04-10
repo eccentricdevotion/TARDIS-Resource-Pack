@@ -56,7 +56,19 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Lights Block Button"
+						"Select block to convert"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/lights/block_button"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Block Type"
 					]
 				},
 				"model": {
@@ -80,7 +92,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Lights Change"
+						"Change Lights"
 					]
 				},
 				"model": {
@@ -92,7 +104,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Lights Convert"
+						"Convert blocks to lights"
 					]
 				},
 				"model": {
@@ -116,7 +128,7 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Lights Edit Button"
+						"Edit Light Sequence"
 					]
 				},
 				"model": {
@@ -128,12 +140,24 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Lights Sequence Button"
+						"Run Light Sequence"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/lights/sequence_button"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Effect Block"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/block_info"
 				}
 			}
 		]

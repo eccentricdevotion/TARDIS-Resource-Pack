@@ -552,6 +552,54 @@
                 "when":{
                     "text":"",
                     "extra":[
+                        "Light Type"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Variable Light Block"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Convert blocks to lights"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Change your light type"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
                         "Fallback info"
                     ]
                 },

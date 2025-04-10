@@ -12,7 +12,356 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Particle Effect"
+						"Ash"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Block"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Boom"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Breath"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Bubbles"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Clouds"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Dust"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Effect"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Flames"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"
+"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Glow"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Gust"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Heart"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Hit"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Honey"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Infested"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Leaves"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Music"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Nautilus"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Omen"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Petals"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Sculk"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Shriek"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Snowy"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Spark"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Splash"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Spawner"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Spell"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Spore"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/particle/effect"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Totem"
 					]
 				},
 				"model": {

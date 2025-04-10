@@ -51,6 +51,30 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/handles/handles_operator_subtraction"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"More"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/handles/handles_operator_addition"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Less"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/handles/handles_operator_subtraction"
+				}
 			}
 		]
 	}

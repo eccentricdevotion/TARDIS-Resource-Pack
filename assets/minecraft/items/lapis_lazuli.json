@@ -17,7 +17,7 @@
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/gui/particle/shape_selected"
+                    "model":"tardis:item/gui/particle/shape"
                 }
             },
             {
@@ -29,7 +29,7 @@
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/gui/particle/shape_selected"
+                    "model":"tardis:item/gui/particle/shape"
                 }
             },
             {
@@ -41,7 +41,7 @@
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/gui/particle/shape_selected"
+                    "model":"tardis:item/gui/particle/shape"
                 }
             },
             {
@@ -53,7 +53,7 @@
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/gui/particle/shape_selected"
+                    "model":"tardis:item/gui/particle/shape"
                 }
             },
             {
@@ -65,7 +65,7 @@
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/gui/particle/shape_selected"
+                    "model":"tardis:item/gui/particle/shape"
                 }
             },
             {
@@ -77,7 +77,7 @@
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/gui/particle/shape_selected"
+                    "model":"tardis:item/gui/particle/shape"
                 }
             },
             {
@@ -89,7 +89,7 @@
                 },
                 "model":{
                     "type":"minecraft:model",
-                    "model":"tardis:item/gui/particle/shape_selected"
+                    "model":"tardis:item/gui/particle/shape"
                 }
             }
         ]

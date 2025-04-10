@@ -5,53 +5,45 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/redstone_block"
-		},
+			"model": "minecraft:block/redstone_lamp"
+        },
 		"cases": [
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						"Effect Particle"
+						"Tenth"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/gui/particle/effect_info"
+					"model": "tardis:item/lights/tenth_on"
 				}
 			},
-			{
+            {
 				"when": {
 					"text": "",
 					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
+						"Eleventh"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/seed/redstone"
+					"model": "tardis:item/lights/eleventh_on"
 				}
 			},
-			{
+            {
 				"when": {
 					"text": "",
 					"extra": [
-						"Redstone Console"
+						"Bulb"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/seed/redstone"
+					"model": "minecraft:block/copper_bulb"
 				}
 			}
-		]
-	}
+        ]
+    }
 }
