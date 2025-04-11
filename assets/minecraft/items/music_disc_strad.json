@@ -27,6 +27,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/disks/blank_disk"
 				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Storage disks"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/disks/blank_disk"
+				}
 			}
 		]
 	}

@@ -19,6 +19,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/genetic/dalek"
 				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Planets"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/monster/dalek/dalek_pink"
+				}
 			}
 		]
 	}

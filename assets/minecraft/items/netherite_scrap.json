@@ -17,7 +17,7 @@
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/genetic/mire"
+					"model": "tardis:item/genetic/the_mire"
 				}
 			},
 			{

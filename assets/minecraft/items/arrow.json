@@ -207,6 +207,30 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/monster/judoon/judoon_ammo"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Next page"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/next"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Previous page"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/prev"
+				}
 			}
 		]
 	}

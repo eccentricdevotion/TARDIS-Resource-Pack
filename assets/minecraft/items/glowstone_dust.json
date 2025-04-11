@@ -92,6 +92,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Sonic circuits"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/circuit/diamond"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						{
 							"bold": false,
 							"color": "white",
@@ -292,6 +304,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Item circuits"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/circuit/sonic"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						{
 							"bold": false,
 							"color": "white",
@@ -461,6 +485,18 @@
 							"text": "TARDIS Scanner Circuit",
 							"underlined": false
 						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/circuit/scanner"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Console circuits"
 					]
 				},
 				"model": {

@@ -312,6 +312,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Accessories"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/bowtie/bowtie_red"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						{
 							"bold": false,
 							"color": "white",

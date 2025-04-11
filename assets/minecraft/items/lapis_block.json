@@ -28,6 +28,18 @@
 					"model": "tardis:item/seed/tom"
 				}
 			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Seed blocks"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/tom"
+				}
+			},
 			{
 				"when": {
 					"text": "",

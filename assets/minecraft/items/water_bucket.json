@@ -12,12 +12,24 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"Rain"
+						"Raining"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/rain"
+				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Misc"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/planets/acid_bucket"
 				}
 			}
 		]

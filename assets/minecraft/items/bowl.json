@@ -1648,6 +1648,270 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/bowl/play"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Lifesigns"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/life"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Display"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/display"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Predictive text"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/predictive"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Save current location"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/bowl/save"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Load saved location"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/load"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Messages"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/message"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Beacon signal"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/beacon"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Previous character"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/prev"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Next character"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/next"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Enter Vortex"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/warp"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Enter Vortex / Save location / Check lifesigns"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/warp"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"World"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/world"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"X"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/x"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Y"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/y"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Z"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/z"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"*"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/star"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"0"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/zero"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"#"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/hash"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Page 1"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/page"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Page 2"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/page"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Page 3"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/page"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Read"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/vortex_manipulator/read"
+				}
 			}
         ]
     }
