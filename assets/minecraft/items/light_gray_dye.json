@@ -232,6 +232,18 @@
 				"when": {
 					"text": "",
 					"extra": [
+						"Time Rotor Tenth"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/time_rotor/time_rotor_tennant_off"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						{
 							"bold": false,
 							"color": "white",

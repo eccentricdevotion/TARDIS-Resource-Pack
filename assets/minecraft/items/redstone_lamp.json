@@ -43,6 +43,26 @@
 					"type": "minecraft:model",
 					"model": "minecraft:block/copper_bulb"
 				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Light Tenth On",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lights/tenth_on"
+				}
 			}
         ]
     }
