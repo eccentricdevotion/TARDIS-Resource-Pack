@@ -103,6 +103,86 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/lights/thirteenth_on"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Light Classic Offset On",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lights/classic_offset_on"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Light Classic On",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lights/classic_on"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Light Thirteenth On",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lights/thirteenth_on"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Light Twelfth On",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/lights/twelfth_on"
+				}
 			}
         ]
     }
