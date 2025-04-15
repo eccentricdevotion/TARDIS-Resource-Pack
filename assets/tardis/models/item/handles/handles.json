@@ -178,8 +178,10 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"gui": {
+			"rotation": [0, 30, 0],
 			"translation": [0, 1, 0]
 		},
 		"fixed": {

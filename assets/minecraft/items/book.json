@@ -57,6 +57,30 @@
                 }
             },
             {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Name"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when":{
+                    "text":"",
+                    "extra":[
+                        "Instructions"
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/gui/bowl/info"
+                }
+            },
+            {
 				"when": {
 					"text": "",
 					"extra": [
