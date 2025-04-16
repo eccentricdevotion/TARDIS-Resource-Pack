@@ -5,7 +5,7 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/iron_block"
+			"model": "minecraft:block/jukebox"
 		},
 		"cases": [
 			{
@@ -14,30 +14,18 @@
 					"extra": [
 						{
 							"bold": false,
-							"color": "gold",
+							"color": "white",
 							"italic": false,
 							"obfuscated": false,
 							"strikethrough": false,
-							"text": "TARDIS Seed Block",
+							"text": "Advanced Console",
 							"underlined": false
 						}
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/seed/budget"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Default Console"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/budget"
+					"model": "tardis:item/tardis/advanced_console"
 				}
 			}
 		]
