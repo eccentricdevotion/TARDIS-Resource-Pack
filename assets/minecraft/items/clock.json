@@ -32,6 +32,26 @@
 				"when": {
 					"text": "",
 					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Vortex Manipulator",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/tardis/vortex_manipulator"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
 						"Morning"
 					]
 				},

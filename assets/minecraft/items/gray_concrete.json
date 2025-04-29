@@ -27,6 +27,38 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/console/console_gray"
 				}
+			},
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "gold",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "TARDIS Seed Block",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/factory"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Factory Console (1st Doctor)"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/seed/factory"
+				}
 			}
 		]
 	}

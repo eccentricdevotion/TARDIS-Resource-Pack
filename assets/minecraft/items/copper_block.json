@@ -5,7 +5,7 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/honeycomb_block"
+			"model": "minecraft:block/copper_block"
 		},
 		"cases": [
 			{
@@ -25,19 +25,19 @@
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/seed/rotor"
+					"model": "tardis:item/seed/copper"
 				}
 			},
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						"Time Rotor Console"
+						"11th Doctor's Copper Console"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/seed/rotor"
+					"model": "tardis:item/seed/copper"
 				}
 			}
 		]
