@@ -75,6 +75,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/handles/handles_operator_subtraction"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"St John's Logo"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+                    "model": "tardis:item/tardis/st_johns"
+				}
 			}
 		]
 	}
