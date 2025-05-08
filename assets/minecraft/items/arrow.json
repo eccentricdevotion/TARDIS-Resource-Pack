@@ -231,6 +231,46 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/gui/vortex_manipulator/prev"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/arrow/more"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": " ",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/gui/arrow/less"
+				}
 			}
 		]
 	}

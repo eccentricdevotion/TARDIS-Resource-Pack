@@ -38,6 +38,26 @@
 							"italic": false,
 							"obfuscated": false,
 							"strikethrough": false,
+							"text": "Damaged Artron Capacitor",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/tardis/artron_capacitor_damaged"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
 							"text": "Artron Storage Cell",
 							"underlined": false
 						}
