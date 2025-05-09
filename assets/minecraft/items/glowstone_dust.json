@@ -187,6 +187,17 @@
             {
                 "when": {
                     "floats": [
+                        214
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/sonic_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
                         115
                     ]
                 },
@@ -450,7 +461,6 @@
             },
             {
                 "when": {
-                    # "Sonic circuits"
                     "floats": [
                         127
                     ]
@@ -462,7 +472,6 @@
             },
             {
                 "when": {
-                    # "Item circuits"
                     "floats": [
                         128
                     ]
@@ -474,7 +483,6 @@
             },
             {
                 "when": {
-                    # "Console circuits"
                     "floats": [
                         129
                     ]
@@ -485,11 +493,11 @@
                 }
             },
             {
-                "when":
-                    # "Circuits"
+                "when": {
                     "floats": [
                         130
                     ]
+                },
                 "model":{
                     "type":"minecraft:model",
                     "model":"tardis:item/circuit/gallifrey"
