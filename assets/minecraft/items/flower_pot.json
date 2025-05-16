@@ -5,7 +5,7 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/flower_pot"
+			"model": "minecraft:item/flower_pot"
 		},
 		"cases": [
 			{

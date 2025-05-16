@@ -4,8 +4,12 @@
      "property": "component",
      "component": "minecraft:custom_name",
      "fallback": {
-       "type": "minecraft:model",
-       "model": "minecraft:block/chest"
+        "type": "minecraft:special",
+        "base": "minecraft:item/chest",
+        "model": {
+           "type": "minecraft:chest",
+           "texture": "minecraft:normal"
+        }
      },
      "cases": [
        {

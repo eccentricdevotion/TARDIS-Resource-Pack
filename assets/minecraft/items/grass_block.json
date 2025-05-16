@@ -5,7 +5,14 @@
      "component": "minecraft:custom_name",
      "fallback": {
        "type": "minecraft:model",
-       "model": "minecraft:block/grass_block"
+       "model": "minecraft:block/grass_block",
+       "tints": [
+          {
+            "type": "minecraft:grass",
+            "downfall": 1.0,
+            "temperature": 0.5
+          }
+        ]
      },
      "cases": [
        {

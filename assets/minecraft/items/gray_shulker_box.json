@@ -4,8 +4,12 @@
 		"property": "component",
 		"component": "minecraft:custom_name",
 		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/gray_shulker_box"
+			"type": "minecraft:special",
+            "base": "minecraft:item/gray_shulker_box",
+            "model": {
+                "type": "minecraft:shulker_box",
+                "texture": "minecraft:shulker_gray"
+            }
 		},
 		"cases": [
 			{
