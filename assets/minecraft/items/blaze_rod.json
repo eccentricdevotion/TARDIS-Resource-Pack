@@ -435,6 +435,30 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/sonic/umbrella_on"
 				}
+			},
+			{
+				"when": [
+					{
+						"floats": [
+							126
+						]
+					}
+				],
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/rani"
+				}
+			},
+			{
+				"when": {
+					"floats": [
+						226
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/sonic/rani_on"
+				}
 			}
 		],
 		"fallback": {
