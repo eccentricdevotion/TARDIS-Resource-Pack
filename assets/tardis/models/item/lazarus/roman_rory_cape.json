@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "tardis:item/lazarus/roman_rory_cape",
+		"particle": "tardis:item/lazarus/roman_rory_cape"
+	},
+	"elements": [
+		{
+			"from": [3, -12, 10],
+			"to": [13, 4, 11],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 4, 10.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 8], "texture": "#0"},
+				"east": {"uv": [0, 8, 0.5, 16], "texture": "#0"},
+				"south": {"uv": [5, 0, 10, 8], "texture": "#0"},
+				"west": {"uv": [0.5, 8, 1, 16], "texture": "#0"},
+				"up": {"uv": [6, 8.5, 1, 8], "texture": "#0"},
+				"down": {"uv": [11, 8, 6, 8.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 11, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}
