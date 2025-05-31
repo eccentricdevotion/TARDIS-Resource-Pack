@@ -535,6 +535,22 @@
       ],
       "subtitle":"Headless Monk prays"
    },
+   "heavenly_host":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:host_information",
+         "tardis:host_kill"
+      ],
+      "subtitle":"Heavenly Host speaks"
+   },
+   "nimon":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:nimon_die",
+         "tardis:nimon_liar"
+      ],
+      "subtitle":"Nimon speaks"
+   },
    "omega":{
       "category":"hostile",
       "sounds":[
