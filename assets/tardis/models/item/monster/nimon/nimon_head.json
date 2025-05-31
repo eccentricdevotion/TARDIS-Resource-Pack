@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "the_nimon",
+		"0": "tardis:item/lazarus/the_nimon",
 		"1": "tardis:item/lazarus/the_nimon_horns",
 		"particle": "tardis:item/lazarus/the_nimon_horns"
 	},

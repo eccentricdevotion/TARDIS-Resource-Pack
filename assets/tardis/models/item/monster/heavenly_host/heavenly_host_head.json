@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "heavenly_host",
+		"0": "tardis:item/lazarus/heavenly_host",
 		"1": "tardis:item/lazarus/heavenly_host_features",
 		"particle": "tardis:item/lazarus/heavenly_host_features"
 	},
