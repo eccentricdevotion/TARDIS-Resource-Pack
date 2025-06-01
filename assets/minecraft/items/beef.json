@@ -5,43 +5,31 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:item/cod"
+			"model": "minecraft:item/beef"
 		},
 		"cases": [
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						"Vampire Of Venice"
+						"Nimon Horns"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/genetic/vampire_of_venice"
+					"model": "tardis:item/lazarus/nimon_horns"
 				}
 			},
 			{
 				"when": {
 					"text": "",
 					"extra": [
-						"Vampire of Venice Fan"
+						"Nimon"
 					]
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/vampire_of_venice_fan"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Saturnynian"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/saturnynian"
+					"model": "tardis:item/genetic/nimon"
 				}
 			}
 		]

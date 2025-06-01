@@ -51,6 +51,18 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/genetic/omega"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Heavenly Host"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/genetic/heavenly_host"
+				}
 			}
 		]
 	}
