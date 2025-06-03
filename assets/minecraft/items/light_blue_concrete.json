@@ -62,6 +62,26 @@
 							"italic": false,
 							"obfuscated": false,
 							"strikethrough": false,
+							"text": "Element Constructor",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/chemistry/constructor"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
 							"text": "Light Blue Console",
 							"underlined": false
 						}

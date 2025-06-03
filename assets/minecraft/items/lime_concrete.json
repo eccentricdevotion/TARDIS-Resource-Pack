@@ -47,6 +47,26 @@
 					"type": "minecraft:model",
 					"model": "tardis:item/chemistry/product"
 				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Product Crafting",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/chemistry/product"
+				}
 			}
 		]
 	}

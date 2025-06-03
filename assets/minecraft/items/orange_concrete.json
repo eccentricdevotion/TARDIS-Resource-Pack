@@ -70,6 +70,26 @@
 							"italic": false,
 							"obfuscated": false,
 							"strikethrough": false,
+							"text": "Chemical Compounds",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/chemistry/compound"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
 							"text": "Orange Console",
 							"underlined": false
 						}
