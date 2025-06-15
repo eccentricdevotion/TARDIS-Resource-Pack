@@ -5,7 +5,7 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/birch_button"
+			"model": "minecraft:block/birch_button_inventory"
 		},
 		"cases": [
 			{

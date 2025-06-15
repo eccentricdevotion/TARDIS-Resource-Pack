@@ -5,7 +5,7 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/spruce_button"
+			"model": "minecraft:block/spruce_button_inventory"
 		},
 		"cases": [
 			{
