@@ -1,6 +1,9 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "tardis:item/locator/locator",
 	"textures": {
-		"layer0": "tardis:item/tardis/locator/locator_01"
+		"0": "block/gold_block",
+		"1": "block/black_candle",
+		"2": "tardis:item/tardis/locator/locator_01",
+		"particle": "block/gold_block"
 	}
 }
