@@ -120,19 +120,6 @@
 				"when": {
 					"text": "",
 					"extra": [
-						"
-"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/particle/effect"
-				}
-			},
-            {
-				"when": {
-					"text": "",
-					"extra": [
 						"Glow"
 					]
 				},

@@ -5,7 +5,7 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/redstone_ore"
+			"model": "minecraft:item/redstone"
 		},
 		"cases": [
             {
@@ -109,19 +109,6 @@
 					"text": "",
 					"extra": [
 						"Flames"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/particle/effect_selected"
-				}
-			},
-            {
-				"when": {
-					"text": "",
-					"extra": [
-						"
-"
 					]
 				},
 				"model": {
