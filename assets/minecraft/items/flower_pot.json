@@ -25,7 +25,7 @@
 				},
 				"model": {
 					"type": "minecraft:model",
-					"model": "tardis:item/controls/sonic_dock"
+					"model": "tardis:item/sonic/sonic_dock_off"
 				}
 			},
 			{
