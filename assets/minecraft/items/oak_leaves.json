@@ -5,7 +5,13 @@
      "component": "minecraft:custom_name",
      "fallback": {
        "type": "minecraft:model",
-       "model": "minecraft:block/oak_leaves"
+       "model": "minecraft:block/oak_leaves",
+       "tints": [
+          {
+            "type": "minecraft:constant",
+            "value": -12012264
+          }
+        ]
      },
      "cases": [
        {
