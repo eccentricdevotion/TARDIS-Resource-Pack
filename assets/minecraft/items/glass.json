@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Empty"
-					]
+					"text": "Empty",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,18 +19,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Console Lamp",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Console Lamp",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -42,18 +30,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Monitor Frame",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Monitor Frame",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -62,18 +41,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Space Helmet",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "TARDIS Space Helmet",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -82,18 +52,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Variable Light",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Variable Light",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

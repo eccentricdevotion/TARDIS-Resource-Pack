@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Standard Sonic"
-					]
+					"text": "Standard Sonic",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Reset selected"
-					]
+					"text": "Reset selected",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,18 +28,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
+					"color": "gold",
+					"text": "TARDIS Seed Block",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -54,10 +39,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"32x16x32 cobblestone template"
-					]
+					"text": "32x16x32 cobblestone template",
 				},
 				"model": {
 					"type": "minecraft:model",

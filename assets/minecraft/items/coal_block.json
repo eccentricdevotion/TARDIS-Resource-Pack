@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
+					"color": "gold",
+					"text": "TARDIS Seed Block",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,10 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Steampunk Console"
-					]
+					"text": "Steampunk Console",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -42,10 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Light Levels"
-					]
+					"text": "Light Levels",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -54,10 +39,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Select block to convert"
-					]
+					"text": "Select block to convert",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -66,10 +48,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Block Type"
-					]
+					"text": "Block Type",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -78,10 +57,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Lights"
-					]
+					"text": "Lights",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -90,10 +66,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Change Lights"
-					]
+					"text": "Change Lights",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -102,10 +75,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Convert blocks to lights"
-					]
+					"text": "Convert blocks to lights",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -114,10 +84,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Lights Delay"
-					]
+					"text": "Lights Delay",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -126,10 +93,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Edit Light Sequence"
-					]
+					"text": "Edit Light Sequence",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -138,10 +102,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Run Light Sequence"
-					]
+					"text": "Run Light Sequence",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -150,10 +111,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Effect Block"
-					]
+					"text": "Effect Block",
 				},
 				"model": {
 					"type": "minecraft:model",

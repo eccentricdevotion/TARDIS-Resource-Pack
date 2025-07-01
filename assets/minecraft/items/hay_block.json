@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Horse Stable"
-					]
+					"text": "Horse Stable",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Horse"
-					]
+					"text": "Horse",
 				},
 				"model": {
 					"type": "minecraft:model",

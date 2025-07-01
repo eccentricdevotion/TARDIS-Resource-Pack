@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "The Moment",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "The Moment",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,10 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Cybershade"
-					]
+					"text": "Cybershade",
 				},
 				"model": {
 					"type": "minecraft:model",

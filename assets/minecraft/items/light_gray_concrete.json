@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Creative",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Creative",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,18 +21,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Atomic Elements",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Atomic Elements",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -50,18 +32,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Gray Console",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Gray Console",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -70,10 +43,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Consoles"
-					]
+					"text": "Consoles",
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Particle Density"
-					]
+					"text": "Particle Density",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Cyberman"
-					]
+					"text": "Cyberman",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,10 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Black Cyberman"
-					]
+					"text": "Black Cyberman",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,10 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Cyber Lord"
-					]
+					"text": "Cyber Lord",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -58,10 +46,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Cyber Weapon"
-					]
+					"text": "Cyber Weapon",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -70,10 +55,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Earthshock Cyberman"
-					]
+					"text": "Earthshock Cyberman",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -82,10 +64,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Cyberman Handles"
-					]
+					"text": "Cyberman Handles",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -94,10 +73,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Cyber Arm"
-					]
+					"text": "Cyber Arm",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -106,10 +82,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Invasion Cyberman"
-					]
+					"text": "Invasion Cyberman",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -118,10 +91,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Moonbase Cyberman"
-					]
+					"text": "Moonbase Cyberman",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -130,10 +100,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Rise of the Cyberman"
-					]
+					"text": "Rise of the Cyberman",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -142,10 +109,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Tenth Planet Cyberman"
-					]
+					"text": "Tenth Planet Cyberman",
 				},
 				"model": {
 					"type": "minecraft:model",

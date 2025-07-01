@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Perception Filter",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Perception Filter",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,18 +21,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Remote Key",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "TARDIS Remote Key",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

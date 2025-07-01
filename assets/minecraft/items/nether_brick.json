@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Acid Battery",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Acid Battery",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

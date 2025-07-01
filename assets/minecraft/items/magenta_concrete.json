@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Magenta Console",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Magenta Console",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,18 +21,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Reducer",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Reducer",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -50,18 +32,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Material Reducer",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Material Reducer",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

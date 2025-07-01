@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Biome Reader",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "TARDIS Biome Reader",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,10 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Weeping Angel"
-					]
+					"text": "Weeping Angel",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -42,10 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Weeping Angel Wings"
-					]
+					"text": "Weeping Angel Wings",
 				},
 				"model": {
 					"type": "minecraft:model",

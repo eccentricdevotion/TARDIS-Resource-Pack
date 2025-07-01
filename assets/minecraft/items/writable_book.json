@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Add all online players"
-					]
+					"text": "Add all online players",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"List companions"
-					]
+					"text": "List companions",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,10 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Modify my genetic material"
-					]
+					"text": "Modify my genetic material",
 				},
 				"model": {
 					"type": "minecraft:model",

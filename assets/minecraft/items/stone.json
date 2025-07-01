@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Empty slot"
-					]
+					"text": "Empty slot",
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Down"
-					]
+					"text": "Down",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Left"
-					]
+					"text": "Left",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,10 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Right"
-					]
+					"text": "Right",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,10 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Up"
-					]
+					"text": "Up",
 				},
 				"model": {
 					"type": "minecraft:model",

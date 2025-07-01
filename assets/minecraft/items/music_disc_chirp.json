@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Save Storage Disk",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Save Storage Disk",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -37,10 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Saves 1"
-					]
+					"text": "Saves 1",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -49,10 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Saves 2"
-					]
+					"text": "Saves 2",
 				},
 				"model": {
 					"type": "minecraft:model",

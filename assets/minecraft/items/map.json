@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Load Selected Program In Editor"
-					]
+					"text": "Load Selected Program In Editor",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"TARDIS Map"
-					]
+					"text": "TARDIS Map",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,10 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Load map"
-					]
+					"text": "Load map",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,10 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Load the map!"
-					]
+					"text": "Load the map!",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -58,18 +46,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Monitor",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "TARDIS Monitor",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

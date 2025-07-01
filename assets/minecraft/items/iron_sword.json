@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Rust Plague Sword",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Rust Plague Sword",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Apple Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Apple Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,18 +21,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Blueberry Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Blueberry Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -50,18 +32,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Bubblegum Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Bubblegum Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -70,18 +43,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Cappuccino Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Cappuccino Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -90,18 +54,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Earl Grey Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Earl Grey Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -110,18 +65,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Grape Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Grape Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -130,18 +76,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Island Punch Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Island Punch Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -150,18 +87,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Lemon Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Lemon Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -170,18 +98,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Licorice Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Licorice Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -190,18 +109,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Lime Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Lime Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -210,18 +120,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Orange Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Orange Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -230,18 +131,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Raspberry Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Raspberry Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -250,18 +142,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Strawberry Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Strawberry Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -270,18 +153,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Vanilla Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Vanilla Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -290,18 +164,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Vodka Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Vodka Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -310,18 +175,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Watermelon Jelly Baby",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Watermelon Jelly Baby",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

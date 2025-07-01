@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Ace"
-					]
+					"text": "Ace",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Angel of Liberty"
-					]
+					"text": "Angel of Liberty",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,10 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Brigadier Lethbridge-Stewart"
-					]
+					"text": "Brigadier Lethbridge-Stewart",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,10 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Cybershade"
-					]
+					"text": "Cybershade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -58,10 +46,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Katana"
-					]
+					"text": "Katana",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -70,10 +55,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Jo Grant"
-					]
+					"text": "Jo Grant",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -82,10 +64,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Martha Jones"
-					]
+					"text": "Martha Jones",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -94,10 +73,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Omega"
-					]
+					"text": "Omega",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -106,10 +82,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Racnoss"
-					]
+					"text": "Racnoss",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -118,10 +91,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Sutekh"
-					]
+					"text": "Sutekh",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -130,10 +100,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Sycorax"
-					]
+					"text": "Sycorax",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -142,10 +109,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"The Beast"
-					]
+					"text": "The Beast",
 				},
 				"model": {
 					"type": "minecraft:model",

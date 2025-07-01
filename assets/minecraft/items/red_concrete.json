@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Hospital Surgery"
-					]
+					"text": "Hospital Surgery",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,18 +19,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Red Console",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Red Console",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

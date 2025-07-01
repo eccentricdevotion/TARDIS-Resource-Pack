@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Artron Capacitor",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Artron Capacitor",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,18 +21,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Damaged Artron Capacitor",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Damaged Artron Capacitor",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -50,18 +32,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Artron Storage Cell",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Artron Storage Cell",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -70,10 +43,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Deactivate"
-					]
+					"text": "Deactivate",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -82,10 +52,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Delete"
-					]
+					"text": "Delete",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -94,10 +61,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Delete selected shell"
-					]
+					"text": "Delete selected shell",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -106,10 +70,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Remove skin"
-					]
+					"text": "Remove skin",
 				},
 				"model": {
 					"type": "minecraft:model",

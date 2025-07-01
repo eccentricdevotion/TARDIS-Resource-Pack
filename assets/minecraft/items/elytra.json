@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Flight Mode"
-					]
+					"text": "Flight Mode",
 				},
 				"model": {
 					"type": "minecraft:model",

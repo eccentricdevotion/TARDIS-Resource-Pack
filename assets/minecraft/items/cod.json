@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Vampire Of Venice"
-					]
+					"text": "Vampire Of Venice",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Vampire of Venice Fan"
-					]
+					"text": "Vampire of Venice Fan",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,10 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Saturnynian"
-					]
+					"text": "Saturnynian",
 				},
 				"model": {
 					"type": "minecraft:model",

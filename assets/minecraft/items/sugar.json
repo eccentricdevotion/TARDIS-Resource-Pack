@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Empty Child"
-					]
+					"text": "Empty Child",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Empty Child Mask"
-					]
+					"text": "Empty Child Mask",
 				},
 				"model": {
 					"type": "minecraft:model",

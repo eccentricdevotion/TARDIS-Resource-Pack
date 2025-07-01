@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Handbrake"
-					]
+					"text": "Handbrake",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,18 +19,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Console Lamp Switch",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Console Lamp Switch",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -42,18 +30,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Exterior Lamp Level Switch",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Exterior Lamp Level Switch",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -62,18 +41,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Interior Light Level Switch",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Interior Light Level Switch",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

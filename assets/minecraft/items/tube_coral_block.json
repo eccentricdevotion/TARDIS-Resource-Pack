@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Aquarium"
-					]
+					"text": "Aquarium",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Fish"
-					]
+					"text": "Fish",
 				},
 				"model": {
 					"type": "minecraft:model",

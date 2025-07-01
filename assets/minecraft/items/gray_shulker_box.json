@@ -14,18 +14,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Artron Capacitor Storage",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Artron Capacitor Storage",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

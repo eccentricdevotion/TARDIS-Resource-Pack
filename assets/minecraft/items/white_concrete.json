@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
+					"color": "gold",
+					"text": "TARDIS Seed Block",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,10 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"St John's Hospital Console"
-					]
+					"text": "St John's Hospital Console",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -42,18 +30,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "White Console",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "White Console",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

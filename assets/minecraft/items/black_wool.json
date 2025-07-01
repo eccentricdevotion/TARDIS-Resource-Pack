@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Load the map!"
-					]
+					"text": "Load the map!",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Load map"
-					]
+					"text": "Load map",
 				},
 				"model": {
 					"type": "minecraft:model",

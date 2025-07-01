@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Bottom level"
-					]
+					"text": "Bottom level",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Main level"
-					]
+					"text": "Main level",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,10 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Top level"
-					]
+					"text": "Top level",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,18 +37,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Roundel",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Roundel",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -66,18 +48,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Roundel Offset",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Roundel Offset",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

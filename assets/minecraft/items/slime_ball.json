@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Dalek"
-					]
+					"text": "Dalek",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Planets"
-					]
+					"text": "Planets",
 				},
 				"model": {
 					"type": "minecraft:model",

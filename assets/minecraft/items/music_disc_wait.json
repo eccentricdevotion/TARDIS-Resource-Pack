@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Player Storage Disk",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Player Storage Disk",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Allay"
-					]
+					"text": "Allay",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Allay House"
-					]
+					"text": "Allay House",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,18 +28,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Constructor",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Constructor",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -54,18 +39,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Element Constructor",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Element Constructor",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -74,18 +50,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Blue Console",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Blue Console",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

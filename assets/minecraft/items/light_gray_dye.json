@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Microscope",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Microscope",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,18 +21,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Engine",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Engine",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -50,18 +32,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Classic",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Rotor Classic",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -70,18 +43,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Console",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Rotor Console",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -90,18 +54,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Delta",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Rotor Delta",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -110,18 +65,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Early",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Rotor Early",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -130,18 +76,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Eleventh",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Rotor Eleventh",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -150,18 +87,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Engine",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Rotor Engine",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -170,18 +98,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Hospital",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Rotor Hospital",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -190,18 +109,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Rustic",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Rotor Rustic",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -210,18 +120,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Tenth",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Rotor Tenth",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -230,10 +131,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Time Rotor Tenth"
-					]
+					"text": "Time Rotor Tenth",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -242,18 +140,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Twelfth",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Time Rotor Twelfth",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

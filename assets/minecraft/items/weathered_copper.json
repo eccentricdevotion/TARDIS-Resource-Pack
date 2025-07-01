@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
+					"color": "gold",
+					"text": "TARDIS Seed Block",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,10 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Weathered Copper Console"
-					]
+					"text": "Weathered Copper Console",
 				},
 				"model": {
 					"type": "minecraft:model",

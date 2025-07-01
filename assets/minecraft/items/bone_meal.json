@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Product Super Fertiliser"
-					]
+					"text": "Product Super Fertiliser",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Sycorax"
-					]
+					"text": "Sycorax",
 				},
 				"model": {
 					"type": "minecraft:model",

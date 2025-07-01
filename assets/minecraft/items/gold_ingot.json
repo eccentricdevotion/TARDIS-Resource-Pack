@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Elixir of Life",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Elixir of Life",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,10 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Particle Speed"
-					]
+					"text": "Particle Speed",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -42,10 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Omega"
-					]
+					"text": "Omega",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -54,10 +39,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Heavenly Host"
-					]
+					"text": "Heavenly Host",
 				},
 				"model": {
 					"type": "minecraft:model",

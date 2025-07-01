@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Blank Storage Disk",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Blank Storage Disk",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,10 +21,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Storage disks"
-					]
+					"text": "Storage disks",
 				},
 				"model": {
 					"type": "minecraft:model",

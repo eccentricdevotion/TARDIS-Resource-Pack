@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Restore my original genetic material"
-					]
+					"text": "Restore my original genetic material",
 				},
 				"model": {
 					"type": "minecraft:model",

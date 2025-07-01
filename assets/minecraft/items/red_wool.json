@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Scroll left"
-					]
+					"text": "Scroll left",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Disabled"
-					]
+					"text": "Disabled",
 				},
 				"model": {
 					"type": "minecraft:model",

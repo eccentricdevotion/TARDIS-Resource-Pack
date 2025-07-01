@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Tenth"
-					]
+					"text": "Tenth",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Eleventh"
-					]
+					"text": "Eleventh",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,10 +28,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Bulb"
-					]
+					"text": "Bulb",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,18 +37,9 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Bulb On",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Bulb On",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -66,18 +48,9 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Tenth On",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Tenth On",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -86,18 +59,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Eleventh",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Eleventh",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -165,18 +165,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "3-D Glasses",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "3-D Glasses",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -185,18 +176,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Black Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Black Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -205,18 +187,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Blue Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Blue Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -225,18 +198,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Brown Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Brown Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -245,18 +209,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Cyan Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Cyan Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -265,18 +220,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Green Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Green Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -285,18 +231,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Grey Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Grey Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -305,18 +242,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Blue Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Blue Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -325,18 +253,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Grey Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Grey Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -345,18 +264,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Lime Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Lime Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -365,18 +275,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Magenta Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Magenta Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -385,18 +286,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Orange Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Orange Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -405,18 +297,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Pink Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Pink Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -425,18 +308,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Purple Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Purple Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -445,18 +319,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Red Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Red Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -465,10 +330,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Accessories"
-					]
+					"text": "Accessories",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -477,18 +339,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Communicator",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "TARDIS Communicator",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -497,18 +350,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "White Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "White Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -517,18 +361,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Yellow Bow Tie",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Yellow Bow Tie",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
+					"color": "gold",
+					"text": "TARDIS Seed Block",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,10 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"13th Doctor's Console"
-					]
+					"text": "13th Doctor's Console",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -42,18 +30,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Compound",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Compound",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -62,18 +41,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Chemical Compounds",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Chemical Compounds",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -82,18 +52,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Orange Console",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Orange Console",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

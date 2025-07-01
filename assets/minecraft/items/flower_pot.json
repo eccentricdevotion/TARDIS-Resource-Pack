@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Sonic Dock",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Sonic Dock",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,18 +21,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Sonic Generator",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Sonic Generator",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

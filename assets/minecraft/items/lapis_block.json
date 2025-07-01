@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
+					"color": "gold",
+					"text": "TARDIS Seed Block",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,10 +21,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Seed blocks"
-					]
+					"text": "Seed blocks",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -42,10 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"4th Doctor's Console"
-					]
+					"text": "4th Doctor's Console",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -54,10 +39,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Effect Shape"
-					]
+					"text": "Effect Shape",
 				},
 				"model": {
 					"type": "minecraft:model",

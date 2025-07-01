@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Cog",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Cog",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,18 +21,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Classic Offset",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Classic Offset",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -50,18 +32,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Classic",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Classic",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -70,18 +43,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Eleventh",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Eleventh",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -90,18 +54,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Tenth",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Tenth",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -110,18 +65,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Thirteenth",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Thirteenth",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -130,18 +76,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Twelfth",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Twelfth",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -150,10 +87,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Not upgraded"
-					]
+					"text": "Not upgraded",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -162,10 +96,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Place Sonic"
-					]
+					"text": "Place Sonic",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -174,10 +105,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						" "
-					]
+					"text": " ",
 				},
 				"model": {
 					"type": "minecraft:model",

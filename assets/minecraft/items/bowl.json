@@ -1374,10 +1374,7 @@
             },
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Bio Scanner Upgrade"
-					]
+					"text": "Bio Scanner Upgrade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1386,10 +1383,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Brush Upgrade"
-					]
+					"text": "Brush Upgrade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1398,10 +1392,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Conversion Upgrade"
-					]
+					"text": "Conversion Upgrade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1410,10 +1401,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Diamond Upgrade"
-					]
+					"text": "Diamond Upgrade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1422,10 +1410,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Emerald Upgrade"
-					]
+					"text": "Emerald Upgrade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1434,10 +1419,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Ignite Upgrade"
-					]
+					"text": "Ignite Upgrade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1446,10 +1428,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Knockback Upgrade"
-					]
+					"text": "Knockback Upgrade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1458,10 +1437,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Painter Upgrade"
-					]
+					"text": "Painter Upgrade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1471,10 +1447,7 @@
 			,
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Pickup Arrows Upgrade"
-					]
+					"text": "Pickup Arrows Upgrade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1483,10 +1456,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Redstone Upgrade"
-					]
+					"text": "Redstone Upgrade",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1495,10 +1465,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"ALIEN"
-					]
+					"text": "ALIEN",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1507,10 +1474,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"ATMOSPHERE"
-					]
+					"text": "ATMOSPHERE",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1519,10 +1483,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"COMPUTER"
-					]
+					"text": "COMPUTER",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1531,10 +1492,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"COPPER"
-					]
+					"text": "COPPER",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1543,10 +1501,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"CORAL"
-					]
+					"text": "CORAL",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1555,10 +1510,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"GALAXY"
-					]
+					"text": "GALAXY",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1567,10 +1519,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"LEARNING"
-					]
+					"text": "LEARNING",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1579,10 +1528,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"MIND"
-					]
+					"text": "MIND",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1591,10 +1537,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"NEON"
-					]
+					"text": "NEON",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1603,10 +1546,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"SLEEPING"
-					]
+					"text": "SLEEPING",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1615,10 +1555,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"VOID"
-					]
+					"text": "VOID",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1627,10 +1564,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"RANDOM"
-					]
+					"text": "RANDOM",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1639,10 +1573,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Action"
-					]
+					"text": "Action",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1651,10 +1582,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Lifesigns"
-					]
+					"text": "Lifesigns",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1663,10 +1591,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Display"
-					]
+					"text": "Display",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1675,10 +1600,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Predictive text"
-					]
+					"text": "Predictive text",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1687,10 +1609,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Save current location"
-					]
+					"text": "Save current location",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1699,10 +1618,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Load saved location"
-					]
+					"text": "Load saved location",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1711,10 +1627,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Messages"
-					]
+					"text": "Messages",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1723,10 +1636,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Beacon signal"
-					]
+					"text": "Beacon signal",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1735,10 +1645,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Previous character"
-					]
+					"text": "Previous character",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1747,10 +1654,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Next character"
-					]
+					"text": "Next character",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1759,10 +1663,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Enter Vortex"
-					]
+					"text": "Enter Vortex",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1771,10 +1672,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Enter Vortex / Save location / Check lifesigns"
-					]
+					"text": "Enter Vortex / Save location / Check lifesigns",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1783,10 +1681,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"World"
-					]
+					"text": "World",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1795,10 +1690,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"X"
-					]
+					"text": "X",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1807,10 +1699,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Y"
-					]
+					"text": "Y",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1819,10 +1708,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Z"
-					]
+					"text": "Z",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1831,10 +1717,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"*"
-					]
+					"text": "*",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1843,10 +1726,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"0"
-					]
+					"text": "0",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1855,10 +1735,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"#"
-					]
+					"text": "#",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1867,10 +1744,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Page 1"
-					]
+					"text": "Page 1",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1879,10 +1753,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Page 2"
-					]
+					"text": "Page 2",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1891,10 +1762,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Page 3"
-					]
+					"text": "Page 3",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1903,10 +1771,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Read"
-					]
+					"text": "Read",
 				},
 				"model": {
 					"type": "minecraft:model",

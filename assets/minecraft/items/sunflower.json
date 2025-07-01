@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Clear"
-					]
+					"text": "Clear",
 				},
 				"model": {
 					"type": "minecraft:model",

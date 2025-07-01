@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Blue Lamp"
-					]
+					"text": "Blue Lamp",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Green Lamp"
-					]
+					"text": "Green Lamp",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -34,10 +28,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Purple Lamp"
-					]
+					"text": "Purple Lamp",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,10 +37,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Red Lamp"
-					]
+					"text": "Red Lamp",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -58,10 +46,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Classic"
-					]
+					"text": "Classic",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -70,10 +55,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Classic Offset"
-					]
+					"text": "Classic Offset",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -82,10 +64,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Twelfth"
-					]
+					"text": "Twelfth",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -94,10 +73,7 @@
 			},
             {
 				"when": {
-					"text": "",
-					"extra": [
-						"Thirteenth"
-					]
+					"text": "Thirteenth",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -106,18 +82,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Classic Offset On",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Classic Offset On",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -126,18 +93,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Classic On",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Classic On",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -146,18 +104,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Thirteenth On",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Thirteenth On",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -166,18 +115,9 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Twelfth On",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Light Twelfth On",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

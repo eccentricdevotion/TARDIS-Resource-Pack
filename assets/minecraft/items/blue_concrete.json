@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Blue Console",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Blue Console",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

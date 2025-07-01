@@ -10,18 +10,9 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Computer Monitor",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Computer Monitor",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

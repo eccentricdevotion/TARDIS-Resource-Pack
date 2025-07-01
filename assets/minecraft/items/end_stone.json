@@ -10,10 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"4th Doctor's Secondary Console"
-					]
+					"text": "4th Doctor's Secondary Console",
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -22,10 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Silent"
-					]
+					"text": "Silent",
 				},
 				"model": {
 					"type": "minecraft:model",
