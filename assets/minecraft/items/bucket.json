@@ -43,7 +43,7 @@
 			},
 			{
 				"when": {
-					"text": "Deactivate",
+					"text": "Deactivate"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -52,7 +52,7 @@
 			},
 			{
 				"when": {
-					"text": "Delete",
+					"text": "Delete"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -61,7 +61,7 @@
 			},
 			{
 				"when": {
-					"text": "Delete selected shell",
+					"text": "Delete selected shell"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -70,7 +70,7 @@
 			},
 			{
 				"when": {
-					"text": "Remove skin",
+					"text": "Remove skin"
 				},
 				"model": {
 					"type": "minecraft:model",

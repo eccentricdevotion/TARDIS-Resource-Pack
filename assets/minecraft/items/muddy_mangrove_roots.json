@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Frog",
+					"text": "Frog"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Mangrove",
+					"text": "Mangrove"
 				},
 				"model": {
 					"type": "minecraft:model",

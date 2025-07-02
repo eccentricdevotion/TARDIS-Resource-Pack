@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "St John's Hospital Console",
+					"text": "St John's Hospital Console"
 				},
 				"model": {
 					"type": "minecraft:model",

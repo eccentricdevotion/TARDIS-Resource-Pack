@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Legacy 11th Doctor's Console",
+					"text": "Legacy 11th Doctor's Console"
 				},
 				"model": {
 					"type": "minecraft:model",

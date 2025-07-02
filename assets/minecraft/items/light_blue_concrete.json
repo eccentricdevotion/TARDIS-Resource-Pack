@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Allay",
+					"text": "Allay"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Allay House",
+					"text": "Allay House"
 				},
 				"model": {
 					"type": "minecraft:model",

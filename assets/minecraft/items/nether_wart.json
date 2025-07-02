@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Bannakaffalatta",
+					"text": "Bannakaffalatta"
 				},
 				"model": {
 					"type": "minecraft:model",

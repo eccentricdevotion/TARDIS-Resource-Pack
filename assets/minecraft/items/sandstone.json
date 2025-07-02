@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Anti-gravity Well",
+					"text": "Anti-gravity Well"
 				},
 				"model": {
 					"type": "minecraft:model",

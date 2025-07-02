@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Legacy Deluxe Console",
+					"text": "Legacy Deluxe Console"
 				},
 				"model": {
 					"type": "minecraft:model",

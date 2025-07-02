@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "An Early Style Console",
+					"text": "An Early Style Console"
 				},
 				"model": {
 					"type": "minecraft:model",

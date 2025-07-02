@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Load Selected Program In Editor",
+					"text": "Load Selected Program In Editor"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "TARDIS Map",
+					"text": "TARDIS Map"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Load map",
+					"text": "Load map"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -37,7 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "Load the map!",
+					"text": "Load the map!"
 				},
 				"model": {
 					"type": "minecraft:model",

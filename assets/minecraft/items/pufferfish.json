@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Hath",
+					"text": "Hath"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Hath Breather",
+					"text": "Hath Breather"
 				},
 				"model": {
 					"type": "minecraft:model",

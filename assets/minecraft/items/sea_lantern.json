@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Blue Lamp",
+					"text": "Blue Lamp"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
             {
 				"when": {
-					"text": "Green Lamp",
+					"text": "Green Lamp"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
             {
 				"when": {
-					"text": "Purple Lamp",
+					"text": "Purple Lamp"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -37,7 +37,7 @@
 			},
             {
 				"when": {
-					"text": "Red Lamp",
+					"text": "Red Lamp"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,7 +46,7 @@
 			},
             {
 				"when": {
-					"text": "Classic",
+					"text": "Classic"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -55,7 +55,7 @@
 			},
             {
 				"when": {
-					"text": "Classic Offset",
+					"text": "Classic Offset"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -64,7 +64,7 @@
 			},
             {
 				"when": {
-					"text": "Twelfth",
+					"text": "Twelfth"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -73,7 +73,7 @@
 			},
             {
 				"when": {
-					"text": "Thirteenth",
+					"text": "Thirteenth"
 				},
 				"model": {
 					"type": "minecraft:model",

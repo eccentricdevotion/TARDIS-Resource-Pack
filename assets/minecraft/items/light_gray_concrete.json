@@ -43,7 +43,7 @@
 			},
 			{
 				"when": {
-					"text": "Consoles",
+					"text": "Consoles"
 				},
 				"model": {
 					"type": "minecraft:model",

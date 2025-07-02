@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Custom Console",
+					"text": "Custom Console"
 				},
 				"model": {
 					"type": "minecraft:model",

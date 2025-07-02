@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "TARDIS Information System",
+					"text": "TARDIS Information System"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -79,7 +79,7 @@
             },
             {
 				"when": {
-					"text": "Vashta Nerada",
+					"text": "Vashta Nerada"
 				},
 				"model": {
 					"type": "minecraft:model",

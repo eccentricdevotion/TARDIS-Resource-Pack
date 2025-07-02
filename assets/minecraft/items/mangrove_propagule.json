@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Dalek Sec Tentacles",
+					"text": "Dalek Sec Tentacles"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Dalek Sec",
+					"text": "Dalek Sec"
 				},
 				"model": {
 					"type": "minecraft:model",

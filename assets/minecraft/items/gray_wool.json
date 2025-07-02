@@ -87,7 +87,7 @@
 			},
 			{
 				"when": {
-					"text": "Not upgraded",
+					"text": "Not upgraded"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -96,7 +96,7 @@
 			},
 			{
 				"when": {
-					"text": "Place Sonic",
+					"text": "Place Sonic"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -105,7 +105,7 @@
 			},
 			{
 				"when": {
-					"text": " ",
+					"text": " "
 				},
 				"model": {
 					"type": "minecraft:model",

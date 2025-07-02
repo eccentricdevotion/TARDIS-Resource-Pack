@@ -32,7 +32,7 @@
 			},
 			{
 				"when": {
-					"text": "Factory Console (1st Doctor)",
+					"text": "Factory Console (1st Doctor)"
 				},
 				"model": {
 					"type": "minecraft:model",

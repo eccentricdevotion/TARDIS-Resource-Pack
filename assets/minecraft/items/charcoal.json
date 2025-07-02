@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Ossified Time Zombie",
+					"text": "Ossified Time Zombie"
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Mob Farm",
+					"text": "Mob Farm"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Cow & Mooshroom, Sheep, Pig, Chicken",
+					"text": "Cow & Mooshroom, Sheep, Pig, Chicken"
 				},
 				"model": {
 					"type": "minecraft:model",

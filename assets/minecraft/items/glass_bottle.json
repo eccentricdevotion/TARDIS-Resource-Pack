@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Aluminium Oxide",
+					"text": "Aluminium Oxide"
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Empty Child",
+					"text": "Empty Child"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Empty Child Mask",
+					"text": "Empty Child Mask"
 				},
 				"model": {
 					"type": "minecraft:model",

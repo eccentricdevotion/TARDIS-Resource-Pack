@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Impossible Astronaut",
+					"text": "Impossible Astronaut"
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -131,7 +131,7 @@
 			},
 			{
 				"when": {
-					"text": "Time Rotor Tenth",
+					"text": "Time Rotor Tenth"
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Sutekh",
+					"text": "Sutekh"
 				},
 				"model": {
 					"type": "minecraft:model",

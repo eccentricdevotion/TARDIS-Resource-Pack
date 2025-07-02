@@ -1374,7 +1374,7 @@
             },
 			{
 				"when": {
-					"text": "Bio Scanner Upgrade",
+					"text": "Bio Scanner Upgrade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1383,7 +1383,7 @@
 			},
 			{
 				"when": {
-					"text": "Brush Upgrade",
+					"text": "Brush Upgrade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1392,7 +1392,7 @@
 			},
 			{
 				"when": {
-					"text": "Conversion Upgrade",
+					"text": "Conversion Upgrade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1401,7 +1401,7 @@
 			},
 			{
 				"when": {
-					"text": "Diamond Upgrade",
+					"text": "Diamond Upgrade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1410,7 +1410,7 @@
 			},
 			{
 				"when": {
-					"text": "Emerald Upgrade",
+					"text": "Emerald Upgrade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1419,7 +1419,7 @@
 			},
 			{
 				"when": {
-					"text": "Ignite Upgrade",
+					"text": "Ignite Upgrade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1428,7 +1428,7 @@
 			},
 			{
 				"when": {
-					"text": "Knockback Upgrade",
+					"text": "Knockback Upgrade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1437,7 +1437,7 @@
 			},
 			{
 				"when": {
-					"text": "Painter Upgrade",
+					"text": "Painter Upgrade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1447,7 +1447,7 @@
 			,
 			{
 				"when": {
-					"text": "Pickup Arrows Upgrade",
+					"text": "Pickup Arrows Upgrade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1456,7 +1456,7 @@
 			},
 			{
 				"when": {
-					"text": "Redstone Upgrade",
+					"text": "Redstone Upgrade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1465,7 +1465,7 @@
 			},
 			{
 				"when": {
-					"text": "ALIEN",
+					"text": "ALIEN"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1474,7 +1474,7 @@
 			},
 			{
 				"when": {
-					"text": "ATMOSPHERE",
+					"text": "ATMOSPHERE"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1483,7 +1483,7 @@
 			},
 			{
 				"when": {
-					"text": "COMPUTER",
+					"text": "COMPUTER"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1492,7 +1492,7 @@
 			},
 			{
 				"when": {
-					"text": "COPPER",
+					"text": "COPPER"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1501,7 +1501,7 @@
 			},
 			{
 				"when": {
-					"text": "CORAL",
+					"text": "CORAL"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1510,7 +1510,7 @@
 			},
 			{
 				"when": {
-					"text": "GALAXY",
+					"text": "GALAXY"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1519,7 +1519,7 @@
 			},
 			{
 				"when": {
-					"text": "LEARNING",
+					"text": "LEARNING"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1528,7 +1528,7 @@
 			},
 			{
 				"when": {
-					"text": "MIND",
+					"text": "MIND"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1537,7 +1537,7 @@
 			},
 			{
 				"when": {
-					"text": "NEON",
+					"text": "NEON"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1546,7 +1546,7 @@
 			},
 			{
 				"when": {
-					"text": "SLEEPING",
+					"text": "SLEEPING"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1555,7 +1555,7 @@
 			},
 			{
 				"when": {
-					"text": "VOID",
+					"text": "VOID"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1564,7 +1564,7 @@
 			},
 			{
 				"when": {
-					"text": "RANDOM",
+					"text": "RANDOM"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1573,7 +1573,7 @@
 			},
 			{
 				"when": {
-					"text": "Action",
+					"text": "Action"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1582,7 +1582,7 @@
 			},
 			{
 				"when": {
-					"text": "Lifesigns",
+					"text": "Lifesigns"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1591,7 +1591,7 @@
 			},
 			{
 				"when": {
-					"text": "Display",
+					"text": "Display"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1600,7 +1600,7 @@
 			},
 			{
 				"when": {
-					"text": "Predictive text",
+					"text": "Predictive text"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1609,7 +1609,7 @@
 			},
 			{
 				"when": {
-					"text": "Save current location",
+					"text": "Save current location"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1618,7 +1618,7 @@
 			},
 			{
 				"when": {
-					"text": "Load saved location",
+					"text": "Load saved location"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1627,7 +1627,7 @@
 			},
 			{
 				"when": {
-					"text": "Messages",
+					"text": "Messages"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1636,7 +1636,7 @@
 			},
 			{
 				"when": {
-					"text": "Beacon signal",
+					"text": "Beacon signal"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1645,7 +1645,7 @@
 			},
 			{
 				"when": {
-					"text": "Previous character",
+					"text": "Previous character"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1654,7 +1654,7 @@
 			},
 			{
 				"when": {
-					"text": "Next character",
+					"text": "Next character"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1663,7 +1663,7 @@
 			},
 			{
 				"when": {
-					"text": "Enter Vortex",
+					"text": "Enter Vortex"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1672,7 +1672,7 @@
 			},
 			{
 				"when": {
-					"text": "Enter Vortex / Save location / Check lifesigns",
+					"text": "Enter Vortex / Save location / Check lifesigns"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1681,7 +1681,7 @@
 			},
 			{
 				"when": {
-					"text": "World",
+					"text": "World"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1690,7 +1690,7 @@
 			},
 			{
 				"when": {
-					"text": "X",
+					"text": "X"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1699,7 +1699,7 @@
 			},
 			{
 				"when": {
-					"text": "Y",
+					"text": "Y"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1708,7 +1708,7 @@
 			},
 			{
 				"when": {
-					"text": "Z",
+					"text": "Z"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1717,7 +1717,7 @@
 			},
 			{
 				"when": {
-					"text": "*",
+					"text": "*"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1726,7 +1726,7 @@
 			},
 			{
 				"when": {
-					"text": "0",
+					"text": "0"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1735,7 +1735,7 @@
 			},
 			{
 				"when": {
-					"text": "#",
+					"text": "#"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1744,7 +1744,7 @@
 			},
 			{
 				"when": {
-					"text": "Page 1",
+					"text": "Page 1"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1753,7 +1753,7 @@
 			},
 			{
 				"when": {
-					"text": "Page 2",
+					"text": "Page 2"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1762,7 +1762,7 @@
 			},
 			{
 				"when": {
-					"text": "Page 3",
+					"text": "Page 3"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -1771,7 +1771,7 @@
 			},
 			{
 				"when": {
-					"text": "Read",
+					"text": "Read"
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "K9",
+					"text": "K9"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,7 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "K9 ",
+					"text": "K9 "
 				},
 				"model": {
 					"type": "minecraft:model",

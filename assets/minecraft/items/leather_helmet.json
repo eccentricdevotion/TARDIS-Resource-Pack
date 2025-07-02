@@ -330,7 +330,7 @@
 			},
 			{
 				"when": {
-					"text": "Accessories",
+					"text": "Accessories"
 				},
 				"model": {
 					"type": "minecraft:model",

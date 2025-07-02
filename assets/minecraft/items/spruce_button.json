@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Wood Cyber Weapon",
+					"text": "Wood Cyber Weapon"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Wooden Cyberman",
+					"text": "Wooden Cyberman"
 				},
 				"model": {
 					"type": "minecraft:model",

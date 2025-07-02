@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Liberty Torch",
+					"text": "Liberty Torch"
 				},
 				"model": {
 					"type": "minecraft:model",

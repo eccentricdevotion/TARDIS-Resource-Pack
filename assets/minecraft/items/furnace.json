@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Genetic Manipulator",
+					"text": "Genetic Manipulator"
 				},
 				"model": {
 					"type": "minecraft:model",

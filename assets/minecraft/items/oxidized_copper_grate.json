@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Angel Of Liberty",
+					"text": "Angel Of Liberty"
 				},
 				"model": {
 					"type": "minecraft:model",

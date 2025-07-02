@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Legacy Bigger Console",
+					"text": "Legacy Bigger Console"
 				},
 				"model": {
 					"type": "minecraft:model",

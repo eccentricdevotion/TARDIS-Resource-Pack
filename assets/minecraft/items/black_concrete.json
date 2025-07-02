@@ -32,7 +32,7 @@
 			},
 			{
 				"when": {
-					"text": "Cursed Console",
+					"text": "Cursed Console"
 				},
 				"model": {
 					"type": "minecraft:model",

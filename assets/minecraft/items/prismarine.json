@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "12th Doctor's Console",
+					"text": "12th Doctor's Console"
 				},
 				"model": {
 					"type": "minecraft:model",

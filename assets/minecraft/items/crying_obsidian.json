@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Nether Delta Console",
+					"text": "Nether Delta Console"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,7 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "Cursed Console",
+					"text": "Cursed Console"
 				},
 				"model": {
 					"type": "minecraft:model",

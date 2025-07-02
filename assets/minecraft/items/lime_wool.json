@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Scroll right",
+					"text": "Scroll right"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Enabled",
+					"text": "Enabled"
 				},
 				"model": {
 					"type": "minecraft:model",

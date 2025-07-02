@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Sontaran",
+					"text": "Sontaran"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Sontaran Ears",
+					"text": "Sontaran Ears"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Strax Ears",
+					"text": "Strax Ears"
 				},
 				"model": {
 					"type": "minecraft:model",

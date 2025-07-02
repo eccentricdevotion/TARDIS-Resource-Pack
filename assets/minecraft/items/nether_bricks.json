@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "The Master's Console",
+					"text": "The Master's Console"
 				},
 				"model": {
 					"type": "minecraft:model",

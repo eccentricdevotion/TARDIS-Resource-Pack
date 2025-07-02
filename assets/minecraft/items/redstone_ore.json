@@ -10,7 +10,7 @@
 		"cases": [
             {
 				"when": {
-					"text": "Ash",
+					"text": "Ash"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
             {
 				"when": {
-					"text": "Block",
+					"text": "Block"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
             {
 				"when": {
-					"text": "Boom",
+					"text": "Boom"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -37,7 +37,7 @@
 			},
             {
 				"when": {
-					"text": "Breath",
+					"text": "Breath"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,7 +46,7 @@
 			},
             {
 				"when": {
-					"text": "Bubbles",
+					"text": "Bubbles"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -55,7 +55,7 @@
 			},
             {
 				"when": {
-					"text": "Clouds",
+					"text": "Clouds"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -64,7 +64,7 @@
 			},
             {
 				"when": {
-					"text": "Dust",
+					"text": "Dust"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -73,7 +73,7 @@
 			},
             {
 				"when": {
-					"text": "Effect",
+					"text": "Effect"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -82,7 +82,7 @@
 			},
             {
 				"when": {
-					"text": "Flames",
+					"text": "Flames"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -91,7 +91,7 @@
 			},
             {
 				"when": {
-					"text": "Glow",
+					"text": "Glow"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -100,7 +100,7 @@
 			},
             {
 				"when": {
-					"text": "Gust",
+					"text": "Gust"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -109,7 +109,7 @@
 			},
             {
 				"when": {
-					"text": "Heart",
+					"text": "Heart"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -118,7 +118,7 @@
 			},
             {
 				"when": {
-					"text": "Hit",
+					"text": "Hit"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -127,7 +127,7 @@
 			},
             {
 				"when": {
-					"text": "Honey",
+					"text": "Honey"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -136,7 +136,7 @@
 			},
             {
 				"when": {
-					"text": "Infested",
+					"text": "Infested"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -145,7 +145,7 @@
 			},
             {
 				"when": {
-					"text": "Leaves",
+					"text": "Leaves"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -154,7 +154,7 @@
 			},
             {
 				"when": {
-					"text": "Music",
+					"text": "Music"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -163,7 +163,7 @@
 			},
             {
 				"when": {
-					"text": "Nautilus",
+					"text": "Nautilus"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -172,7 +172,7 @@
 			},
             {
 				"when": {
-					"text": "Omen",
+					"text": "Omen"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -181,7 +181,7 @@
 			},
             {
 				"when": {
-					"text": "Petals",
+					"text": "Petals"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -190,7 +190,7 @@
 			},
             {
 				"when": {
-					"text": "Sculk",
+					"text": "Sculk"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -199,7 +199,7 @@
 			},
             {
 				"when": {
-					"text": "Shriek",
+					"text": "Shriek"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -208,7 +208,7 @@
 			},
             {
 				"when": {
-					"text": "Snowy",
+					"text": "Snowy"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -217,7 +217,7 @@
 			},
             {
 				"when": {
-					"text": "Spark",
+					"text": "Spark"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -226,7 +226,7 @@
 			},
             {
 				"when": {
-					"text": "Splash",
+					"text": "Splash"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -235,7 +235,7 @@
 			},
             {
 				"when": {
-					"text": "Spawner",
+					"text": "Spawner"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -244,7 +244,7 @@
 			},
             {
 				"when": {
-					"text": "Spell",
+					"text": "Spell"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -253,7 +253,7 @@
 			},
             {
 				"when": {
-					"text": "Spore",
+					"text": "Spore"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -262,7 +262,7 @@
 			},
             {
 				"when": {
-					"text": "Totem",
+					"text": "Totem"
 				},
 				"model": {
 					"type": "minecraft:model",

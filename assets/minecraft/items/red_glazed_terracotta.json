@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Legacy Redstone Console",
+					"text": "Legacy Redstone Console"
 				},
 				"model": {
 					"type": "minecraft:model",

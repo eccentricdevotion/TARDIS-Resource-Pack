@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Sea Devil",
+					"text": "Sea Devil"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Sea Devil Ears",
+					"text": "Sea Devil Ears"
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Characters",
+					"text": "Characters"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Companions",
+					"text": "Companions"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Cybermen",
+					"text": "Cybermen"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -37,7 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "Doctors",
+					"text": "Doctors"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,7 +46,7 @@
 			},
 			{
 				"when": {
-					"text": "Monsters",
+					"text": "Monsters"
 				},
 				"model": {
 					"type": "minecraft:model",

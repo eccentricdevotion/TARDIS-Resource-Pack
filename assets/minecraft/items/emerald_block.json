@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "11th Doctor's Console",
+					"text": "11th Doctor's Console"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,7 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "Effect Colour",
+					"text": "Effect Colour"
 				},
 				"model": {
 					"type": "minecraft:model",

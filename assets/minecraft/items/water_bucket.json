@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Raining",
+					"text": "Raining"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
             {
 				"when": {
-					"text": "Misc",
+					"text": "Misc"
 				},
 				"model": {
 					"type": "minecraft:model",

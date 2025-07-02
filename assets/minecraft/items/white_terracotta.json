@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "War Doctor's Console",
+					"text": "War Doctor's Console"
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Mire",
+					"text": "Mire"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Mire Helmet",
+					"text": "Mire Helmet"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Mire Left Arm",
+					"text": "Mire Left Arm"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -37,7 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "Mire Right Arm",
+					"text": "Mire Right Arm"
 				},
 				"model": {
 					"type": "minecraft:model",

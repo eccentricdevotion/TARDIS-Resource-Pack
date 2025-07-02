@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "A Sandstone Pyramid Console",
+					"text": "A Sandstone Pyramid Console"
 				},
 				"model": {
 					"type": "minecraft:model",

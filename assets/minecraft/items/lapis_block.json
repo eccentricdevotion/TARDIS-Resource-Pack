@@ -21,7 +21,7 @@
 			},
             {
 				"when": {
-					"text": "Seed blocks",
+					"text": "Seed blocks"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,7 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "4th Doctor's Console",
+					"text": "4th Doctor's Console"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -39,7 +39,7 @@
 			},
 			{
 				"when": {
-					"text": "Effect Shape",
+					"text": "Effect Shape"
 				},
 				"model": {
 					"type": "minecraft:model",

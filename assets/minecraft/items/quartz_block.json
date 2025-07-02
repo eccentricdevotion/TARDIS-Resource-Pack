@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "ARS Console",
+					"text": "ARS Console"
 				},
 				"model": {
 					"type": "minecraft:model",

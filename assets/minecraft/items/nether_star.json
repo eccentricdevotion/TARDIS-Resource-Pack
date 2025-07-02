@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Add Companion",
+					"text": "Add Companion"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Admin Config Menu",
+					"text": "Admin Config Menu"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Player Preferences",
+					"text": "Player Preferences"
 				},
 				"model": {
 					"type": "minecraft:model",

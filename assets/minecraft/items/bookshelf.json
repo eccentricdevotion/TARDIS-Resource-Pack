@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Wood Console",
+					"text": "Wood Console"
 				},
 				"model": {
 					"type": "minecraft:model",

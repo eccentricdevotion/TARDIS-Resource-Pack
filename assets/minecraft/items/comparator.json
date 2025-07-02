@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Apply now",
+					"text": "Apply now"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "The Master's reverse polarity button",
+					"text": "The Master's reverse polarity button"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Lights Console",
+					"text": "Lights Console"
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Ice Warrior",
+					"text": "Ice Warrior"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Ice Warrior Crest",
+					"text": "Ice Warrior Crest"
 				},
 				"model": {
 					"type": "minecraft:model",

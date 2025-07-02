@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Cave Console",
+					"text": "Cave Console"
 				},
 				"model": {
 					"type": "minecraft:model",

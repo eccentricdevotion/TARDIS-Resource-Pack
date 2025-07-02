@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Handles Operator Addition",
+					"text": "Handles Operator Addition"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,7 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "Handles Operator Subtraction",
+					"text": "Handles Operator Subtraction"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -39,7 +39,7 @@
 			},
 			{
 				"when": {
-					"text": "More",
+					"text": "More"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -48,7 +48,7 @@
 			},
 			{
 				"when": {
-					"text": "Less",
+					"text": "Less"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -57,7 +57,7 @@
 			},
 			{
 				"when": {
-					"text": "St John's Logo",
+					"text": "St John's Logo"
 				},
 				"model": {
 					"type": "minecraft:model",

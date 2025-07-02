@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Rustic Console",
+					"text": "Rustic Console"
 				},
 				"model": {
 					"type": "minecraft:model",

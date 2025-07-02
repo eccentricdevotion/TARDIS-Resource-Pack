@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Unknown",
+					"text": "Unknown"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Silurian",
+					"text": "Silurian"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Silurian Crest",
+					"text": "Silurian Crest"
 				},
 				"model": {
 					"type": "minecraft:model",

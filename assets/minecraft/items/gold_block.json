@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "A Bigger Console",
+					"text": "A Bigger Console"
 				},
 				"model": {
 					"type": "minecraft:model",

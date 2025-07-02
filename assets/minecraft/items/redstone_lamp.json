@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Tenth",
+					"text": "Tenth"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
             {
 				"when": {
-					"text": "Eleventh",
+					"text": "Eleventh"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
             {
 				"when": {
-					"text": "Bulb",
+					"text": "Bulb"
 				},
 				"model": {
 					"type": "minecraft:model",

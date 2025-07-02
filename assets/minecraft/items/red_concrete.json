@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Hospital Surgery",
+					"text": "Hospital Surgery"
 				},
 				"model": {
 					"type": "minecraft:model",

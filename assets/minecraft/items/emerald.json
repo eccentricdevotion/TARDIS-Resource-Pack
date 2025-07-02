@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Particle Colour",
+					"text": "Particle Colour"
 				},
 				"model": {
 					"type": "minecraft:model",

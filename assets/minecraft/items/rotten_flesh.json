@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Ood",
+					"text": "Ood"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Ood Tentacles",
+					"text": "Ood Tentacles"
 				},
 				"model": {
 					"type": "minecraft:model",

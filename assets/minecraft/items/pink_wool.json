@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Reconfigure!",
+					"text": "Reconfigure!"
 				},
 				"model": {
 					"type": "minecraft:model",

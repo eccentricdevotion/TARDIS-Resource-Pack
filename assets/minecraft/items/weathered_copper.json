@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Weathered Copper Console",
+					"text": "Weathered Copper Console"
 				},
 				"model": {
 					"type": "minecraft:model",

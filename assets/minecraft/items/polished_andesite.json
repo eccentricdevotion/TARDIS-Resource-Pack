@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Mechanical Console",
+					"text": "Mechanical Console"
 				},
 				"model": {
 					"type": "minecraft:model",

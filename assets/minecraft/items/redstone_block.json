@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Effect Particle",
+					"text": "Effect Particle"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,7 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "Redstone Console",
+					"text": "Redstone Console"
 				},
 				"model": {
 					"type": "minecraft:model",

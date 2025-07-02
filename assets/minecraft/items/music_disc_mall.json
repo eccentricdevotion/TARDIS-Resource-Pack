@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Presets 1",
+					"text": "Presets 1"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -37,7 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "Presets 2",
+					"text": "Presets 2"
 				},
 				"model": {
 					"type": "minecraft:model",

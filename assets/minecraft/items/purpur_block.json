@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Ender Console",
+					"text": "Ender Console"
 				},
 				"model": {
 					"type": "minecraft:model",

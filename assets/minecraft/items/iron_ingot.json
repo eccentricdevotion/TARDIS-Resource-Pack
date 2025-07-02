@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Particle Density",
+					"text": "Particle Density"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Cyberman",
+					"text": "Cyberman"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Black Cyberman",
+					"text": "Black Cyberman"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -37,7 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "Cyber Lord",
+					"text": "Cyber Lord"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,7 +46,7 @@
 			},
 			{
 				"when": {
-					"text": "Cyber Weapon",
+					"text": "Cyber Weapon"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -55,7 +55,7 @@
 			},
 			{
 				"when": {
-					"text": "Earthshock Cyberman",
+					"text": "Earthshock Cyberman"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -64,7 +64,7 @@
 			},
 			{
 				"when": {
-					"text": "Cyberman Handles",
+					"text": "Cyberman Handles"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -73,7 +73,7 @@
 			},
 			{
 				"when": {
-					"text": "Cyber Arm",
+					"text": "Cyber Arm"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -82,7 +82,7 @@
 			},
 			{
 				"when": {
-					"text": "Invasion Cyberman",
+					"text": "Invasion Cyberman"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -91,7 +91,7 @@
 			},
 			{
 				"when": {
-					"text": "Moonbase Cyberman",
+					"text": "Moonbase Cyberman"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -100,7 +100,7 @@
 			},
 			{
 				"when": {
-					"text": "Rise of the Cyberman",
+					"text": "Rise of the Cyberman"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -109,7 +109,7 @@
 			},
 			{
 				"when": {
-					"text": "Tenth Planet Cyberman",
+					"text": "Tenth Planet Cyberman"
 				},
 				"model": {
 					"type": "minecraft:model",

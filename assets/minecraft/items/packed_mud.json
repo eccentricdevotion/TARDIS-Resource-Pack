@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "The original TARDIS plugin Console",
+					"text": "The original TARDIS plugin Console"
 				},
 				"model": {
 					"type": "minecraft:model",

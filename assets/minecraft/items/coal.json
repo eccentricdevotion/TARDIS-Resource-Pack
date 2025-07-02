@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Block Type",
+					"text": "Block Type"
 				},
 				"model": {
 					"type": "minecraft:model",

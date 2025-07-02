@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Type/Colour",
+					"text": "Type/Colour"
 				},
 				"model": {
 					"type": "minecraft:model",

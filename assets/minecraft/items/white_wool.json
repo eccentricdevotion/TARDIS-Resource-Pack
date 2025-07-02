@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Bottom level",
+					"text": "Bottom level"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Main level",
+					"text": "Main level"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Top level",
+					"text": "Top level"
 				},
 				"model": {
 					"type": "minecraft:model",

@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Geode",
+					"text": "Geode"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Axolotl",
+					"text": "Axolotl"
 				},
 				"model": {
 					"type": "minecraft:model",

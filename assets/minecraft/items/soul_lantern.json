@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Lights Exterior",
+					"text": "Lights Exterior"
 				},
 				"model": {
 					"type": "minecraft:model",

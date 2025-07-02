@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Ace",
+					"text": "Ace"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Angel of Liberty",
+					"text": "Angel of Liberty"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Brigadier Lethbridge-Stewart",
+					"text": "Brigadier Lethbridge-Stewart"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -37,7 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "Cybershade",
+					"text": "Cybershade"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,7 +46,7 @@
 			},
 			{
 				"when": {
-					"text": "Katana",
+					"text": "Katana"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -55,7 +55,7 @@
 			},
 			{
 				"when": {
-					"text": "Jo Grant",
+					"text": "Jo Grant"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -64,7 +64,7 @@
 			},
 			{
 				"when": {
-					"text": "Martha Jones",
+					"text": "Martha Jones"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -73,7 +73,7 @@
 			},
 			{
 				"when": {
-					"text": "Omega",
+					"text": "Omega"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -82,7 +82,7 @@
 			},
 			{
 				"when": {
-					"text": "Racnoss",
+					"text": "Racnoss"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -91,7 +91,7 @@
 			},
 			{
 				"when": {
-					"text": "Sutekh",
+					"text": "Sutekh"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -100,7 +100,7 @@
 			},
 			{
 				"when": {
-					"text": "Sycorax",
+					"text": "Sycorax"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -109,7 +109,7 @@
 			},
 			{
 				"when": {
-					"text": "The Beast",
+					"text": "The Beast"
 				},
 				"model": {
 					"type": "minecraft:model",

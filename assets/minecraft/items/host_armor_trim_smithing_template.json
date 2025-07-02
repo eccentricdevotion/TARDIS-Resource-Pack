@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Clockwork Droid",
+					"text": "Clockwork Droid"
 				},
 				"model": {
 					"type": "minecraft:model",

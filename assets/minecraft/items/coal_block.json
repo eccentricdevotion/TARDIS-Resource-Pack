@@ -21,7 +21,7 @@
 			},
 			{
 				"when": {
-					"text": "Steampunk Console",
+					"text": "Steampunk Console"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -30,7 +30,7 @@
 			},
 			{
 				"when": {
-					"text": "Light Levels",
+					"text": "Light Levels"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -39,7 +39,7 @@
 			},
 			{
 				"when": {
-					"text": "Select block to convert",
+					"text": "Select block to convert"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -48,7 +48,7 @@
 			},
 			{
 				"when": {
-					"text": "Block Type",
+					"text": "Block Type"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -57,7 +57,7 @@
 			},
 			{
 				"when": {
-					"text": "Lights",
+					"text": "Lights"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -66,7 +66,7 @@
 			},
 			{
 				"when": {
-					"text": "Change Lights",
+					"text": "Change Lights"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -75,7 +75,7 @@
 			},
 			{
 				"when": {
-					"text": "Convert blocks to lights",
+					"text": "Convert blocks to lights"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -84,7 +84,7 @@
 			},
 			{
 				"when": {
-					"text": "Lights Delay",
+					"text": "Lights Delay"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -93,7 +93,7 @@
 			},
 			{
 				"when": {
-					"text": "Edit Light Sequence",
+					"text": "Edit Light Sequence"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -102,7 +102,7 @@
 			},
 			{
 				"when": {
-					"text": "Run Light Sequence",
+					"text": "Run Light Sequence"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -111,7 +111,7 @@
 			},
 			{
 				"when": {
-					"text": "Effect Block",
+					"text": "Effect Block"
 				},
 				"model": {
 					"type": "minecraft:model",

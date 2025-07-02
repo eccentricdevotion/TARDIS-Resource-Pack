@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Fast Return",
+					"text": "Fast Return"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Back to Chameleon Circuit",
+					"text": "Back to Chameleon Circuit"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -28,7 +28,7 @@
 			},
 			{
 				"when": {
-					"text": "Back to construction",
+					"text": "Back to construction"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -37,7 +37,7 @@
 			},
 			{
 				"when": {
-					"text": "Back to help",
+					"text": "Back to help"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -46,7 +46,7 @@
 			},
 			{
 				"when": {
-					"text": "Go",
+					"text": "Go"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -55,7 +55,7 @@
 			},
 			{
 				"when": {
-					"text": "Less",
+					"text": "Less"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -64,7 +64,7 @@
 			},
 			{
 				"when": {
-					"text": "More",
+					"text": "More"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -73,7 +73,7 @@
 			},
 			{
 				"when": {
-					"text": "Go to page 1",
+					"text": "Go to page 1"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -82,7 +82,7 @@
 			},
 			{
 				"when": {
-					"text": "Go to page 2",
+					"text": "Go to page 2"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -91,7 +91,7 @@
 			},
 			{
 				"when": {
-					"text": "Go to construction...",
+					"text": "Go to construction..."
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -100,7 +100,7 @@
 			},
 			{
 				"when": {
-					"text": "Rearrange",
+					"text": "Rearrange"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -109,7 +109,7 @@
 			},
 			{
 				"when": {
-					"text": "Scroll down",
+					"text": "Scroll down"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -118,7 +118,7 @@
 			},
 			{
 				"when": {
-					"text": "Scroll up",
+					"text": "Scroll up"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -127,7 +127,7 @@
 			},
 			{
 				"when": {
-					"text": "Addition operator",
+					"text": "Addition operator"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -136,7 +136,7 @@
 			},
 			{
 				"when": {
-					"text": "Subtraction operator",
+					"text": "Subtraction operator"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -156,7 +156,7 @@
 			},
 			{
 				"when": {
-					"text": "Next page",
+					"text": "Next page"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -165,7 +165,7 @@
 			},
 			{
 				"when": {
-					"text": "Previous page",
+					"text": "Previous page"
 				},
 				"model": {
 					"type": "minecraft:model",

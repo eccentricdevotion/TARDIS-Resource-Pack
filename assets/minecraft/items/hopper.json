@@ -10,7 +10,7 @@
 		"cases": [
 			{
 				"when": {
-					"text": "Age",
+					"text": "Age"
 				},
 				"model": {
 					"type": "minecraft:model",
@@ -19,7 +19,7 @@
 			},
 			{
 				"when": {
-					"text": "Rail Transfer Station",
+					"text": "Rail Transfer Station"
 				},
 				"model": {
 					"type": "minecraft:model",
