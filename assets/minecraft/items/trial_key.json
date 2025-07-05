@@ -5,7 +5,7 @@
         "component": "minecraft:custom_model_data",
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/gold_nugget"
+            "model": "minecraft:item/trial_key"
         },
         "cases": [
             {
