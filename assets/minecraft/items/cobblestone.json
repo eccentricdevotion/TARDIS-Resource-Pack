@@ -50,6 +50,15 @@
             },
             {
                 "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/medium"
+                }
+            },
+            {
+                "when": {
                     "text": "32x16x32 cobblestone template"
                 },
                 "model": {

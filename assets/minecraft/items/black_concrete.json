@@ -49,6 +49,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/seed/cursed"
                 }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/cursed"
+                }
             }
         ]
     }

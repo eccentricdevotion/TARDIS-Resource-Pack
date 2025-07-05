@@ -737,18 +737,9 @@
         "cases": [
             {
                 "when": {
-                    "text": "",
-                    "extra": [
-                        {
-                            "bold": false,
-                            "color": "white",
-                            "italic": false,
-                            "obfuscated": false,
-                            "strikethrough": false,
-                            "text": "TARDIS Locator",
-                            "underlined": false
-                        }
-                    ]
+                    "italic": false,
+                    "text": "TARDIS Locator",
+                    "color": "white"
                 },
                 "model": {
                     "type": "minecraft:range_dispatch",
@@ -992,10 +983,7 @@
             },
             {
                 "when": {
-                    "text": "",
-                    "extra": [
-                        "Where am I?"
-                    ]
+                    "text": "Where am I?"
                 },
                 "model": {
                     "type": "minecraft:model",

@@ -38,6 +38,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/seed/legacy_eleventh"
                 }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/eleventh"
+                }
             }
         ]
     }

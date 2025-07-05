@@ -41,6 +41,15 @@
             },
             {
                 "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/eleventh"
+                }
+            },
+            {
+                "when": {
                     "text": "Effect Colour"
                 },
                 "model": {

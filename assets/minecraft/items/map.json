@@ -54,6 +54,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/tardis/monitor"
                 }
+            },
+            {
+                "when": {
+                    "text": "Load TARDIS saves"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/tardis_saves"
+                }
             }
         ]
     }

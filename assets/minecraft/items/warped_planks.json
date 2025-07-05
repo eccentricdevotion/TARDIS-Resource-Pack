@@ -38,6 +38,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/seed/copper"
                 }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/copper"
+                }
             }
         ]
     }

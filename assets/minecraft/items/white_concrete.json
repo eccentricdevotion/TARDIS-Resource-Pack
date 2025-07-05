@@ -41,6 +41,15 @@
             },
             {
                 "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/hospital"
+                }
+            },
+            {
+                "when": {
                     "color": "white",
                     "text": "White Console",
                     "italic": false

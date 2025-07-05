@@ -47,6 +47,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/seed/redstone"
                 }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/redstone"
+                }
             }
         ]
     }

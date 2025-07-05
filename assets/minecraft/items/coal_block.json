@@ -41,6 +41,15 @@
             },
             {
                 "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/steampunk"
+                }
+            },
+            {
+                "when": {
                     "text": "Light Levels"
                 },
                 "model": {
