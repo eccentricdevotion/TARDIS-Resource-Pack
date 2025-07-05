@@ -1,60 +1,60 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/map"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Load Selected Program In Editor"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/load_selected_program_in_editor"
-				}
-			},
-			{
-				"when": {
-					"text": "TARDIS Map"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/map/button_tardis_map"
-				}
-			},
-			{
-				"when": {
-					"text": "Load map"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/map/load_map"
-				}
-			},
-			{
-				"when": {
-					"text": "Load the map!"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/map/load_map"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "TARDIS Monitor",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/tardis/monitor"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/map"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Load Selected Program In Editor"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/load_selected_program_in_editor"
+                }
+            },
+            {
+                "when": {
+                    "text": "TARDIS Map"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/button_tardis_map"
+                }
+            },
+            {
+                "when": {
+                    "text": "Load map"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/load_map"
+                }
+            },
+            {
+                "when": {
+                    "text": "Load the map!"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/load_map"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "TARDIS Monitor",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/monitor"
+                }
+            }
+        ]
+    }
 }

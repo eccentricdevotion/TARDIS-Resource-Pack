@@ -1,40 +1,40 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/comparator"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Apply now"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/apply"
-				}
-			},
-			{
-				"when": {
-					"text": "The Master's reverse polarity button"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/button_master_off"
-				}
-			},
-			{
-				"when": {
-					"text": "Lights Console"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/lights/console"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/comparator"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Apply now"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/apply"
+                }
+            },
+            {
+                "when": {
+                    "text": "The Master's reverse polarity button"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/button_master_off"
+                }
+            },
+            {
+                "when": {
+                    "text": "Lights Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/lights/console"
+                }
+            }
+        ]
+    }
 }

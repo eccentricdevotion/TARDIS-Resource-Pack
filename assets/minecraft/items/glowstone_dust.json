@@ -498,9 +498,9 @@
                         130
                     ]
                 },
-                "model":{
-                    "type":"minecraft:model",
-                    "model":"tardis:item/circuit/gallifrey"
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/gallifrey"
                 }
             }
         ]

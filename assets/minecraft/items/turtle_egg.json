@@ -1,49 +1,49 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/turtle_egg"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Slitheen Left Claw"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/slitheen_claw_left"
-				}
-			},
-			{
-				"when": {
-					"text": "Slitheen Right Claw"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/slitheen_claw_right"
-				}
-			},
-			{
-				"when": {
-					"text": "Slitheen Head"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/monster/slitheen/slitheen_head"
-				}
-			},
-			{
-				"when": {
-					"text": "Slitheen"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/slitheen"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/turtle_egg"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Slitheen Left Claw"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/slitheen_claw_left"
+                }
+            },
+            {
+                "when": {
+                    "text": "Slitheen Right Claw"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/slitheen_claw_right"
+                }
+            },
+            {
+                "when": {
+                    "text": "Slitheen Head"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/monster/slitheen/slitheen_head"
+                }
+            },
+            {
+                "when": {
+                    "text": "Slitheen"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/slitheen"
+                }
+            }
+        ]
+    }
 }

@@ -1,62 +1,62 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/white_wool"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Bottom level"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/map/level_bottom"
-				}
-			},
-			{
-				"when": {
-					"text": "Main level"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/map/level_main"
-				}
-			},
-			{
-				"when": {
-					"text": "Top level"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/map/level_top"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Roundel",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/tardis/roundel"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Roundel Offset",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/tardis/roundel_offset"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/white_wool"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Bottom level"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/level_bottom"
+                }
+            },
+            {
+                "when": {
+                    "text": "Main level"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/level_main"
+                }
+            },
+            {
+                "when": {
+                    "text": "Top level"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/level_top"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Roundel",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/roundel"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Roundel Offset",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/roundel_offset"
+                }
+            }
+        ]
+    }
 }

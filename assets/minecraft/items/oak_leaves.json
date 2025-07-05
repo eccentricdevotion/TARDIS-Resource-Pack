@@ -1,31 +1,28 @@
 {
-   "model": {
-     "type": "minecraft:select",
-     "property": "component",
-     "component": "minecraft:custom_name",
-     "fallback": {
-       "type": "minecraft:model",
-       "model": "minecraft:block/oak_leaves",
-       "tints": [
-          {
-            "type": "minecraft:constant",
-            "value": -12012264
-          }
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/oak_leaves",
+            "tints": [
+                {
+                    "type": "minecraft:constant",
+                    "value": -12012264
+                }
+            ]
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Arboretum"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/arboretum"
+                }
+            }
         ]
-     },
-     "cases": [
-       {
-         "when": {
-           "text": "",
-           "extra": [
-               "Arboretum"
-           ]
-         },
-         "model": {
-           "type": "minecraft:model",
-           "model": "tardis:item/gui/room/arboretum"
-         }
-       }
-     ]
-   }
- }
+    }
+}

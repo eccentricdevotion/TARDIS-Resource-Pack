@@ -1,40 +1,40 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/potato"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Sontaran"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/sontaran"
-				}
-			},
-			{
-				"when": {
-					"text": "Sontaran Ears"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/sontaran_ears"
-				}
-			},
-			{
-				"when": {
-					"text": "Strax Ears"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/strax_ears"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/potato"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Sontaran"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/sontaran"
+                }
+            },
+            {
+                "when": {
+                    "text": "Sontaran Ears"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/sontaran_ears"
+                }
+            },
+            {
+                "when": {
+                    "text": "Strax Ears"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/strax_ears"
+                }
+            }
+        ]
+    }
 }

@@ -1,49 +1,49 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/music_disc_chirp"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "white",
-					"text": "Save Storage Disk",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/disks/save_disk"
-				}
-			},
-			{
-				"when": "Saves",
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/disks/save_disk"
-				}
-			},
-			{
-				"when": {
-					"text": "Saves 1"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/disks/save_disk"
-				}
-			},
-			{
-				"when": {
-					"text": "Saves 2"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/disks/save_disk"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/music_disc_chirp"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Save Storage Disk",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/save_disk"
+                }
+            },
+            {
+                "when": "Saves",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/save_disk"
+                }
+            },
+            {
+                "when": {
+                    "text": "Saves 1"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/save_disk"
+                }
+            },
+            {
+                "when": {
+                    "text": "Saves 2"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/save_disk"
+                }
+            }
+        ]
+    }
 }

@@ -1,129 +1,129 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/sea_lantern"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Blue Lamp"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/blue_lamp_on"
-				}
-			},
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/sea_lantern"
+        },
+        "cases": [
             {
-				"when": {
-					"text": "Green Lamp"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/green_lamp_on"
-				}
-			},
+                "when": {
+                    "text": "Blue Lamp"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/blue_lamp_on"
+                }
+            },
             {
-				"when": {
-					"text": "Purple Lamp"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/purple_lamp_on"
-				}
-			},
+                "when": {
+                    "text": "Green Lamp"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/green_lamp_on"
+                }
+            },
             {
-				"when": {
-					"text": "Red Lamp"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/red_lamp_on"
-				}
-			},
+                "when": {
+                    "text": "Purple Lamp"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/purple_lamp_on"
+                }
+            },
             {
-				"when": {
-					"text": "Classic"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/classic_on"
-				}
-			},
+                "when": {
+                    "text": "Red Lamp"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/red_lamp_on"
+                }
+            },
             {
-				"when": {
-					"text": "Classic Offset"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/classic_offset_on"
-				}
-			},
+                "when": {
+                    "text": "Classic"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/classic_on"
+                }
+            },
             {
-				"when": {
-					"text": "Twelfth"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/twelfth_on"
-				}
-			},
+                "when": {
+                    "text": "Classic Offset"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/classic_offset_on"
+                }
+            },
             {
-				"when": {
-					"text": "Thirteenth"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/thirteenth_on"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Light Classic Offset On",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/classic_offset_on"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Light Classic On",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/classic_on"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Light Thirteenth On",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/thirteenth_on"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Light Twelfth On",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/twelfth_on"
-				}
-			}
+                "when": {
+                    "text": "Twelfth"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/twelfth_on"
+                }
+            },
+            {
+                "when": {
+                    "text": "Thirteenth"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/thirteenth_on"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Classic Offset On",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/classic_offset_on"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Classic On",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/classic_on"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Thirteenth On",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/thirteenth_on"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Twelfth On",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/twelfth_on"
+                }
+            }
         ]
     }
 }

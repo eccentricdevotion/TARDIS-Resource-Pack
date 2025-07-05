@@ -1,31 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/spruce_button_inventory"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Wood Cyber Weapon"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/wood_cyber_weapon"
-				}
-			},
-			{
-				"when": {
-					"text": "Wooden Cyberman"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/wood_cyberman_features"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/spruce_button_inventory"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Wood Cyber Weapon"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/wood_cyber_weapon"
+                }
+            },
+            {
+                "when": {
+                    "text": "Wooden Cyberman"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/wood_cyberman_features"
+                }
+            }
+        ]
+    }
 }

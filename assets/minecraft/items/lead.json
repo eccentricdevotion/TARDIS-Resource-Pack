@@ -1,22 +1,22 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/lead"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Disguise Options"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/button_opts"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/lead"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Disguise Options"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/button_opts"
+                }
+            }
+        ]
+    }
 }

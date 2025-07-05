@@ -1,134 +1,134 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_model_data",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/diamond_pickaxe"
-		},
-		"cases": [
-			{
-				"when": {
-					"floats": [
-						10
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_ten"
-				}
-			},
-			{
-				"when": {
-					"floats": [
-						20
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_twenty"
-				}
-			},
-			{
-				"when": {
-					"floats": [
-						30
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_thirty"
-				}
-			},
-			{
-				"when": {
-					"floats": [
-						40
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_forty"
-				}
-			},
-			{
-				"when": {
-					"floats": [
-						50
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_fifty"
-				}
-			},
-			{
-				"when": {
-					"floats": [
-						60
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_sixty"
-				}
-			},
-			{
-				"when": {
-					"floats": [
-						70
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_seventy"
-				}
-			},
-			{
-				"when": {
-					"floats": [
-						80
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_eighty"
-				}
-			},
-			{
-				"when": {
-					"floats": [
-						90
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_ninety"
-				}
-			},
-			{
-				"when": {
-					"floats": [
-						100
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_hundred"
-				}
-			},
-			{
-				"when": {
-					"floats": [
-						1
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/percent_zero"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_model_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/diamond_pickaxe"
+        },
+        "cases": [
+            {
+                "when": {
+                    "floats": [
+                        10
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_ten"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        20
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_twenty"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        30
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_thirty"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        40
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_forty"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        50
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_fifty"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        60
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_sixty"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        70
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_seventy"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        80
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_eighty"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        90
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_ninety"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        100
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_hundred"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        1
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/percent_zero"
+                }
+            }
+        ]
+    }
 }

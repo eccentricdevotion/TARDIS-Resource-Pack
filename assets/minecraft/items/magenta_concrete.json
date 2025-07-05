@@ -1,46 +1,46 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/magenta_concrete"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "white",
-					"text": "Magenta Console",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/console/console_magenta"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Reducer",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/reducer"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Material Reducer",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/reducer"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/magenta_concrete"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Magenta Console",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/console/console_magenta"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Reducer",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/reducer"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Material Reducer",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/reducer"
+                }
+            }
+        ]
+    }
 }

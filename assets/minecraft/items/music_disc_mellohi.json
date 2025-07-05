@@ -5,16 +5,18 @@
         "component": "minecraft:custom_name",
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/sunflower"
+            "model": "minecraft:item/music_disc_mellohi"
         },
         "cases": [
             {
                 "when": {
-                    "text": "Clear"
+                    "color": "white",
+                    "text": "TARDIS Blueprint Disk",
+                    "italic": false
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/gui/clear"
+                    "model": "tardis:item/disks/blueprint_disk"
                 }
             }
         ]

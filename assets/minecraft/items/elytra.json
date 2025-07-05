@@ -1,22 +1,22 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/elytra"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Flight Mode"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/flight_mode"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/elytra"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Flight Mode"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/flight_mode"
+                }
+            }
+        ]
+    }
 }

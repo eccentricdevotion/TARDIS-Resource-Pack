@@ -1,24 +1,24 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/gray_dye"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "white",
-					"text": "Electron Microscope",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/equipment/electron_microscope"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/gray_dye"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Electron Microscope",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/equipment/electron_microscope"
+                }
+            }
+        ]
+    }
 }

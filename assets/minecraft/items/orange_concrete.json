@@ -1,66 +1,46 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/orange_concrete"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "gold",
-					"text": "TARDIS Seed Block",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/thirteenth"
-				}
-			},
-			{
-				"when": {
-					"text": "13th Doctor's Console"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/thirteenth"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Compound",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/compound"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Chemical Compounds",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/compound"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Orange Console",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/console/console_orange"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/orange_concrete"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Compound",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/compound"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Chemical Compounds",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/compound"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Orange Console",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/console/console_orange"
+                }
+            }
+        ]
+    }
 }

@@ -1,24 +1,24 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/flint"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "white",
-					"text": "Stattenheim Remote",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/tardis/stattenheim_remote"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/flint"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Stattenheim Remote",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/stattenheim_remote"
+                }
+            }
+        ]
+    }
 }

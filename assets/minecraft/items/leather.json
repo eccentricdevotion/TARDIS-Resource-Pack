@@ -1,121 +1,121 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/leather"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Ace"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/ace_ponytail"
-				}
-			},
-			{
-				"when": {
-					"text": "Angel of Liberty"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/angel_of_liberty_crown"
-				}
-			},
-			{
-				"when": {
-					"text": "Brigadier Lethbridge-Stewart"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/brigadier_lethbridge_stewart_hat"
-				}
-			},
-			{
-				"when": {
-					"text": "Cybershade"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/cybershade_ears"
-				}
-			},
-			{
-				"when": {
-					"text": "Katana"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/jenny_flint_katana"
-				}
-			},
-			{
-				"when": {
-					"text": "Jo Grant"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/jo_grant_hair"
-				}
-			},
-			{
-				"when": {
-					"text": "Martha Jones"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/martha_jones_hair"
-				}
-			},
-			{
-				"when": {
-					"text": "Omega"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/omega_frill"
-				}
-			},
-			{
-				"when": {
-					"text": "Racnoss"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/racnoss_features"
-				}
-			},
-			{
-				"when": {
-					"text": "Sutekh"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/sutekh_features"
-				}
-			},
-			{
-				"when": {
-					"text": "Sycorax"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/sycorax_cape"
-				}
-			},
-			{
-				"when": {
-					"text": "The Beast"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/the_beast_horns"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/leather"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Ace"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/ace_ponytail"
+                }
+            },
+            {
+                "when": {
+                    "text": "Angel of Liberty"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/angel_of_liberty_crown"
+                }
+            },
+            {
+                "when": {
+                    "text": "Brigadier Lethbridge-Stewart"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/brigadier_lethbridge_stewart_hat"
+                }
+            },
+            {
+                "when": {
+                    "text": "Cybershade"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/cybershade_ears"
+                }
+            },
+            {
+                "when": {
+                    "text": "Katana"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/jenny_flint_katana"
+                }
+            },
+            {
+                "when": {
+                    "text": "Jo Grant"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/jo_grant_hair"
+                }
+            },
+            {
+                "when": {
+                    "text": "Martha Jones"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/martha_jones_hair"
+                }
+            },
+            {
+                "when": {
+                    "text": "Omega"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/omega_frill"
+                }
+            },
+            {
+                "when": {
+                    "text": "Racnoss"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/racnoss_features"
+                }
+            },
+            {
+                "when": {
+                    "text": "Sutekh"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/sutekh_features"
+                }
+            },
+            {
+                "when": {
+                    "text": "Sycorax"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/sycorax_cape"
+                }
+            },
+            {
+                "when": {
+                    "text": "The Beast"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/the_beast_horns"
+                }
+            }
+        ]
+    }
 }

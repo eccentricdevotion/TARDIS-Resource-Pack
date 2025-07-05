@@ -1,31 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/yellow_glazed_terracotta"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Bird Cage"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/birdcage"
-				}
-			},
-			{
-				"when": {
-					"text": "Bird"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/birdcage"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/yellow_glazed_terracotta"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Bird Cage"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/birdcage"
+                }
+            },
+            {
+                "when": {
+                    "text": "Bird"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/birdcage"
+                }
+            }
+        ]
+    }
 }

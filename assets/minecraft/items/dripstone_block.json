@@ -1,33 +1,44 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/dripstone_block"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "gold",
-					"text": "TARDIS Seed Block",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/cave"
-				}
-			},
-			{
-				"when": {
-					"text": "Cave Console"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/cave"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/dripstone_block"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/cave"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Cave",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/cave"
+                }
+            },
+            {
+                "when": {
+                    "text": "Cave Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/cave"
+                }
+            }
+        ]
+    }
 }

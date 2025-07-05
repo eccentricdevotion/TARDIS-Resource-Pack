@@ -1,31 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/end_stone"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "4th Doctor's Secondary Console"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/baker"
-				}
-			},
-			{
-				"when": {
-					"text": "Silent"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/silent"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/end_stone"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "4th Doctor's Secondary Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/baker"
+                }
+            },
+            {
+                "when": {
+                    "text": "Silent"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/silent"
+                }
+            }
+        ]
+    }
 }

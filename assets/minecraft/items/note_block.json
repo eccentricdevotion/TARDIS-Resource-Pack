@@ -1,24 +1,24 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/note_block"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "white",
-					"text": "Disk Storage",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/tardis/disk_storage"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/note_block"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Disk Storage",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/disk_storage"
+                }
+            }
+        ]
+    }
 }

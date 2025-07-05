@@ -1,33 +1,44 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/cyan_glazed_terracotta"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "gold",
-					"text": "TARDIS Seed Block",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/legacy_eleventh"
-				}
-			},
-			{
-				"when": {
-					"text": "Legacy 11th Doctor's Console"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/legacy_eleventh"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/cyan_glazed_terracotta"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/legacy_eleventh"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Legacy Eleventh",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/legacy_eleventh"
+                }
+            },
+            {
+                "when": {
+                    "text": "Legacy 11th Doctor's Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/legacy_eleventh"
+                }
+            }
+        ]
+    }
 }

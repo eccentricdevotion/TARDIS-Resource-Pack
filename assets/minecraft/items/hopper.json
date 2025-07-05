@@ -1,31 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/hopper"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Age"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/button_age"
-				}
-			},
-			{
-				"when": {
-					"text": "Rail Transfer Station"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/rail"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/hopper"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Age"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/button_age"
+                }
+            },
+            {
+                "when": {
+                    "text": "Rail Transfer Station"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/rail"
+                }
+            }
+        ]
+    }
 }

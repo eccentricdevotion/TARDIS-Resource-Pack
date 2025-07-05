@@ -1,25 +1,22 @@
 {
-   "model": {
-     "type": "minecraft:select",
-     "property": "component",
-     "component": "minecraft:custom_name",
-     "fallback": {
-       "type": "minecraft:model",
-       "model": "minecraft:block/cherry_leaves"
-     },
-     "cases": [
-       {
-         "when": {
-           "text": "",
-           "extra": [
-               "Flower Garden"
-           ]
-         },
-         "model": {
-           "type": "minecraft:model",
-           "model": "tardis:item/gui/room/garden"
-         }
-       }
-     ]
-   }
- }
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/cherry_leaves"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Flower Garden"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/garden"
+                }
+            }
+        ]
+    }
+}

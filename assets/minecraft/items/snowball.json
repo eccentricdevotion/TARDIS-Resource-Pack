@@ -1,31 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/snowball"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Ice Warrior"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/ice_warrior"
-				}
-			},
-			{
-				"when": {
-					"text": "Ice Warrior Crest"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/ice_warrior_crest"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/snowball"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Ice Warrior"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/ice_warrior"
+                }
+            },
+            {
+                "when": {
+                    "text": "Ice Warrior Crest"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/ice_warrior_crest"
+                }
+            }
+        ]
+    }
 }

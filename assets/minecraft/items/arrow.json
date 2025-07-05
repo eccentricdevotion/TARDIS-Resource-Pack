@@ -1,177 +1,177 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/arrow"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Fast Return"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/back"
-				}
-			},
-			{
-				"when": {
-					"text": "Back to Chameleon Circuit"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/back"
-				}
-			},
-			{
-				"when": {
-					"text": "Back to construction"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/back"
-				}
-			},
-			{
-				"when": {
-					"text": "Back to help"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/back"
-				}
-			},
-			{
-				"when": {
-					"text": "Go"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/arrow/go"
-				}
-			},
-			{
-				"when": {
-					"text": "Less"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/arrow/less"
-				}
-			},
-			{
-				"when": {
-					"text": "More"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/arrow/more"
-				}
-			},
-			{
-				"when": {
-					"text": "Go to page 1"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/page_one"
-				}
-			},
-			{
-				"when": {
-					"text": "Go to page 2"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/page_two"
-				}
-			},
-			{
-				"when": {
-					"text": "Go to construction..."
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/next"
-				}
-			},
-			{
-				"when": {
-					"text": "Rearrange"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/arrow/rearrange"
-				}
-			},
-			{
-				"when": {
-					"text": "Scroll down"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/arrow/scroll_down"
-				}
-			},
-			{
-				"when": {
-					"text": "Scroll up"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/arrow/scroll_up"
-				}
-			},
-			{
-				"when": {
-					"text": "Addition operator"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/handles/handles_operator_addition"
-				}
-			},
-			{
-				"when": {
-					"text": "Subtraction operator"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/handles/handles_operator_subtraction"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Judoon Ammunition",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/monster/judoon/judoon_ammo"
-				}
-			},
-			{
-				"when": {
-					"text": "Next page"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/next"
-				}
-			},
-			{
-				"when": {
-					"text": "Previous page"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/vortex_manipulator/prev"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/arrow"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Fast Return"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/back"
+                }
+            },
+            {
+                "when": {
+                    "text": "Back to Chameleon Circuit"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/back"
+                }
+            },
+            {
+                "when": {
+                    "text": "Back to construction"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/back"
+                }
+            },
+            {
+                "when": {
+                    "text": "Back to help"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/back"
+                }
+            },
+            {
+                "when": {
+                    "text": "Go"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/go"
+                }
+            },
+            {
+                "when": {
+                    "text": "Less"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/less"
+                }
+            },
+            {
+                "when": {
+                    "text": "More"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/more"
+                }
+            },
+            {
+                "when": {
+                    "text": "Go to page 1"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/page_one"
+                }
+            },
+            {
+                "when": {
+                    "text": "Go to page 2"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/page_two"
+                }
+            },
+            {
+                "when": {
+                    "text": "Go to construction..."
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/next"
+                }
+            },
+            {
+                "when": {
+                    "text": "Rearrange"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/rearrange"
+                }
+            },
+            {
+                "when": {
+                    "text": "Scroll down"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/scroll_down"
+                }
+            },
+            {
+                "when": {
+                    "text": "Scroll up"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/scroll_up"
+                }
+            },
+            {
+                "when": {
+                    "text": "Addition operator"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/handles/handles_operator_addition"
+                }
+            },
+            {
+                "when": {
+                    "text": "Subtraction operator"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/handles/handles_operator_subtraction"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Judoon Ammunition",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/monster/judoon/judoon_ammo"
+                }
+            },
+            {
+                "when": {
+                    "text": "Next page"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/next"
+                }
+            },
+            {
+                "when": {
+                    "text": "Previous page"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/vortex_manipulator/prev"
+                }
+            }
+        ]
+    }
 }

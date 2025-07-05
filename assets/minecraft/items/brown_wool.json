@@ -1,33 +1,33 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/brown_wool"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "white",
-					"text": "The Moment",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/tardis/the_moment"
-				}
-			},
-			{
-				"when": {
-					"text": "Cybershade"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/cybershade"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/brown_wool"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "The Moment",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/the_moment"
+                }
+            },
+            {
+                "when": {
+                    "text": "Cybershade"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/cybershade"
+                }
+            }
+        ]
+    }
 }

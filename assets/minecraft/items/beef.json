@@ -1,31 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/beef"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Nimon Horns"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/nimon_horns"
-				}
-			},
-			{
-				"when": {
-					"text": "Nimon"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/nimon"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/beef"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Nimon Horns"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/nimon_horns"
+                }
+            },
+            {
+                "when": {
+                    "text": "Nimon"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/nimon"
+                }
+            }
+        ]
+    }
 }

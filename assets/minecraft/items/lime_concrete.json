@@ -1,46 +1,46 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/lime_concrete"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "white",
-					"text": "Lime Console",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/console/console_lime"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Product",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/product"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Product Crafting",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/product"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/lime_concrete"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Lime Console",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/console/console_lime"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Product",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/product"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Product Crafting",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/product"
+                }
+            }
+        ]
+    }
 }

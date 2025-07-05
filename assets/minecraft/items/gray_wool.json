@@ -1,117 +1,117 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/gray_wool"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "white",
-					"text": "Cog",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/tardis/cog"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Light Classic Offset",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/classic_offset"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Light Classic",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/classic"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Light Eleventh",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/eleventh"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Light Tenth",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/tenth"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Light Thirteenth",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/thirteenth"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Light Twelfth",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/twelfth"
-				}
-			},
-			{
-				"when": {
-					"text": "Not upgraded"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/sonic/not_upgraded"
-				}
-			},
-			{
-				"when": {
-					"text": "Place Sonic"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/sonic/place"
-				}
-			},
-			{
-				"when": {
-					"text": " "
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/sonic/waiting"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/gray_wool"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Cog",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/cog"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Classic Offset",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/classic_offset"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Classic",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/classic"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Eleventh",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/eleventh"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Tenth",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/tenth"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Thirteenth",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/thirteenth"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Twelfth",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/twelfth"
+                }
+            },
+            {
+                "when": {
+                    "text": "Not upgraded"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/sonic/not_upgraded"
+                }
+            },
+            {
+                "when": {
+                    "text": "Place Sonic"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/sonic/place"
+                }
+            },
+            {
+                "when": {
+                    "text": " "
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/sonic/waiting"
+                }
+            }
+        ]
+    }
 }

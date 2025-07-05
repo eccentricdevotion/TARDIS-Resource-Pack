@@ -1,33 +1,44 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/copper_block"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "gold",
-					"text": "TARDIS Seed Block",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/copper"
-				}
-			},
-			{
-				"when": {
-					"text": "11th Doctor's Copper Console"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/copper"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/copper_block"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/copper"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Copper",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/copper"
+                }
+            },
+            {
+                "when": {
+                    "text": "11th Doctor's Copper Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/copper"
+                }
+            }
+        ]
+    }
 }

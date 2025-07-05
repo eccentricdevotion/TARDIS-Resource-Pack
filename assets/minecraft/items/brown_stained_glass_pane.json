@@ -1,58 +1,58 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/brown_stained_glass_pane"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Characters"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/character"
-				}
-			},
-			{
-				"when": {
-					"text": "Companions"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/companion"
-				}
-			},
-			{
-				"when": {
-					"text": "Cybermen"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/cyberman"
-				}
-			},
-			{
-				"when": {
-					"text": "Doctors"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/doctor"
-				}
-			},
-			{
-				"when": {
-					"text": "Monsters"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/monster"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/brown_stained_glass_pane"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Characters"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/character"
+                }
+            },
+            {
+                "when": {
+                    "text": "Companions"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/companion"
+                }
+            },
+            {
+                "when": {
+                    "text": "Cybermen"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/cyberman"
+                }
+            },
+            {
+                "when": {
+                    "text": "Doctors"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/doctor"
+                }
+            },
+            {
+                "when": {
+                    "text": "Monsters"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/monster"
+                }
+            }
+        ]
+    }
 }

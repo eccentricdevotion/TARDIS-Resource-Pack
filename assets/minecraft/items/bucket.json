@@ -1,82 +1,82 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/bucket"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "white",
-					"text": "Artron Capacitor",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/tardis/artron_capacitor"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Damaged Artron Capacitor",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/tardis/artron_capacitor_damaged"
-				}
-			},
-			{
-				"when": {
-					"color": "white",
-					"text": "Artron Storage Cell",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/tardis/artron_battery"
-				}
-			},
-			{
-				"when": {
-					"text": "Deactivate"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bucket/deactivate"
-				}
-			},
-			{
-				"when": {
-					"text": "Delete"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bucket/delete"
-				}
-			},
-			{
-				"when": {
-					"text": "Delete selected shell"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bucket/delete"
-				}
-			},
-			{
-				"when": {
-					"text": "Remove skin"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bucket/remove"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bucket"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Artron Capacitor",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/artron_capacitor"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Damaged Artron Capacitor",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/artron_capacitor_damaged"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Artron Storage Cell",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/artron_battery"
+                }
+            },
+            {
+                "when": {
+                    "text": "Deactivate"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bucket/deactivate"
+                }
+            },
+            {
+                "when": {
+                    "text": "Delete"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bucket/delete"
+                }
+            },
+            {
+                "when": {
+                    "text": "Delete selected shell"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bucket/delete"
+                }
+            },
+            {
+                "when": {
+                    "text": "Remove skin"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bucket/remove"
+                }
+            }
+        ]
+    }
 }

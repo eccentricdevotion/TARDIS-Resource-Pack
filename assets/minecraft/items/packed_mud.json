@@ -1,33 +1,44 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/packed_mud"
-		},
-		"cases": [
-			{
-				"when": {
-					"color": "gold",
-					"text": "TARDIS Seed Block",
-					"italic": false
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/original"
-				}
-			},
-			{
-				"when": {
-					"text": "The original TARDIS plugin Console"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/original"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/packed_mud"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/original"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Original",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/original"
+                }
+            },
+            {
+                "when": {
+                    "text": "The original TARDIS plugin Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/original"
+                }
+            }
+        ]
+    }
 }

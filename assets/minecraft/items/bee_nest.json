@@ -1,31 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/bee_nest_honey"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "Apiary"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/apiary"
-				}
-			},
-			{
-				"when": {
-					"text": "Bee"
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/apiary"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/bee_nest_honey"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Apiary"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/apiary"
+                }
+            },
+            {
+                "when": {
+                    "text": "Bee"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/apiary"
+                }
+            }
+        ]
+    }
 }
