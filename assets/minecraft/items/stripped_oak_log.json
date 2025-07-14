@@ -1,0 +1,37 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/stripped_oak_log"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "",
+                    "extra": [
+                        "Happy"
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/happy"
+                }
+            },
+            {
+                "when": {
+                    "text": "",
+                    "extra": [
+                        "Happy Ghast Dock"
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/happy"
+                }
+            }
+        ]
+    }
+}
