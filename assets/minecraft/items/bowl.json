@@ -656,20 +656,12 @@
                             "obfuscated": true
                         },
                         {
-                            "underlined": false,
-                            "text": "Random Location",
-                            "strikethrough": false,
-                            "bold": false,
                             "obfuscated": false,
-                            "italic": false
+                            "text": "Random Location"
                         },
                         {
-                            "underlined": false,
                             "text": "dom",
-                            "strikethrough": false,
-                            "bold": false,
-                            "obfuscated": true,
-                            "italic": false
+                            "obfuscated": true
                         }
                     ]
                 },

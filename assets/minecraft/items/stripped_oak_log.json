@@ -10,10 +10,7 @@
         "cases": [
             {
                 "when": {
-                    "text": "",
-                    "extra": [
-                        "Happy"
-                    ]
+                    "text": "Happy"
                 },
                 "model": {
                     "type": "minecraft:model",
@@ -22,10 +19,7 @@
             },
             {
                 "when": {
-                    "text": "",
-                    "extra": [
-                        "Happy Ghast Dock"
-                    ]
+                    "text": "Happy Ghast Dock"
                 },
                 "model": {
                     "type": "minecraft:model",
