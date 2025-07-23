@@ -1151,6 +1151,28 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/genetic/button_master_on"
                 }
+            },
+            {
+                "when": {
+                    "floats": [
+                        153
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/repeater/open_display_door_on"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        253
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/repeater/open_display_door_off"
+                }
             }
         ]
     }
