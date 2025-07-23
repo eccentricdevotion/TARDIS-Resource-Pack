@@ -1160,7 +1160,7 @@
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/gui/repeater/open_display_door_on"
+                    "model": "tardis:item/gui/repeater/open_display_door_off"
                 }
             },
             {
@@ -1171,7 +1171,29 @@
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/gui/repeater/open_display_door_off"
+                    "model": "tardis:item/gui/repeater/open_display_door_on"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        154
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/repeater/display_door_closed"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        254
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/repeater/display_door_open"
                 }
             }
         ]
