@@ -1195,6 +1195,28 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/gui/repeater/display_door_open"
                 }
+            },
+            {
+                "when": {
+                    "floats": [
+                        155
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/repeater/dialogs_off"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        255
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/repeater/dialogs_on"
+                }
             }
         ]
     }

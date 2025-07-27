@@ -28,6 +28,15 @@
             },
             {
                 "when": {
+                    "text": "General Preferences Menu"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/player"
+                }
+            },
+            {
+                "when": {
                     "text": "Player Preferences"
                 },
                 "model": {
