@@ -1217,6 +1217,50 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/gui/repeater/dialogs_on"
                 }
+            },
+            {
+                "when": {
+                    "floats": [
+                        156
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/repeater/console_labels_off"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        256
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/repeater/console_labels_on"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        157
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/repeater/isometric_off"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        257
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/repeater/isometric_on"
+                }
             }
         ]
     }
