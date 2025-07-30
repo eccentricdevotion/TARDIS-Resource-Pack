@@ -43,6 +43,30 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/disks/save_disk"
                 }
+            },
+            {
+                "when": {
+                    "text": "",
+					"extra": [
+						"Saves 1"
+					]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/save_disk"
+                }
+            },
+            {
+                "when": {
+                    "text": "",
+					"extra": [
+						"Saves 2"
+					]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/save_disk"
+                }
             }
         ]
     }

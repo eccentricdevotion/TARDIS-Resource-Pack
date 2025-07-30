@@ -43,7 +43,31 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/disks/biome_disk"
                 }
-            }
+            },
+            {
+				"when": {
+					"text": "",
+					"extra": [
+						"Biomes 1"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/disks/biome_disk"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						"Biomes 2"
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/disks/biome_disk"
+				}
+			}
         ]
     }
 }

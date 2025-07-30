@@ -550,6 +550,18 @@
             },
             {
                 "when": {
+                    "text": "",
+                    "extra": [
+                        "Next Page"
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/next"
+                }
+            },
+            {
+                "when": {
                     "text": "9"
                 },
                 "model": {
@@ -632,6 +644,18 @@
             {
                 "when": {
                     "text": "Previous Page"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/prev"
+                }
+            },
+            {
+                "when": {
+                    "text": "",
+					"extra": [
+						"Previous Page"
+					]
                 },
                 "model": {
                     "type": "minecraft:model",

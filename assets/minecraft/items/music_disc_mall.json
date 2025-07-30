@@ -43,6 +43,30 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/disks/preset_disk"
                 }
+            },
+            {
+                "when": {
+                    "text": "",
+					"extra": [
+						"Presets 1"
+					]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/preset_disk"
+                }
+            },
+            {
+                "when": {
+                    "text": "",
+					"extra": [
+						"Presets 2"
+					]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/preset_disk"
+                }
             }
         ]
     }
