@@ -25,6 +25,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/gui/room/happy"
                 }
+            },
+            {
+                "when": {
+                    "text": "Happy Ghast"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/happy"
+                }
             }
         ]
     }
