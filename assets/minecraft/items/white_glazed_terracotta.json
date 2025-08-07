@@ -1,37 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/white_glazed_terracotta"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Camel Stable"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/iistubil"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Camel"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/iistubil"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/white_glazed_terracotta"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Camel Stable"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/iistubil"
+                }
+            },
+            {
+                "when": {
+                    "text": "Camel"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/iistubil"
+                }
+            }
+        ]
+    }
 }

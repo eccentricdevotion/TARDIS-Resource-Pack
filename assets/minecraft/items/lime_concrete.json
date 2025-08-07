@@ -1,73 +1,46 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/lime_concrete"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Lime Console",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/console/console_lime"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Product",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/product"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Product Crafting",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/chemistry/product"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/lime_concrete"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Lime Console",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/console/console_lime"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Product",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/product"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Product Crafting",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/chemistry/product"
+                }
+            }
+        ]
+    }
 }

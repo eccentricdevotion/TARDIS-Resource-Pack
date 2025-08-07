@@ -1,49 +1,49 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/nether_star"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Add Companion"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/add_companion"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Admin Config Menu"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/admin"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Player Preferences"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/button_prefs"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/nether_star"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Add Companion"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/add_companion"
+                }
+            },
+            {
+                "when": {
+                    "text": "Admin Config Menu"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/admin"
+                }
+            },
+            {
+                "when": {
+                    "text": "General Preferences Menu"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/player"
+                }
+            },
+            {
+                "when": {
+                    "text": "Player Preferences"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/button_prefs"
+                }
+            }
+        ]
+    }
 }

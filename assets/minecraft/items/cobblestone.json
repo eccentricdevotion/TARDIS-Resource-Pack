@@ -1,69 +1,71 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/cobblestone"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Standard Sonic"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/standard_sonic"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Reset selected"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/bowl/standard_sonic"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/medium"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"32x16x32 cobblestone template"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/medium"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/cobblestone"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Standard Sonic"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/standard_sonic"
+                }
+            },
+            {
+                "when": {
+                    "text": "Reset selected"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/standard_sonic"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/medium"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Medium",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/medium"
+                }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/medium"
+                }
+            },
+            {
+                "when": {
+                    "text": "32x16x32 cobblestone template"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/medium"
+                }
+            }
+        ]
+    }
 }

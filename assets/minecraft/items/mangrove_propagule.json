@@ -1,37 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/mangrove_propagule"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Dalek Sec Tentacles"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lazarus/dalek_sec_tentacles"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Dalek Sec"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/dalek_sec"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/mangrove_propagule"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Dalek Sec Tentacles"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/dalek_sec_tentacles"
+                }
+            },
+            {
+                "when": {
+                    "text": "Dalek Sec"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/dalek_sec"
+                }
+            }
+        ]
+    }
 }

@@ -1,37 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/dirt"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Mob Farm"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/farm"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Cow & Mooshroom, Sheep, Pig, Chicken"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/farm"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/dirt"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Mob Farm"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/farm"
+                }
+            },
+            {
+                "when": {
+                    "text": "Cow & Mooshroom, Sheep, Pig, Chicken"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/farm"
+                }
+            }
+        ]
+    }
 }

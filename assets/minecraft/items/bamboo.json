@@ -1,37 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/bamboo"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Bamboo"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/bamboo"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Panda"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/room/bamboo"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bamboo"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Bamboo"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/bamboo"
+                }
+            },
+            {
+                "when": {
+                    "text": "Panda"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/bamboo"
+                }
+            }
+        ]
+    }
 }

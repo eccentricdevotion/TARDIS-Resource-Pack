@@ -1,37 +1,31 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/bone_meal"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Product Super Fertiliser"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/products/super_fertiliser"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Sycorax"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/genetic/sycorax"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bone_meal"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Product Super Fertiliser"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/products/super_fertiliser"
+                }
+            },
+            {
+                "when": {
+                    "text": "Sycorax"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/genetic/sycorax"
+                }
+            }
+        ]
+    }
 }

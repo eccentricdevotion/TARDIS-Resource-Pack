@@ -1,25 +1,22 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/soul_lantern"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Lights Exterior"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/lights/exterior"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/soul_lantern"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Lights Exterior"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/lights/exterior"
+                }
+            }
+        ]
+    }
 }

@@ -1,33 +1,24 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/copper_bulb"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Light Bulb",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/lights/bulb"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/copper_bulb"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Bulb",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/bulb"
+                }
+            }
+        ]
+    }
 }

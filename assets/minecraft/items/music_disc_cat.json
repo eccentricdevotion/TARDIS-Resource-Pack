@@ -1,41 +1,50 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/music_disc_cat"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Biome Storage Disk",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/disks/biome_disk"
-				}
-			},
-			{
-				"when": "Biomes",
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/disks/biome_disk"
-				}
-			},
-			{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/music_disc_cat"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Biome Storage Disk",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/biome_disk"
+                }
+            },
+            {
+                "when": "Biomes",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/biome_disk"
+                }
+            },
+            {
+                "when": {
+                    "text": "Biomes 1"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/biome_disk"
+                }
+            },
+            {
+                "when": {
+                    "text": "Biomes 2"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/biome_disk"
+                }
+            },
+            {
 				"when": {
 					"text": "",
 					"extra": [
@@ -59,6 +68,6 @@
 					"model": "tardis:item/disks/biome_disk"
 				}
 			}
-		]
-	}
+        ]
+    }
 }

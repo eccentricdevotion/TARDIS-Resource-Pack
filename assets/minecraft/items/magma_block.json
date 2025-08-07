@@ -1,95 +1,74 @@
 {
-    "model":{
-        "type":"minecraft:select",
-        "property":"component",
-        "component":"minecraft:custom_name",
-        "fallback":{
-            "type":"minecraft:model",
-            "model":"minecraft:block/magma_block"
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/magma_block"
         },
-        "cases":[
+        "cases": [
             {
-                "when":{
-                    "text":"",
-                    "extra":[
-                        "Lava"
-                    ]
+                "when": {
+                    "text": "Lava"
                 },
-                "model":{
-                    "type":"minecraft:model",
-                    "model":"tardis:item/gui/room/lava"
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/lava"
                 }
             },
             {
-                "when":{
-                    "text":"",
-                    "extra":[
-                        "Strider"
-                    ]
+                "when": {
+                    "text": "Strider"
                 },
-                "model":{
-                    "type":"minecraft:model",
-                    "model":"tardis:item/gui/room/lava"
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/lava"
                 }
             },
             {
-                "when":{
-                    "text":"",
-                    "extra":[
-                        "Sphere Normal"
-                    ]
+                "when": {
+                    "text": "Sphere Normal"
                 },
-                "model":{
-                    "type":"minecraft:model",
-                    "model":"tardis:item/eye/sphere_0"
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/eye/sphere_0"
                 }
             },
             {
-                "when":{
-                    "text":"",
-                    "extra":[
-                        "Sphere Medium"
-                    ]
+                "when": {
+                    "text": "Sphere Medium"
                 },
-                "model":{
-                    "type":"minecraft:model",
-                    "model":"tardis:item/eye/sphere_1"
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/eye/sphere_1"
                 }
             },
             {
-                "when":{
-                    "text":"",
-                    "extra":[
-                        "Sphere Large"
-                    ]
+                "when": {
+                    "text": "Sphere Large"
                 },
-                "model":{
-                    "type":"minecraft:model",
-                    "model":"tardis:item/eye/sphere_2"
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/eye/sphere_2"
                 }
             },
             {
-                "when":{
-                    "text":"",
-                    "extra":[
-                        "Sphere Enormous"
-                    ]
+                "when": {
+                    "text": "Sphere Enormous"
                 },
-                "model":{
-                    "type":"minecraft:model",
-                    "model":"tardis:item/eye/sphere_3"
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/eye/sphere_3"
                 }
             },
             {
-                "when":{
-                    "text":"",
-                    "extra":[
-                        "Sphere Supermassive"
-                    ]
+                "when": {
+                    "text": "Sphere Supermassive"
                 },
-                "model":{
-                    "type":"minecraft:model",
-                    "model":"tardis:item/eye/sphere_4"
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/eye/sphere_4"
                 }
             }
         ]

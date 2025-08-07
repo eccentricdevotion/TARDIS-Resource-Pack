@@ -1,57 +1,62 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/redstone_block"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Effect Particle"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/gui/particle/effect_info"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/redstone"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Redstone Console"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/redstone"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/redstone_block"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Effect Particle"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/particle/effect_info"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/redstone"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Redstone",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/redstone"
+                }
+            },
+            {
+                "when": {
+                    "text": "Redstone Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/redstone"
+                }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/redstone"
+                }
+            }
+        ]
+    }
 }

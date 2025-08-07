@@ -1,57 +1,62 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/crying_obsidian"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/delta"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Nether Delta Console"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/delta"
-					}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Cursed Console"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/cursed"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/crying_obsidian"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/delta"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Delta",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/delta"
+                }
+            },
+            {
+                "when": {
+                    "text": "Nether Delta Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/delta"
+                }
+            },
+            {
+                "when": {
+                    "text": "Cursed Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/cursed"
+                }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/cursed"
+                }
+            }
+        ]
+    }
 }

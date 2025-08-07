@@ -1,25 +1,22 @@
 {
-   "model": {
-     "type": "minecraft:select",
-     "property": "component",
-     "component": "minecraft:custom_name",
-     "fallback": {
-       "type": "minecraft:model",
-       "model": "minecraft:block/enchanting_table"
-     },
-     "cases": [
-       {
-         "when": {
-           "text": "",
-           "extra": [
-               "Library"
-           ]
-         },
-         "model": {
-           "type": "minecraft:model",
-           "model": "tardis:item/gui/room/library"
-         }
-       }
-     ]
-   }
- }
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/enchanting_table"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Library"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/library"
+                }
+            }
+        ]
+    }
+}

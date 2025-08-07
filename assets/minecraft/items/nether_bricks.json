@@ -1,45 +1,53 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/nether_bricks"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/master"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"The Master's Console"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/master"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/nether_bricks"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/master"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Master",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/master"
+                }
+            },
+            {
+                "when": {
+                    "text": "The Master's Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/master"
+                }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/master"
+                }
+            }
+        ]
+    }
 }

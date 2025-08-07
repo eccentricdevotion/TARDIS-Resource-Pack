@@ -1,0 +1,22 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:lore",
+        "cases": [
+            {
+                "when": [
+                    "You are here!"
+                ],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/you_are_here"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/spectral_arrow"
+        }
+    }
+}

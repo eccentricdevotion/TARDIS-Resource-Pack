@@ -1,65 +1,64 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:block/gray_concrete"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Gray Console",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/console/console_gray"
-				}
-			},
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/gray_concrete"
+        },
+        "cases": [
             {
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "gold",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "TARDIS Seed Block",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/factory"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Factory Console (1st Doctor)"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/seed/factory"
-				}
-			}
-		]
-	}
+                "when": {
+                    "color": "white",
+                    "text": "Gray Console",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/console/console_gray"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/factory"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Factory",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/factory"
+                }
+            },
+            {
+                "when": {
+                    "text": "Factory Console (1st Doctor)"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/factory"
+                }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/factory"
+                }
+            }
+        ]
+    }
 }

@@ -1,265 +1,154 @@
 {
-	"model": {
-		"type": "minecraft:select",
-		"property": "component",
-		"component": "minecraft:custom_name",
-		"fallback": {
-			"type": "minecraft:model",
-			"model": "minecraft:item/light_gray_dye"
-		},
-		"cases": [
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Microscope",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/equipment/microscope"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Engine",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/engine_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Classic",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/time_rotor_classic_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Console",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/time_rotor_console_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Delta",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/time_rotor_delta_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Early",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/time_rotor_early_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Eleventh",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/time_rotor_eleventh_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Engine",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/engine_rotor_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Hospital",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/hospital_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Rustic",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/time_rotor_rustic_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Tenth",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/time_rotor_tennant_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						"Time Rotor Tenth"
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/time_rotor_tennant_off"
-				}
-			},
-			{
-				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Time Rotor Twelfth",
-							"underlined": false
-						}
-					]
-				},
-				"model": {
-					"type": "minecraft:model",
-					"model": "tardis:item/time_rotor/time_rotor_twelfth_off"
-				}
-			}
-		]
-	}
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/light_gray_dye"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Microscope",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/equipment/microscope"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Engine",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/engine_off"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Rotor Classic",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/time_rotor_classic_off"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Rotor Console",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/time_rotor_console_off"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Rotor Delta",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/time_rotor_delta_off"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Rotor Early",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/time_rotor_early_off"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Rotor Eleventh",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/time_rotor_eleventh_off"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Rotor Engine",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/engine_rotor_off"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Rotor Hospital",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/hospital_off"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Rotor Rustic",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/time_rotor_rustic_off"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Rotor Tenth",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/time_rotor_tennant_off"
+                }
+            },
+            {
+                "when": {
+                    "text": "Time Rotor Tenth"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/time_rotor_tennant_off"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Time Rotor Twelfth",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/time_rotor/time_rotor_twelfth_off"
+                }
+            }
+        ]
+    }
 }
