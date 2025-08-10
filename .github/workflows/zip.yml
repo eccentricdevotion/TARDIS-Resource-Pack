@@ -37,7 +37,7 @@ jobs:
         uses: TheDoctor0/zip-release@0.7.6
         with:
           filename: 'TRP.zip'
-          exclusions: '.gitattributes .gitignore'
+          exclusions: '.gitattributes .gitignore /.git /.github'
 
       - name: Add zip to release
         uses: softprops/action-gh-release@v2
