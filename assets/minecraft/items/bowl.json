@@ -903,6 +903,15 @@
             },
             {
                 "when": {
+                    "text": "WIDE"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/wide"
+                }
+            },
+            {
+                "when": {
                     "text": "TARDIS Saves"
                 },
                 "model": {
