@@ -741,6 +741,15 @@
             },
             {
                 "when": {
+                    "text": "Save Settings"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/save"
+                }
+            },
+            {
+                "when": {
                     "text": "Save Chameleon shell"
                 },
                 "model": {
@@ -1065,6 +1074,15 @@
             },
             {
                 "when": {
+                    "text": "Bio-scanner Upgrade"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/bio"
+                }
+            },
+            {
+                "when": {
                     "text": "Bio Scanner Upgrade"
                 },
                 "model": {
@@ -1151,6 +1169,15 @@
                 "model": {
                     "type": "minecraft:model",
                     "model": "tardis:item/circuit/redstone"
+                }
+            },
+            {
+                "when": {
+                    "text": "Artron cost"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/artron_cost"
                 }
             },
             {
