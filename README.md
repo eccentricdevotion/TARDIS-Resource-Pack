@@ -2,11 +2,11 @@
 
 Resource pack for the TARDIS v4.2 (and higher) plugin, as well as TARDISWeepingAngels and the Vortex Manipulator
 
-A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/) Spigot/Paper plugin. This pack takes advantage of the Connected textures Mod (for TARDIS blocks) and Custom Item Textures (for TARDISWeepingAngels monsters) available when using [OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953). All other items use custom model data to change TARDIS item textures, and unused mushroom block states for other TARDIS blocks.
+A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/) Spigot/Paper plugin.
 
 ## Installation
 
-The resource pack zip file is hosted on the TARDIS Jenkins server, and is refreshed everytime a change is pushed to this repository. [http://tardisjenkins.duckdns.org:8080/job/TARDIS-Resource-Pack/](http://tardisjenkins.duckdns.org:8080/job/TARDIS-Resource-Pack/)
+The resource pack zip file is hosted on the TARDIS-Resource-Pack releases page, and is refreshed everytime a change is pushed to this repository. [hhttps://github.com/eccentricdevotion/TARDIS-Resource-Pack/releases](https://github.com/eccentricdevotion/TARDIS-Resource-Pack/releases)
 
 ## Alternate installation and keeping up-to-date
 
