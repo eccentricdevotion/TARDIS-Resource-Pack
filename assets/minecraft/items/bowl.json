@@ -163,6 +163,15 @@
             },
             {
                 "when": {
+                    "text": "Select colour"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/use_selected"
+                }
+            },
+            {
+                "when": {
                     "text": "Check Out Selected Program"
                 },
                 "model": {
@@ -497,6 +506,15 @@
             {
                 "when": {
                     "text": "Lock"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/button_lock"
+                }
+            },
+            {
+                "when": {
+                    "text": "Lock in the current preset"
                 },
                 "model": {
                     "type": "minecraft:model",
