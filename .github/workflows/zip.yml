@@ -23,7 +23,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          fetch-tags: true
 
       - name: Delete old zip file
         uses: mknejp/delete-release-assets@v1
@@ -46,3 +49,29 @@ jobs:
           tag_name: '1.1.0'
           files: 'TRP.zip'
           fail_on_unmatched_files: false
+
+      # create a version string
+      - name: calculate version
+        uses: bitshifted/git-auto-semver@v2
+        with:
+          # Main branch for the repository
+          main_branch: master
+          # First version, defaults to 1.0.0
+          initial_version: 1.69.1
+
+      - name: Modrinth Publish
+        uses: cloudnode-pro/modrinth-publish@v2.1.4
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }} # Modrinth API token
+          project: 'ZMrb9fWk' #  ID of the project this version is for
+          name: "TARDIS Resource Pack"
+          version: ${{ steps.calculate-version.outputs.version-string }}
+          # mod loaders that this version supports
+          loaders: |-
+            minecraft
+          # list of versions of Minecraft that this version supports
+          game-versions: |-
+            1.21.10
+          # list of file paths to upload
+          files: |-
+            releases/download/1.1.0/TRP.zip
