@@ -74,4 +74,4 @@ jobs:
             1.21.10
           # list of file paths to upload
           files: |-
-            releases/download/1.1.0/TRP.zip
+            TRP.zip
