@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:block/police_box/tardis_blue_police_box",
-		"1": "tardis:block/police_box/tardis_blue_windows",
-		"2": "tardis:block/police_box/tardis_blue",
-		"3": "tardis:block/police_box/tardis_white_windows",
-		"4": "tardis:block/the_moment/the_moment_3",
-		"5": "tardis:block/police_box/tardis_white_police_box",
-		"6": "tardis:block/police_box/tardis_white",
-		"particle": "tardis:block/police_box/tardis_blue_police_box"
+		"0": "tardis:item/police_box/tardis_blue_police_box",
+		"1": "tardis:item/police_box/tardis_blue_windows",
+		"2": "tardis:item/police_box/tardis_blue",
+		"3": "tardis:item/police_box/tardis_white_windows",
+		"4": "tardis:item/the_moment/the_moment_3",
+		"5": "tardis:item/police_box/tardis_white_police_box",
+		"6": "tardis:item/police_box/tardis_white",
+		"particle": "tardis:item/police_box/tardis_blue_police_box"
 	},
 	"elements": [
 		{

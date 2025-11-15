@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"6": "tardis:item/time_rotor/early",
-		"particle": "block/quartz_block_bottom"
+		"particle": "tardis:item/block/quartz_block_bottom"
 	},
 	"elements": [
 		{

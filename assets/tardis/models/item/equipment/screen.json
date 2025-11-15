@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "block/black_concrete",
+		"2": "tardis:item/block/black_concrete",
 		"3": "tardis:item/screen/keyboard",
-		"4": "block/light_blue_concrete",
+		"4": "tardis:item/block/light_blue_concrete",
 		"particle": "tardis:item/screen/keyboard"
 	},
 	"elements": [

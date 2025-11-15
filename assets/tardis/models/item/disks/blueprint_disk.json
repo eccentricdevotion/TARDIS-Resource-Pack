@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:block/police_box/tardis_blue",
+		"0": "tardis:item/police_box/tardis_blue",
 		"1": "tardis:item/disk/blueprint_white_label",
 		"2": "tardis:item/disk/silver_metal",
 		"3": "tardis:item/disk/blueprint_blue",
 		"4": "tardis:item/disk/blueprint_label",
-		"particle": "tardis:block/police_box/tardis_blue"
+		"particle": "tardis:item/police_box/tardis_blue"
 	},
 	"elements": [
 		{

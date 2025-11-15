@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:block/pandorica",
-		"particle": "tardis:block/pandorica"
+		"0": "tardis:item/pandorica/pandorica",
+		"particle": "tardis:item/pandorica/pandorica"
 	},
 	"elements": [
 		{

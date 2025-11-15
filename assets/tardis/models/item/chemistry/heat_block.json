@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"all": "tardis:block/chemistry/heat_block"
+		"all": "tardis:item/chemistry/heat_block"
 	}
 }

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "tardis:block/tardis/hexagon_top_bottom",
+		"1": "tardis:item/tardis/hexagon_top_bottom",
 		"2": "tardis:item/time_rotor/tennant",
-		"particle": "tardis:block/tardis/hexagon_top_bottom"
+		"particle": "tardis:item/tardis/hexagon_top_bottom"
 	},
 	"elements": [
 		{

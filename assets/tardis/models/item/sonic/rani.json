@@ -4,9 +4,9 @@
 		"1": "tardis:item/sonic/light_silver",
 		"2": "tardis:item/disk/silver_metal",
 		"3": "tardis:item/disk/blacker_plastic",
-		"4": "block/purple_stained_glass",
-		"5": "block/white_terracotta",
-		"6": "block/red_glazed_terracotta",
+		"4": "tardis:item/block/purple_stained_glass",
+		"5": "tardis:item/block/white_terracotta",
+		"6": "tardis:item/block/red_glazed_terracotta",
 		"particle": "block/red_glazed_terracotta"
 	},
 	"elements": [

@@ -1,9 +1,9 @@
 {
 	"parent": "tardis:item/locator/locator",
 	"textures": {
-		"0": "block/gold_block",
-		"1": "block/black_candle",
+		"0": "tardis:item/block/gold_block",
+		"1": "tardis:item/block/black_candle",
 		"2": "tardis:item/tardis/locator/locator_00",
-		"particle": "block/gold_block"
+		"particle": "tardis:item/block/gold_block"
 	}
 }

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "tardis:block/handles/handles_left",
-		"particle": "tardis:block/handles/handles_left"
+		"0": "tardis:item/handles/handles_left",
+		"particle": "tardis:item/handles/handles_left"
 	},
 	"elements": [
 		{

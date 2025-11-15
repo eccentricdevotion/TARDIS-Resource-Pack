@@ -2,8 +2,8 @@
 	"parent": "tardis:item/circuit/sys",
 	"textures": {
 		"0": "tardis:item/circuit/sys_branch_locked",
-		"1": "block/gray_wool",
-		"2": "block/light_gray_concrete",
+		"1": "tardis:item/block/gray_wool",
+		"2": "tardis:item/block/light_gray_concrete",
 		"particle": "tardis:item/circuit/sys_branch_locked"
 	},
 	"elements": [

@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:block/police_box/tardis_blue",
-		"1": "tardis:block/police_box/tardis_blue_windows",
-		"3": "tardis:block/police_box/tardis_blue_police_box",
-		"4": "tardis:block/tardis/interior",
-		"5": "tardis:block/police_box/tardis_bad_wolf_alpha",
-		"particle": "tardis:block/police_box/tardis_blue"
+		"0": "tardis:item/police_box/tardis_blue",
+		"1": "tardis:item/police_box/tardis_blue_windows",
+		"3": "tardis:item/police_box/tardis_blue_police_box",
+		"4": "tardis:item/tardis/interior",
+		"5": "tardis:item/police_box/tardis_bad_wolf_alpha",
+		"particle": "tardis:item/police_box/tardis_blue"
 	},
 	"elements": [
 		{

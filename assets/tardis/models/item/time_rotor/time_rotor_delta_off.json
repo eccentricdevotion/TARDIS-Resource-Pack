@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "tardis:item/time_rotor/polished_blackstone_bricks",
-		"1": "tardis:block/tardis/hexagon_top_bottom",
+		"1": "tardis:item/tardis/hexagon_top_bottom",
 		"2": "tardis:item/time_rotor/tennant",
 		"particle": "tardis:item/time_rotor/polished_blackstone_bricks"
 	},

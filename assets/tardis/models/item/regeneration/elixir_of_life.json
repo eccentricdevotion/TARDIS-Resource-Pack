@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/gold_block",
-		"1": "block/water_still",
-		"particle": "block/gold_block"
+		"0": "tardis:item/block/gold_block",
+		"1": "tardis:item/block/water_still",
+		"particle": "tardis:item/block/gold_block"
 	},
 	"elements": [
 		{

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "tardis:item/regeneration/untempered_schism_anim",
-		"1": "block/netherite_block",
+		"1": "tardis:item/block/netherite_block",
 		"particle": "tardis:item/regeneration/untempered_schism_anim"
 	},
 	"elements": [

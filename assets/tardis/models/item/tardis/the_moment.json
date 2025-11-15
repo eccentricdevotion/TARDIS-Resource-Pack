@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:block/the_moment/the_moment_0",
-		"1": "tardis:block/the_moment/the_moment_1",
-		"2": "tardis:block/the_moment/the_moment_2",
-		"3": "tardis:block/the_moment/the_moment_3",
-		"4": "tardis:block/the_moment/the_moment_4",
-		"5": "tardis:block/the_moment/the_moment_5",
-		"particle": "tardis:block/the_moment/the_moment_0"
+		"0": "tardis:item/the_moment/the_moment_0",
+		"1": "tardis:item/the_moment/the_moment_1",
+		"2": "tardis:item/the_moment/the_moment_2",
+		"3": "tardis:item/the_moment/the_moment_3",
+		"4": "tardis:item/the_moment/the_moment_4",
+		"5": "tardis:item/the_moment/the_moment_5",
+		"particle": "tardis:item/the_moment/the_moment_0"
 	},
 	"elements": [
 		{

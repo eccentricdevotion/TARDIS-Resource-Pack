@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"4": "tardis:item/monster/dalek/brass/bottom",
-		"6": "tardis:block/handles/handles_bottom",
+		"6": "tardis:item/handles/handles_bottom",
 		"8": "tardis:item/monster/dalek/brass/mid_back",
 		"9": "tardis:item/monster/dalek/brass/mid_bottom",
 		"10": "tardis:item/monster/dalek/brass/mid_front",

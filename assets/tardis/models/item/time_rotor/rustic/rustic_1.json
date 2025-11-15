@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/oxidized_copper",
+		"1": "tardis:item/block/oxidized_copper",
 		"2": "tardis:item/time_rotor/rustic",
-		"particle": "block/oxidized_copper"
+		"particle": "tardis:item/block/oxidized_copper"
 	},
 	"elements": [
 		{

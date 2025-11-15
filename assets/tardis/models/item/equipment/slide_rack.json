@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/cyan_stained_glass",
-		"1": "block/oak_planks",
-		"particle": "block/cyan_stained_glass"
+		"0": "tardis:item/block/cyan_stained_glass",
+		"1": "tardis:item/block/oak_planks",
+		"particle": "tardis:item/block/cyan_stained_glass"
 	},
 	"elements": [
 		{

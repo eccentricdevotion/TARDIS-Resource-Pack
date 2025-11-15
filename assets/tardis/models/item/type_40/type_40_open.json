@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:block/police_box/tardis_light_gray",
-		"1": "tardis:block/police_box/tardis_gray",
-		"2": "tardis:block/police_box/roundels",
-		"3": "tardis:block/police_box/type_40",
-		"particle": "tardis:block/police_box/tardis_light_gray"
+		"0": "tardis:item/police_box/tardis_light_gray",
+		"1": "tardis:item/police_box/tardis_gray",
+		"2": "tardis:item/police_box/roundels",
+		"3": "tardis:item/police_box/type_40",
+		"particle": "tardis:item/police_box/tardis_light_gray"
 	},
 	"elements": [
 		{

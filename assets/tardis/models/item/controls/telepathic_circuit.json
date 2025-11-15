@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/copper_block",
-		"1": "block/stone",
-		"2": "block/lime_wool",
-		"3": "block/light_blue_wool",
-		"particle": "block/copper_block"
+		"0": "tardis:item/block/copper_block",
+		"1": "tardis:item/block/stone",
+		"2": "tardis:item/handles/lime_wool",
+		"3": "tardis:item/handles/light_blue_wool",
+		"particle": "tardis:item/block/copper_block"
 	},
 	"elements": [
 		{

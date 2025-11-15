@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"all": "tardis:block/chemistry/red_lamp_on"
+		"all": "tardis:item/chemistry/red_lamp_on"
 	}
 }

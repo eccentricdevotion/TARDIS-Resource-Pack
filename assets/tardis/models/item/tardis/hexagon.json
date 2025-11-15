@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/cube_column",
 	"textures": {
-		"end": "tardis:block/tardis/hexagon_top_bottom",
-		"side": "tardis:block/tardis/hexagon"
+		"end": "tardis:item/tardis/hexagon_top_bottom",
+		"side": "tardis:item/tardis/hexagon"
 	}
 }

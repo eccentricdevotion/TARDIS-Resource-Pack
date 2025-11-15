@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:block/tardis/roundel",
-		"1": "tardis:block/tardis/roundel_top_bottom",
-		"particle": "tardis:block/tardis/roundel"
+		"0": "tardis:item/tardis/roundel",
+		"1": "tardis:item/tardis/roundel_top_bottom",
+		"particle": "tardis:item/tardis/roundel"
 	},
 	"elements": [
 		{

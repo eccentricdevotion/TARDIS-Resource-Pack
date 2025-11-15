@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "tardis:item/glow_sticks/light_gray_plastic",
-		"1": "tardis:block/chemistry/dyed_water/magenta_dyed_water",
+		"1": "tardis:item/chemistry/dyed_water/magenta_dyed_water",
 		"particle": "tardis:item/glow_sticks/light_gray_plastic"
 	},
 	"elements": [

@@ -3,9 +3,9 @@
 	"textures": {
 		"0": "tardis:item/glow_sticks/gray_plastic",
 		"1": "tardis:item/disk/black_plastic",
-		"2": "block/red_wool",
-		"3": "block/lime_wool",
-		"4": "block/light_blue_wool",
+		"2": "tardis:item/handles/red_wool",
+		"3": "tardis:item/handles/lime_wool",
+		"4": "tardis:item/handles/light_blue_wool",
 		"5": "tardis:item/circuit/circuit_ars",
 		"particle": "tardis:item/glow_sticks/gray_plastic"
 	},

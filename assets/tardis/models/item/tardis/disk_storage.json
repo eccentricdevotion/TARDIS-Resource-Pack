@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/cube",
 	"textures": {
-		"0": "tardis:block/tardis/advanced_console_side",
-		"1": "tardis:block/tardis/disk_storage_top",
-		"2": "tardis:block/stone_bricks",
-		"particle": "tardis:block/tardis/advanced_console_side"
+		"0": "tardis:item/tardis/advanced_console_side",
+		"1": "tardis:item/tardis/disk_storage_top",
+		"2": "tardis:item/block/stone_bricks",
+		"particle": "tardis:item/tardis/advanced_console_side"
 	},
 	"elements": [
 		{

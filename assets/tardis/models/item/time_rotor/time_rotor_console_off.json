@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/black_concrete",
+		"0": "tardis:item/block/black_concrete",
 		"1": "tardis:item/time_rotor/early",
 		"2": "tardis:item/time_rotor/early_top",
-		"3": "block/yellow_stained_glass",
-		"4": "block/red_stained_glass",
-		"5": "block/white_stained_glass",
-		"6": "block/light_gray_concrete",
+		"3": "tardis:item/block/yellow_stained_glass",
+		"4": "tardis:item/block/red_stained_glass",
+		"5": "tardis:item/block/white_stained_glass",
+		"6": "tardis:item/block/light_gray_concrete",
 		"particle": "tardis:item/time_rotor/early"
 	},
 	"elements": [

@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/amethyst_block",
+		"0": "tardis:item/block/amethyst_block",
 		"1": "tardis:item/sonic/light_silver",
 		"2": "tardis:item/disk/silver_metal",
-		"3": "block/white_terracotta",
+		"3": "tardis:item/block/white_terracotta",
 		"4": "tardis:item/disk/blacker_plastic",
-		"5": "block/red_glazed_terracotta",
-		"particle": "block/amethyst_block"
+		"5": "tardis:item/block/red_glazed_terracotta",
+		"particle": "tardis:item/block/amethyst_block"
 	},
 	"elements": [
 		{

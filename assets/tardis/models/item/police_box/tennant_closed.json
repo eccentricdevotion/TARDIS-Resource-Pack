@@ -1,9 +1,9 @@
 {
 	"parent": "tardis:item/police_box/tardis_solid",
 	"textures": {
-		"0": "tardis:block/police_box/tardis_tennant",
-		"1": "tardis:block/police_box/tardis_tennant_windows",
-		"3": "tardis:block/police_box/tardis_tennant_police_box",
-		"particle": "tardis:block/police_box/tardis_tennant"
+		"0": "tardis:item/police_box/tardis_tennant",
+		"1": "tardis:item/police_box/tardis_tennant_windows",
+		"3": "tardis:item/police_box/tardis_tennant_police_box",
+		"particle": "tardis:item/police_box/tardis_tennant"
 	}
 }

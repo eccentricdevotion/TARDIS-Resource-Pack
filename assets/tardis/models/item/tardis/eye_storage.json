@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/black_concrete_powder",
-		"1": "block/black_concrete",
+		"0": "tardis:item/block/black_concrete_powder",
+		"1": "tardis:item/block/black_concrete",
 		"2": "tardis:item/disk/silver",
 		"3": "tardis:item/tardis/artron_battery",
 		"4": "tardis:item/monster/judoon/judoon_red",
-		"particle": "block/black_concrete_powder"
+		"particle": "tardis:item/block/black_concrete_powder"
 	},
 	"elements": [
 		{

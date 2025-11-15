@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "tardis:block/police_box/tardis_transparent",
-		"particle": "tardis:block/police_box/tardis_transparent"
+		"1": "tardis:item/police_box/tardis_transparent",
+		"particle": "tardis:item/police_box/tardis_transparent"
 	},
 	"elements": [
 		{

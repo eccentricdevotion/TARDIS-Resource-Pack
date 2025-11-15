@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "item/bone",
-		"particle": "block/black_stained_glass",
-		"layer0": "block/black_stained_glass"
+		"particle": "tardis:item/block/black_stained_glass",
+		"layer0": "tardis:item/block/black_stained_glass"
 	},
 	"elements": [
 		{

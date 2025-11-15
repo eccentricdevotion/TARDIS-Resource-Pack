@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/light_gray_concrete",
-		"1": "block/gray_concrete",
-		"2": "block/white_concrete",
+		"0": "tardis:item/block/light_gray_concrete",
+		"1": "tardis:item/block/gray_concrete",
+		"2": "tardis:item/block/white_concrete",
 		"3": "tardis:item/telescope/label",
-		"particle": "block/light_gray_concrete"
+		"particle": "tardis:item/block/light_gray_concrete"
 	},
 	"elements": [
 		{

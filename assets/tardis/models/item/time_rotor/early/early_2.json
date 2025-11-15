@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/quartz_block_bottom",
+		"1": "tardis:item/block/quartz_block_bottom",
 		"2": "tardis:item/time_rotor/early",
 		"3": "tardis:item/time_rotor/early_top",
 		"4": "tardis:item/time_rotor/inner_glass",
 		"5": "tardis:item/time_rotor/glass",
-		"particle": "block/quartz_block_bottom"
+		"particle": "tardis:item/block/quartz_block_bottom"
 	},
 	"elements": [
 		{

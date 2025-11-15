@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/cyan_stained_glass",
-		"2": "block/deepslate_bricks",
-		"3": "tardis:block/tardis/hexagon_top_bottom",
-		"particle": "tardis:block/tardis/hexagon_top_bottom"
+		"1": "tardis:item/block/cyan_stained_glass",
+		"2": "tardis:item/block/deepslate_bricks",
+		"3": "tardis:item/tardis/hexagon_top_bottom",
+		"particle": "tardis:item/tardis/hexagon_top_bottom"
 	},
 	"elements": [
 		{

@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tardis:block/police_box/tardis_white",
-		"1": "tardis:block/police_box/tardis_white_windows",
-		"3": "tardis:block/police_box/tardis_white_police_box",
-		"4": "tardis:block/police_box/stjohn",
-		"particle": "tardis:block/police_box/tardis_white"
+		"0": "tardis:item/police_box/tardis_white",
+		"1": "tardis:item/police_box/tardis_white_windows",
+		"3": "tardis:item/police_box/tardis_white_police_box",
+		"4": "tardis:item/police_box/stjohn",
+		"particle": "tardis:item/police_box/tardis_white"
 	},
 	"elements": [
 		{

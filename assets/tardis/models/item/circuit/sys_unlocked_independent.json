@@ -2,7 +2,7 @@
 	"parent": "tardis:item/circuit/sys",
 	"textures": {
 		"0": "tardis:item/circuit/sys_unlocked",
-		"2": "block/light_gray_concrete",
+		"2": "tardis:item/block/light_gray_concrete",
 		"particle": "tardis:item/circuit/sys_unlocked"
 	},
 	"elements": [
