@@ -59,6 +59,9 @@ jobs:
           # First version, defaults to 1.0.0
           initial_version: 1.69.1
 
+      - name: Use version
+        run: 'echo "Calculated version: ${{ steps.calculate-version.outputs.version-string }}"'
+
       - name: Modrinth Publish
         uses: cloudnode-pro/modrinth-publish@v2.1.4
         with:
