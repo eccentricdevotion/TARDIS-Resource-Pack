@@ -14,7 +14,7 @@
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/genetic/dalek"
+                    "model": "tardis:item/monster/dalek/dalek_head"
                 }
             },
             {
