@@ -741,6 +741,15 @@
             },
             {
                 "when": {
+                    "text": "Customise Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/customise_console"
+                }
+            },
+            {
+                "when": {
                     "text": "Rooms World"
                 },
                 "model": {
