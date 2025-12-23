@@ -320,6 +320,20 @@
       ],
       "subtitle":"Pandorica opens"
    },
+   "sidrat_close":{
+      "category":"master",
+      "sounds":[
+         "tardis:sidrat_close"
+      ],
+      "subtitle":"SIDRAT closes"
+   },
+   "sidrat_open":{
+      "category":"master",
+      "sounds":[
+         "tardis:sidrat_open"
+      ],
+      "subtitle":"SIDRAT opens"
+   },
    "classic_door": {
 	   "category":"master",
       "sounds":[

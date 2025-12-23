@@ -25,6 +25,17 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/gui/room/iistubil"
                 }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "War Console",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/console/console_war"
+                }
             }
         ]
     }
