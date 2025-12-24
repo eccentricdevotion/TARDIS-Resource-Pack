@@ -105,6 +105,28 @@
             {
                 "when": {
                     "color": "white",
+                    "text": "Light Classic Offset",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/classic_offset"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Light Classic",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/classic"
+                }
+            },
+            {
+                "when": {
+                    "color": "white",
                     "text": "Light Thirteenth On",
                     "italic": false
                 },

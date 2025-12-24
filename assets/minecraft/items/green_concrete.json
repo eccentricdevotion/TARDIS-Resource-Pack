@@ -18,6 +18,46 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/console/console_green"
                 }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/sidrat"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Sidrat",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/sidrat"
+                }
+            },
+            {
+                "when": {
+                    "text": "SIDRAT Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/sidrat"
+                }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/sidrat"
+                }
             }
         ]
     }
