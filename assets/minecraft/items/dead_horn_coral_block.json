@@ -10,6 +10,15 @@
         "cases": [
             {
                 "when": {
+                    "text": "Nautilus"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/nautilus"
+                }
+            },
+            {
+                "when": {
                     "text": "Nautilus Tank"
                 },
                 "model": {
