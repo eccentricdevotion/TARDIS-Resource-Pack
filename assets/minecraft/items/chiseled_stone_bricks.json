@@ -32,7 +32,7 @@
             },
             {
                 "when": {
-                    "text": "Eighth Doctor's Console"
+                    "text": "8th Doctor's Console"
                 },
                 "model": {
                     "type": "minecraft:model",
