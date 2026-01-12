@@ -18,6 +18,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/equipment/telescope"
                 }
+            },
+            {
+                "when": {
+                    "text": "Bleach"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/products/bleach"
+                }
             }
         ]
     }
