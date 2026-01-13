@@ -1,0 +1,22 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/white_candle"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Bleach"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/products/bleach"
+                }
+            }
+        ]
+    }
+}
