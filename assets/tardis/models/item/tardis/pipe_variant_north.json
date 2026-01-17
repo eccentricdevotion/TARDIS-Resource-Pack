@@ -1,0 +1,8 @@
+{
+	"parent": "tardis:item/tardis/pipe",
+	"display": {
+		"head": {
+			"rotation": [-90, 0, 0]
+		}
+	}
+}

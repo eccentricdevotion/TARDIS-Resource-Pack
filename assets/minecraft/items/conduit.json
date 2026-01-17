@@ -1,0 +1,85 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/conduit"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Pipe North"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/pipe_north"
+                }
+            },
+            {
+                "when": {
+                    "text": "Pipe Variant North"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/pipe_variant_north"
+                }
+            },
+            {
+                "when": {
+                    "text": "Pipe East"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/pipe_east"
+                }
+            },
+            {
+                "when": {
+                    "text": "Pipe Variant East"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/pipe_variant_east"
+                }
+            },
+            {
+                "when": {
+                    "text": "Pipe South"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/pipe_south"
+                }
+            },
+            {
+                "when": {
+                    "text": "Pipe Variant South"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/pipe_variant_south"
+                }
+            },
+            {
+                "when": {
+                    "text": "Pipe West"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/pipe_west"
+                }
+            },
+            {
+                "when": {
+                    "text": "Pipe Variant West"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/pipe_variant_west"
+                }
+            }
+        ]
+    }
+}
