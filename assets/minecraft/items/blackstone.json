@@ -16,6 +16,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/gui/room/nether"
                 }
+            },
+            {
+                "when": {
+                    "text": "Black Liberty"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/equipment/black_liberty"
+                }
             }
         ]
     }

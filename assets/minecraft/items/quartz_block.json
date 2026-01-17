@@ -47,6 +47,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/seed/ars"
                 }
+            },
+            {
+                "when": {
+                    "text": "Marilyn Monroe"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/equipment/marilyn_monroe"
+                }
             }
         ]
     }
