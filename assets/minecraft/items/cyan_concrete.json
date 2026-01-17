@@ -18,6 +18,17 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/console/console_cyan"
                 }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Siege Cube",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/tardis/siege_cube"
+                }
             }
         ]
     }
