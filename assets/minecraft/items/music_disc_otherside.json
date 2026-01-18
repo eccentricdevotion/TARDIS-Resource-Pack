@@ -5,25 +5,34 @@
         "component": "minecraft:custom_name",
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/firework_rocket"
+            "model": "minecraft:item/music_disc_relic"
         },
         "cases": [
             {
                 "when": {
-                    "text": "Atmospheric Excitation"
+                    "text": "Tetris"
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/gui/excite"
+                    "model": "tardis:item/disks/tetris_disk"
                 }
             },
             {
                 "when": {
-                    "text": "Start level"
+                    "text": "Pong"
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/gui/level"
+                    "model": "tardis:item/disks/pong_disk"
+                }
+            },
+            {
+                "when": {
+                    "text": "Tic Tac Toe"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/tictactoe_disk"
                 }
             }
         ]
