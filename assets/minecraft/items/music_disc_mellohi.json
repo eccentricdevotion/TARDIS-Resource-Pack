@@ -18,6 +18,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/disks/blueprint_disk"
                 }
+            },
+            {
+                "when": {
+                    "text": "TARDIS Blueprint Disk"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/blueprint_disk"
+                }
             }
         ]
     }
