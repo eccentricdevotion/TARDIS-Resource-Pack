@@ -28,6 +28,15 @@
             },
             {
                 "when": {
+                    "text": "Reset game"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/standard_sonic"
+                }
+            },
+            {
+                "when": {
                     "text": "Reset selected"
                 },
                 "model": {
