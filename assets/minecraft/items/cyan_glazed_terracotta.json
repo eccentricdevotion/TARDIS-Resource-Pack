@@ -47,6 +47,24 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/seed/eleventh"
                 }
+            },
+            {
+                "when": {
+                    "text": "Player"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/less"
+                }
+            },
+            {
+                "when": {
+                    "text": "Nought"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/game/nought"
+                }
             }
         ]
     }

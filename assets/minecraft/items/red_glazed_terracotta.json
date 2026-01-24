@@ -47,6 +47,24 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/seed/legacy_redstone"
                 }
+            },
+            {
+                "when": {
+                    "text": "TARDIS"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/less"
+                }
+            },
+            {
+                "when": {
+                    "text": "Cross"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/game/cross"
+                }
             }
         ]
     }

@@ -34,6 +34,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/disks/tictactoe_disk"
                 }
+            },
+            {
+                "when": {
+                    "text": "Stone Magma Ice"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/stonemagmaice_disk"
+                }
             }
         ]
     }
