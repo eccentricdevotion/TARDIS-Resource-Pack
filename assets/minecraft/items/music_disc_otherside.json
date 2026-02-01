@@ -43,6 +43,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/disks/stonemagmaice_disk"
                 }
+            },
+            {
+                "when": {
+                    "text": "Connect 4"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/disks/connect_four_disk"
+                }
             }
         ]
     }

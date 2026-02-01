@@ -1,0 +1,7 @@
+{
+	"parent": "tardis:item/gui/game/connect_four",
+	"textures": {
+		"0": "tardis:item/gui/game/connect_four_empty",
+		"particle": "tardis:item/gui/game/connect_four_empty"
+	}
+}

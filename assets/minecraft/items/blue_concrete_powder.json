@@ -1,0 +1,22 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/blue_concrete_powder"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": " "
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/game/connect_four_empty"
+                }
+            }
+        ]
+    }
+}

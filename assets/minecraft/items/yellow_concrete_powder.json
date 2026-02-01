@@ -47,6 +47,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/seed/factory"
                 }
+            },
+            {
+                "when": {
+                    "text": "Yellow"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/game/connect_four_yellow"
+                }
             }
         ]
     }
