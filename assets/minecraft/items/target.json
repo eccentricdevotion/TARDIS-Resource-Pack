@@ -25,6 +25,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/handles/handles_selector_tardis"
                 }
+            },
+            {
+                "when": {
+                    "text": "Game result"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/game/game_result"
+                }
             }
         ]
     }
