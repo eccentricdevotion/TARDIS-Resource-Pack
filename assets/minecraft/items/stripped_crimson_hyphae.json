@@ -1,0 +1,53 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/stripped_crimson_hyphae"
+        },
+        "cases": [
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "TARDIS Seed Block",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/diner"
+                }
+            },
+            {
+                "when": {
+                    "color": "gold",
+                    "text": "Diner",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/diner"
+                }
+            },
+            {
+                "when": {
+                    "text": "Clara's Diner"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/diner"
+                }
+            },
+            {
+                "when": {
+                    "text": "Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/diner"
+                }
+            }
+        ]
+    }
+}
