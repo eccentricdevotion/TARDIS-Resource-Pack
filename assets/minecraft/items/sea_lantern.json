@@ -82,6 +82,15 @@
             },
             {
                 "when": {
+                    "text": "Light Classic Offset On"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/classic_offset_on"
+                }
+            },
+            {
+                "when": {
                     "color": "white",
                     "text": "Light Classic Offset On",
                     "italic": false
@@ -89,6 +98,15 @@
                 "model": {
                     "type": "minecraft:model",
                     "model": "tardis:item/lights/classic_offset_on"
+                }
+            },
+            {
+                "when": {
+                    "text": "Light Classic On"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/classic_on"
                 }
             },
             {
