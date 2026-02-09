@@ -32,7 +32,7 @@
             },
             {
                 "when": {
-                    "text": "Clara's Diner"
+                    "text": "Clara's diner"
                 },
                 "model": {
                     "type": "minecraft:model",

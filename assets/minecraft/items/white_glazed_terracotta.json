@@ -51,7 +51,7 @@
             {
                 "when": {
                     "color": "gold",
-                    "text": "Diner",
+                    "text": "Hell Bent",
                     "italic": false
                 },
                 "model": {
@@ -61,7 +61,7 @@
             },
             {
                 "when": {
-                    "text": "Clara's TARDIS"
+                    "text": "Hell Bent Console"
                 },
                 "model": {
                     "type": "minecraft:model",
