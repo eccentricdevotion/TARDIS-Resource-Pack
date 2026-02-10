@@ -131,6 +131,33 @@
             },
             {
                 "when": {
+                    "text": "Preset Sequence"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/lights/sequence_button"
+                }
+            },
+            {
+                "when": {
+                    "text": "Display time"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/lights/delay"
+                }
+            },
+            {
+                "when": {
+                    "text": "Light level"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/lights/light_levels"
+                }
+            },
+            {
+                "when": {
                     "text": "Effect Block"
                 },
                 "model": {

@@ -1566,6 +1566,51 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/genetic/illusioner"
                 }
+            },
+            {
+                "when": {
+                    "text": "Exterior Lamp"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "Interior Lights"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "Console Lamp"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "TARDIS Light Sequence"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/info"
+                }
+            },
+            {
+                "when": {
+                    "text": "Save Sequence"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/save"
+                }
             }
         ]
     }

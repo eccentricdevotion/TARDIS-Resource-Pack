@@ -28,7 +28,7 @@
             },
             {
                 "when": {
-                    "text": "Lights Console"
+                    "text": "Console Lamp"
                 },
                 "model": {
                     "type": "minecraft:model",
