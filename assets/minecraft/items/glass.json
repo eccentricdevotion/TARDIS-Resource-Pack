@@ -132,6 +132,69 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/lights/yellow"
                 }
+            },
+            {
+                "when": {
+                    "text": "Light Variable Blue"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/blue"
+                }
+            },
+            {
+                "when": {
+                    "text": "Light Variable Green"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/green"
+                }
+            },
+            {
+                "when": {
+                    "text": "Light Variable Orange"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/orange"
+                }
+            },
+            {
+                "when": {
+                    "text": "Light Variable Pink"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/pink"
+                }
+            },
+            {
+                "when": {
+                    "text": "Light Variable Purple"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/purple"
+                }
+            },
+            {
+                "when": {
+                    "text": "Light Variable Red"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/cloister"
+                }
+            },
+            {
+                "when": {
+                    "text": "Light Variable Yellow"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lights/yellow"
+                }
             }
         ]
     }
