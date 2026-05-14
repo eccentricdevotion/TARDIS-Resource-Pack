@@ -43,6 +43,17 @@
             },
             {
                 "when": {
+                    "color": "gold",
+                    "text": "SIDRAT",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/sidrat"
+                }
+            },
+            {
+                "when": {
                     "text": "SIDRAT Console"
                 },
                 "model": {
