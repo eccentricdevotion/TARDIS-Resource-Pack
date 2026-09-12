@@ -28,6 +28,15 @@
             },
             {
                 "when": {
+                    "text": "Back to Dimension Map"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/back"
+                }
+            },
+            {
+                "when": {
                     "text": "Back to construction"
                 },
                 "model": {
@@ -109,7 +118,7 @@
             },
             {
                 "when": {
-                    "text": "Rearrange"
+                    "text": "Rearrange saves"
                 },
                 "model": {
                     "type": "minecraft:model",

@@ -61,6 +61,15 @@
             },
             {
                 "when": {
+                    "text": "Delete save"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bucket/delete"
+                }
+            },
+            {
+                "when": {
                     "text": "Delete selected shell"
                 },
                 "model": {
