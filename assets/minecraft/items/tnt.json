@@ -16,6 +16,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/gui/room/jettison"
                 }
+            },
+            {
+                "when": {
+                    "text": "Clear chunk tickets"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/bowl/standard_sonic"
+                }
             }
         ]
     }

@@ -16,6 +16,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/gui/map/reconfigure"
                 }
+            },
+            {
+                "when": {
+                    "text": "Add tickets"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
             }
         ]
     }
