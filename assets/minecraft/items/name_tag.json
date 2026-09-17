@@ -1,0 +1,517 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_name",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/name_tag"
+        },
+        "cases": [
+            {
+                "when": {
+                    "text": "Allay"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Antigravity"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Apiary"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Aquarium"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Arboretum"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Architectural"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Baker"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Bamboo"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Bedroom"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Birdcage"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Chemistry"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Cloister"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Empty"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Eye"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Farm"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Gallery"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Games"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Garden"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Geode"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Golem"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Gravity"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Greenhouse"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Happy"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Harmony"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Hutch"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Igloo"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Iistubil"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Kitchen"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Laundry"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Lava"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Lazarus"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Library"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Mangrove"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Maze"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Mushroom"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Nautilus"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Nether"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Observatory"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Passage"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Pen"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Pool"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Rail"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Renderer"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Shell"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Smelter"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Stable"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Staircase"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Stall"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Surgery"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Trenzalore"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Vault"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Village"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Wardrobe"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Wood"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Workshop"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            },
+            {
+                "when": {
+                    "text": "Empty slot"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/map/ticket"
+                }
+            }
+        ]
+    }
+}
