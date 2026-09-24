@@ -36,46 +36,6 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/console/console_war"
                 }
-            },
-            {
-                "when": {
-                    "color": "gold",
-                    "text": "TARDIS Seed Block",
-                    "italic": false
-                },
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "tardis:item/seed/hell_bent"
-                }
-            },
-            {
-                "when": {
-                    "color": "gold",
-                    "text": "Hell Bent",
-                    "italic": false
-                },
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "tardis:item/seed/hell_bent"
-                }
-            },
-            {
-                "when": {
-                    "text": "Hell Bent Console"
-                },
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "tardis:item/seed/hell_bent"
-                }
-            },
-            {
-                "when": {
-                    "text": "Console"
-                },
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "tardis:item/seed/hell_bent"
-                }
             }
         ]
     }
