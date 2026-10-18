@@ -12,6 +12,9 @@
                 "when": {
                     "floats": [
                         101
+                    ],
+                    "strings": [
+                        "Bio-scanner Circuit"
                     ]
                 },
                 "model": {
@@ -23,6 +26,9 @@
                 "when": {
                     "floats": [
                         102
+                    ],
+                    "strings": [
+                        "Brush Circuit"
                     ]
                 },
                 "model": {
@@ -34,6 +40,9 @@
                 "when": {
                     "floats": [
                         103
+                    ],
+                    "strings": [
+                        "Conversion Circuit"
                     ]
                 },
                 "model": {
@@ -45,6 +54,9 @@
                 "when": {
                     "floats": [
                         104
+                    ],
+                    "strings": [
+                        "Diamond Disruptor Circuit"
                     ]
                 },
                 "model": {
@@ -56,6 +68,9 @@
                 "when": {
                     "floats": [
                         105
+                    ],
+                    "strings": [
+                        "Emerald Environment Circuit"
                     ]
                 },
                 "model": {
@@ -67,6 +82,9 @@
                 "when": {
                     "floats": [
                         106
+                    ],
+                    "strings": [
+                        "Ignite Circuit"
                     ]
                 },
                 "model": {
@@ -78,6 +96,9 @@
                 "when": {
                     "floats": [
                         107
+                    ],
+                    "strings": [
+                        "Knockback Circuit"
                     ]
                 },
                 "model": {
@@ -89,6 +110,9 @@
                 "when": {
                     "floats": [
                         108
+                    ],
+                    "strings": [
+                        "Painter Circuit"
                     ]
                 },
                 "model": {
@@ -100,6 +124,9 @@
                 "when": {
                     "floats": [
                         109
+                    ],
+                    "strings": [
+                        "Perception Circuit"
                     ]
                 },
                 "model": {
@@ -111,6 +138,9 @@
                 "when": {
                     "floats": [
                         209
+                    ],
+                    "strings": [
+                        "Perception Circuit"
                     ]
                 },
                 "model": {
@@ -122,6 +152,9 @@
                 "when": {
                     "floats": [
                         110
+                    ],
+                    "strings": [
+                        "Pickup Arrows Circuit"
                     ]
                 },
                 "model": {
@@ -133,6 +166,9 @@
                 "when": {
                     "floats": [
                         111
+                    ],
+                    "strings": [
+                        "Redstone Activator Circuit"
                     ]
                 },
                 "model": {
@@ -144,6 +180,9 @@
                 "when": {
                     "floats": [
                         112
+                    ],
+                    "strings": [
+                        "Rift Circuit"
                     ]
                 },
                 "model": {
@@ -155,6 +194,9 @@
                 "when": {
                     "floats": [
                         212
+                    ],
+                    "strings": [
+                        "Rift Circuit"
                     ]
                 },
                 "model": {
@@ -166,6 +208,9 @@
                 "when": {
                     "floats": [
                         113
+                    ],
+                    "strings": [
+                        "Server Admin Circuit"
                     ]
                 },
                 "model": {
@@ -177,6 +222,9 @@
                 "when": {
                     "floats": [
                         114
+                    ],
+                    "strings": [
+                        "Sonic Oscillator"
                     ]
                 },
                 "model": {
@@ -188,6 +236,9 @@
                 "when": {
                     "floats": [
                         214
+                    ],
+                    "strings": [
+                        "Sonic Oscillator"
                     ]
                 },
                 "model": {
@@ -199,6 +250,9 @@
                 "when": {
                     "floats": [
                         115
+                    ],
+                    "strings": [
+                        "TARDIS ARS Circuit"
                     ]
                 },
                 "model": {
@@ -210,6 +264,9 @@
                 "when": {
                     "floats": [
                         215
+                    ],
+                    "strings": [
+                        "TARDIS ARS Circuit"
                     ]
                 },
                 "model": {
@@ -221,6 +278,9 @@
                 "when": {
                     "floats": [
                         116
+                    ],
+                    "strings": [
+                        "TARDIS Chameleon Circuit"
                     ]
                 },
                 "model": {
@@ -232,6 +292,9 @@
                 "when": {
                     "floats": [
                         216
+                    ],
+                    "strings": [
+                        "TARDIS Chameleon Circuit"
                     ]
                 },
                 "model": {
@@ -243,6 +306,9 @@
                 "when": {
                     "floats": [
                         117
+                    ],
+                    "strings": [
+                        "TARDIS Input Circuit"
                     ]
                 },
                 "model": {
@@ -254,6 +320,9 @@
                 "when": {
                     "floats": [
                         217
+                    ],
+                    "strings": [
+                        "TARDIS Input Circuit"
                     ]
                 },
                 "model": {
@@ -265,6 +334,9 @@
                 "when": {
                     "floats": [
                         118
+                    ],
+                    "strings": [
+                        "TARDIS Invisibility Circuit"
                     ]
                 },
                 "model": {
@@ -276,6 +348,9 @@
                 "when": {
                     "floats": [
                         218
+                    ],
+                    "strings": [
+                        "TARDIS Invisibility Circuit"
                     ]
                 },
                 "model": {
@@ -287,6 +362,9 @@
                 "when": {
                     "floats": [
                         119
+                    ],
+                    "strings": [
+                        "TARDIS Locator Circuit"
                     ]
                 },
                 "model": {
@@ -298,6 +376,9 @@
                 "when": {
                     "floats": [
                         219
+                    ],
+                    "strings": [
+                        "TARDIS Locator Circuit"
                     ]
                 },
                 "model": {
@@ -309,6 +390,9 @@
                 "when": {
                     "floats": [
                         120
+                    ],
+                    "strings": [
+                        "TARDIS Materialisation Circuit"
                     ]
                 },
                 "model": {
@@ -320,6 +404,9 @@
                 "when": {
                     "floats": [
                         220
+                    ],
+                    "strings": [
+                        "TARDIS Materialisation Circuit"
                     ]
                 },
                 "model": {
@@ -331,6 +418,9 @@
                 "when": {
                     "floats": [
                         121
+                    ],
+                    "strings": [
+                        "TARDIS Memory Circuit"
                     ]
                 },
                 "model": {
@@ -342,6 +432,9 @@
                 "when": {
                     "floats": [
                         221
+                    ],
+                    "strings": [
+                        "TARDIS Memory Circuit"
                     ]
                 },
                 "model": {
@@ -353,6 +446,9 @@
                 "when": {
                     "floats": [
                         122
+                    ],
+                    "strings": [
+                        "TARDIS Randomiser Circuit"
                     ]
                 },
                 "model": {
@@ -364,6 +460,9 @@
                 "when": {
                     "floats": [
                         222
+                    ],
+                    "strings": [
+                        "TARDIS Randomiser Circuit"
                     ]
                 },
                 "model": {
@@ -375,6 +474,9 @@
                 "when": {
                     "floats": [
                         123
+                    ],
+                    "strings": [
+                        "TARDIS Scanner Circuit"
                     ]
                 },
                 "model": {
@@ -386,6 +488,9 @@
                 "when": {
                     "floats": [
                         223
+                    ],
+                    "strings": [
+                        "TARDIS Scanner Circuit"
                     ]
                 },
                 "model": {
@@ -397,6 +502,9 @@
                 "when": {
                     "floats": [
                         124
+                    ],
+                    "strings": [
+                        "TARDIS Stattenheim Circuit"
                     ]
                 },
                 "model": {
@@ -408,6 +516,9 @@
                 "when": {
                     "floats": [
                         224
+                    ],
+                    "strings": [
+                        "TARDIS Stattenheim Circuit"
                     ]
                 },
                 "model": {
@@ -419,6 +530,9 @@
                 "when": {
                     "floats": [
                         125
+                    ],
+                    "strings": [
+                        "TARDIS Telepathic Circuit"
                     ]
                 },
                 "model": {
@@ -430,6 +544,9 @@
                 "when": {
                     "floats": [
                         225
+                    ],
+                    "strings": [
+                        "TARDIS Telepathic Circuit"
                     ]
                 },
                 "model": {
@@ -441,6 +558,9 @@
                 "when": {
                     "floats": [
                         126
+                    ],
+                    "strings": [
+                        "TARDIS Temporal Circuit"
                     ]
                 },
                 "model": {
@@ -452,6 +572,9 @@
                 "when": {
                     "floats": [
                         226
+                    ],
+                    "strings": [
+                        "TARDIS Temporal Circuit"
                     ]
                 },
                 "model": {
