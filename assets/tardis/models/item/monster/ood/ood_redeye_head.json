@@ -1,4 +1,5 @@
 {
+	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
@@ -176,8 +177,9 @@
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
-			"translation": [0, 2.5, 0]
+			"rotation": [30, -135, 0],
+			"translation": [0, 0.25, 0],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
 			"translation": [0, -1.6, 0],
@@ -193,23 +195,27 @@
 		{
 			"name": "Head",
 			"origin": [8, 24, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				0,
 				{
 					"name": "group",
 					"origin": [4, 13, 4],
+					"scope": 0,
 					"color": 0,
 					"children": [
 						{
 							"name": "top",
 							"origin": [4, 13, 4],
+							"scope": 0,
 							"color": 0,
 							"children": [1, 2]
 						},
 						{
 							"name": "tentacles",
 							"origin": [7, 6, 3],
+							"scope": 0,
 							"color": 0,
 							"children": [3, 4, 5, 6, 7, 8, 9, 10]
 						}

@@ -1,4 +1,5 @@
 {
+	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
@@ -288,6 +289,11 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [0, -2.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
 		"head": {
 			"translation": [0, -26, 0],
 			"scale": [1.63, 1.63, 1.63]
@@ -297,12 +303,14 @@
 		{
 			"name": "Head",
 			"origin": [8, 24, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				0,
 				{
 					"name": "group",
 					"origin": [14, 1, 6],
+					"scope": 0,
 					"color": 0,
 					"children": [1, 2, 3, 4, 5]
 				}
@@ -311,18 +319,21 @@
 		{
 			"name": "Body",
 			"origin": [8, 24, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [6]
 		},
 		{
 			"name": "RightArm",
 			"origin": [13, 22, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				7,
 				{
 					"name": "hand",
 					"origin": [2.5, 8, 13.5],
+					"scope": 0,
 					"color": 0,
 					"children": [8, 9, 10, 11, 12]
 				}
@@ -331,12 +342,14 @@
 		{
 			"name": "LeftArm",
 			"origin": [3, 22, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				13,
 				{
 					"name": "hand",
 					"origin": [2.5, 8, 13.5],
+					"scope": 0,
 					"color": 0,
 					"children": [14, 15, 16, 17, 18]
 				}
@@ -345,12 +358,14 @@
 		{
 			"name": "RightLeg",
 			"origin": [9.9, 12, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [19]
 		},
 		{
 			"name": "LeftLeg",
 			"origin": [6.1, 12, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [20]
 		}

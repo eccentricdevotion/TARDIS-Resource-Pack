@@ -1,4 +1,5 @@
 {
+	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "tardis:item/monster/cyberman/c1_features",
@@ -99,6 +100,10 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [0, 2.75, 0]
+		},
 		"head": {
 			"translation": [0, 6.5, 0],
 			"scale": [1.62, 1.62, 1.62]
