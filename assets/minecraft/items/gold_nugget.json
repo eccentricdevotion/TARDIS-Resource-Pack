@@ -12,6 +12,9 @@
                 "when": {
                     "floats": [
                         101
+                    ],
+                    "strings": [
+                        "brass_yale"
                     ]
                 },
                 "model": {
@@ -23,6 +26,9 @@
                 "when": {
                     "floats": [
                         102
+                    ],
+                    "strings": [
+                        "brass_plain"
                     ]
                 },
                 "model": {
@@ -34,6 +40,9 @@
                 "when": {
                     "floats": [
                         103
+                    ],
+                    "strings": [
+                        "spade_shaped"
                     ]
                 },
                 "model": {
@@ -45,6 +54,9 @@
                 "when": {
                     "floats": [
                         104
+                    ],
+                    "strings": [
+                        "silver_yale"
                     ]
                 },
                 "model": {
@@ -56,6 +68,9 @@
                 "when": {
                     "floats": [
                         105
+                    ],
+                    "strings": [
+                        "seal_of_rassilon"
                     ]
                 },
                 "model": {
@@ -67,6 +82,9 @@
                 "when": {
                     "floats": [
                         106
+                    ],
+                    "strings": [
+                        "silver_variant"
                     ]
                 },
                 "model": {
@@ -78,6 +96,9 @@
                 "when": {
                     "floats": [
                         107
+                    ],
+                    "strings": [
+                        "silver_plain"
                     ]
                 },
                 "model": {
@@ -89,6 +110,9 @@
                 "when": {
                     "floats": [
                         108
+                    ],
+                    "strings": [
+                        "silver_new"
                     ]
                 },
                 "model": {
@@ -100,6 +124,9 @@
                 "when": {
                     "floats": [
                         109
+                    ],
+                    "strings": [
+                        "silver_era"
                     ]
                 },
                 "model": {
@@ -111,6 +138,9 @@
                 "when": {
                     "floats": [
                         110
+                    ],
+                    "strings": [
+                        "silver_string"
                     ]
                 },
                 "model": {
@@ -122,6 +152,9 @@
                 "when": {
                     "floats": [
                         111
+                    ],
+                    "strings": [
+                        "filter"
                     ]
                 },
                 "model": {
@@ -133,6 +166,9 @@
                 "when": {
                     "floats": [
                         112
+                    ],
+                    "strings": [
+                        "brass_string"
                     ]
                 },
                 "model": {
@@ -144,6 +180,9 @@
                 "when": {
                     "floats": [
                         113
+                    ],
+                    "strings": [
+                        "bromley_gold"
                     ]
                 },
                 "model": {
