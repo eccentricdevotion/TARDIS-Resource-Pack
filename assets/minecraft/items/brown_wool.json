@@ -27,6 +27,15 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/genetic/cybershade"
                 }
+            },
+            {
+                "when": {
+                    "text": "Wall & floor blocks"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/room/wall_floor"
+                }
             }
         ]
     }
