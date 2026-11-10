@@ -1,7 +1,7 @@
 {
     "model": {
         "type": "minecraft:select",
-        "property": "component",
+        "property": "minecraft:component",
         "component": "minecraft:custom_model_data",
         "fallback": {
             "type": "minecraft:model",

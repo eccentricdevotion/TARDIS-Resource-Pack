@@ -52,6 +52,17 @@
                     "type": "minecraft:model",
                     "model": "tardis:item/lazarus/monster"
                 }
+            },
+            {
+                "when": {
+                    "color": "white",
+                    "text": "Television",
+                    "italic": false
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/lazarus/tv"
+                }
             }
         ]
     }
