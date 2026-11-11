@@ -16,7 +16,7 @@
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/bowtie/bowtie_grey"
+                    "model": "tardis:item/bowtie/bowtie_gray"
                 }
             }
         ]
