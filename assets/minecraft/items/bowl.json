@@ -671,9 +671,9 @@
             {
                 "when": {
                     "text": "",
-					"extra": [
-						"Previous Page"
-					]
+                    "extra": [
+                      "Previous Page"
+                    ]
                 },
                 "model": {
                     "type": "minecraft:model",

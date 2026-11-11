@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/gui/bowl/button_fade"
+    "model": "tardis:item/gui/arrow/button_fade"
   }
 }

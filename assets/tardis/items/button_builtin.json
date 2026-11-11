@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tardis:item/gui/bowl/button_builtin"
+    "model": "tardis:item/gui/arrow/button_builtin"
   }
 }

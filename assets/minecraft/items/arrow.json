@@ -91,6 +91,33 @@
             },
             {
                 "when": {
+                    "text": "Go to custom desktops"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/button_custom"
+                }
+            },
+            {
+                "when": {
+                    "text": "Go to plugin desktops"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/button_builtin"
+                }
+            },
+            {
+                "when": {
+                    "text": "Go to fade desktops"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/gui/arrow/button_fade"
+                }
+            },
+            {
+                "when": {
                     "text": "Go to page 1"
                 },
                 "model": {
