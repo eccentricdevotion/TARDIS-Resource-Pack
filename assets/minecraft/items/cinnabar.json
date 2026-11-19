@@ -32,6 +32,15 @@
             },
             {
                 "when": {
+                    "text": "Clara's Console"
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/seed/hell_bent"
+                }
+            },
+            {
+                "when": {
                     "text": "Hell Bent Console"
                 },
                 "model": {
